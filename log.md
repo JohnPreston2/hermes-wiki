@@ -32,6 +32,18 @@
 - concepts: liquid-staking, restaking, perpetuals, yield-tokenization, ai-agents, agentic-ai, risk-on-off, tvl-tracking
 - comparisons: liquid-staking-vs-restaking, perp-protocols
 - queries: market-signal-2026-05
+## [2026-05-04] schema-v1 | SCHEMA v1 integration — step 1: structure only
+- Nouveau SCHEMA.md posé à la racine (remplace ancien schema informel)
+- Git init + commit baseline: 20182a3 ("pre-schema-v1 baseline")
+- Dossiers créés: sectors/, _pending/
+- Rapport migration: _pending/MIGRATION_SCHEMA_V1.md
+- Pages curées: 7 (toutes avec frontmatter basique)
+- Pages non-curées: 14 fichiers + 14 data files
+- Mapping vers taxonomy: hyperliquid→defi-perps, lido→defi-lst, restaking→defi-restaking
+- Pages hors-taxonomie: hugo-chabot.md (personne), market-signal-2026-05.md (query générique)
+- Docs candidat (cv, lettres, offres): suggéré déplacement vers personal/
+- ETAPES NON FAITES: frontmatter enrichi, 8 skeleton sectors/, index.md mis à jour
+
 ## [2026-05-03] ingest | Daily report 2026-05-03
 - /home/classics2323/wiki/raw/crypto-reports/daily-2026-05-03.md
 - Signal: NEUTRE ⚪ (bull 18 / bear 14, ratio 1.29)
