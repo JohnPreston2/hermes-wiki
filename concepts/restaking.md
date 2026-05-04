@@ -1,11 +1,12 @@
 ---
 title: Restaking
-created: 2026-05-03
-updated: 2026-05-03
+summary: Restake ETH sur EigenLayer pour sécuriser d'autres protocoles, yield supplémentaire
 type: concept
-tags: [restaking, defi, liquid-staking]
-summary: "Restake ETH sur EigenLayer pour sécuriser d'autres protocoles, yield supplémentaire"
-sources: [raw/crypto-reports/daily-2026-05-03.md]
+sectors: [defi-restaking]
+entities: []
+last_curated: 2026-05-04T08:20:20Z
+curation_mode: manual
+sources_count: 0
 ---
 
 # Restaking

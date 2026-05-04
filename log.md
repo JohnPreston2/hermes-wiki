@@ -32,6 +32,19 @@
 - concepts: liquid-staking, restaking, perpetuals, yield-tokenization, ai-agents, agentic-ai, risk-on-off, tvl-tracking
 - comparisons: liquid-staking-vs-restaking, perp-protocols
 - queries: market-signal-2026-05
+## [2026-05-04] schema-v1 | step 2: 12 sectors/ created + frontmatter migrated
+- 12 pages sectors/<tag>.md creees avec frontmatter canonique (type: sector, entities: [], sources_count: 0)
+- Section ## Definition: copie/reformule taxonomie SCHEMA section 1
+- Section ## Protocoles cles: vide (pour sector_curator.py)
+- Section ## Metriques de sante: vide (pour sector_curator.py)
+- Section ## Narratifs en cours: vide
+- Section ## Evenements recents: vide
+- entities[] mis a jour: defi-perps → [[hyperliquid]], defi-lst → [[lido]], defi-restaking → []
+- 6 pages existantes migratees: frontmatter canonique (type, sectors, entities, last_curated, curation_mode, sources_count)
+- index.md: section Sectors ajoutee (12 DeFi + AI)
+- SCHEMA: v1.1
+- Pret pour etape 3 (validation en attente)
+
 ## [2026-05-04] schema-v1 | Décisions tranchées + SCHEMA v1.1
 - Fichiers candidat: SUPPRIMÉS (8 fichiers)
 - entities/hugo-chabot.md: SUPPRIMÉ (hors-projet)

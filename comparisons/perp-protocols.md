@@ -1,11 +1,12 @@
 ---
-title: "Comparatif: Protocoles Perpetuals"
-created: 2026-05-03
-updated: 2026-05-03
+title: Comparatif: Protocoles Perpetuals
+summary: Hyperliquid vs dYdX vs GMX vs Drift — volume, UX, décentralisation
 type: comparison
-tags: [perp, defi, comparison]
-summary: "Hyperliquid vs dYdX vs GMX vs Drift — volume, UX, décentralisation"
-sources: [raw/crypto-reports/daily-2026-05-03.md]
+sectors: [defi-perps]
+entities: []
+last_curated: 2026-05-04T08:20:20Z
+curation_mode: manual
+sources_count: 0
 ---
 
 # Comparatif: Protocoles Perpetuals

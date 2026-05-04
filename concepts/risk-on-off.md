@@ -1,11 +1,12 @@
 ---
 title: Risk On / Risk Off
-created: 2026-05-03
-updated: 2026-05-03
+summary: Signal macro: Risk ON = appetit risque, prix naik / Risk OFF = fuite risque, prix turun
 type: concept
-tags: [market-signal, defi, ai-agent]
-summary: "Signal macro: Risk ON = appetit risque, prix naik / Risk OFF = fuite risque, prix turun"
-sources: [raw/crypto-reports/daily-2026-05-03.md]
+sectors: []
+entities: []
+last_curated: 2026-05-04T08:20:20Z
+curation_mode: manual
+sources_count: 0
 ---
 
 # Risk On / Risk Off

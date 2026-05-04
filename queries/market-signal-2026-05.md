@@ -1,11 +1,12 @@
 ---
-title: "Market Signal — 2026-05"
-created: 2026-05-03 12:30 UTC
-updated: 2026-05-03 12:30 UTC
+title: Market Signal — 2026-05
+summary: Signal NEUTRE ⚪, bull 18 / bear 14, ratio 1.29
 type: query
-tags: [market-signal]
-summary: "Signal NEUTRE ⚪, bull 18 / bear 14, ratio 1.29"
-sources: []
+sectors: []
+entities: []
+last_curated: 2026-05-04T08:20:20Z
+curation_mode: manual
+sources_count: 0
 ---
 
 # Market Signal — 2026-05
