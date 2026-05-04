@@ -1,12 +1,13 @@
 ---
-title: Market Signal — 2026-05
-summary: Signal NEUTRE ⚪, bull 18 / bear 14, ratio 1.29
 type: query
 sectors: []
-entities: []
-last_curated: 2026-05-04T08:20:20Z
+entities:
+  - [[hyperliquid]]
+  - [[lido]]
+last_curated: 2026-05-04T08:03:19+00:00
 curation_mode: manual
 sources_count: 0
+last_schema_migrated: 2026-05-04T08:20:20Z
 ---
 
 # Market Signal — 2026-05

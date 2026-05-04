@@ -5,6 +5,7 @@ entities: []
 last_curated: 2026-05-04T08:20:20Z
 curation_mode: auto
 sources_count: 0
+last_schema_migrated: 2026-05-04T08:20:20Z
 ---
 
 # Yield aggregation

@@ -1,10 +1,12 @@
 ---
 type: sector
 sectors: [defi-lst]
-entities: [[lido]]
+entities:
+  - [[lido]]
 last_curated: 2026-05-04T08:20:20Z
 curation_mode: auto
 sources_count: 0
+last_schema_migrated: 2026-05-04T08:20:20Z
 ---
 
 # Liquid staking

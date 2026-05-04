@@ -1,12 +1,12 @@
 ---
-title: Risk On / Risk Off
-summary: Signal macro: Risk ON = appetit risque, prix naik / Risk OFF = fuite risque, prix turun
 type: concept
 sectors: []
-entities: []
-last_curated: 2026-05-04T08:20:20Z
+entities:
+  - [[hyperliquid]]
+last_curated: 2026-05-04T08:03:19+00:00
 curation_mode: manual
 sources_count: 0
+last_schema_migrated: 2026-05-04T08:20:20Z
 ---
 
 # Risk On / Risk Off

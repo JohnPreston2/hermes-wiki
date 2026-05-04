@@ -1,12 +1,11 @@
 ---
-title: Hyperliquid
-summary: DEX perpetuals #1 par volume, Layer Arbitrum, TVL $4.6B, token $HYPE, airdrop 2024
 type: entity
 sectors: [defi-perps]
 entities: []
-last_curated: 2026-05-04T08:20:20Z
+last_curated: 2026-05-04T08:03:19+00:00
 curation_mode: auto
 sources_count: 0
+last_schema_migrated: 2026-05-04T08:20:20Z
 ---
 
 # Hyperliquid

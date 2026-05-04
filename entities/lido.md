@@ -1,12 +1,11 @@
 ---
-title: Lido
-summary: Liquid staking ETH #1, TVL $21B, stETH, 28% ETH staké
 type: entity
 sectors: [defi-lst]
 entities: []
-last_curated: 2026-05-04T08:20:20Z
+last_curated: 2026-05-04T08:03:19+00:00
 curation_mode: auto
 sources_count: 0
+last_schema_migrated: 2026-05-04T08:20:20Z
 ---
 
 # Lido

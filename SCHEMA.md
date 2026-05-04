@@ -86,12 +86,28 @@ Un nouveau sous-secteur ne peut être ajouté que si **≥3 protocoles distincts
 ---
 type: entity | sector | concept | comparison | query
 sectors: [defi-perps, defi-lending]   # tags de la taxonomie
-entities: [[hyperliquid]], [[aave]]    # wikilinks
-last_curated: 2026-05-04T08:00:00Z
+entities:                              # wikilinks des entities citées dans le corps
+  - [[hyperliquid]]                     #   (voir règle ci-dessous)
+  - [[lido]]
+last_curated: 2026-05-04T08:00:00Z    # dernière curation du CONTENU
+last_schema_migrated: 2026-05-04T08:00:00Z  # dernière migration de STRUCTURE
 curation_mode: auto | proposed | manual
-sources_count: 12                       # nombre d'articles agrégés
+sources_count: 12                     # nombre d'articles agrégés
 ---
 ```
+
+**Règle pour le champ `entities` :**
+- Sur les pages de type `entity` : **toujours vide (`entities: []`)** — une entity ne se référence pas elle-même.
+- Sur les autres types (`concept`, `comparison`, `query`, `sector`) : liste les wikilinks des entities mentionnées dans le corps **qui ont déjà leur page dans `entities/`**. Ne pas créer de lien vers une page inexistante.
+- En YAML, les listes se rédigent en format multi-ligne :
+
+  ```yaml
+  entities:
+    - [[hyperliquid]]
+    - [[lido]]
+  ```
+
+  ou inline pour 1 item : `entities: [[hyperliquid]]` (inline `[]` non utilisé pour les wikilinks).
 
 ### Taxonomie et transversalité
 
@@ -192,5 +208,6 @@ L'humain lit `log.md` en début de session pour s'orienter. C'est l'interface pr
 
 ## 7. Versions du schema
 
+- v1.2 — 2026-05-04 — correctifs step2 : last_curated (timestamp contenu), last_schema_migrated (timestamp migration structure), sémantique entities[] (entity=[]auto, autres=wikilinks curées), documentation YAML multiline
 - v1.1 — 2026-05-04 — clarification transversalité : concepts/ et queries/ peuvent avoir sectors: [] ; suppression hugo-chabot (hors-projet)
 - v1 — 2026-05-04 — schema v1 (Hugo)

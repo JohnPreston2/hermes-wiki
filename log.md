@@ -32,6 +32,13 @@
 - concepts: liquid-staking, restaking, perpetuals, yield-tokenization, ai-agents, agentic-ai, risk-on-off, tvl-tracking
 - comparisons: liquid-staking-vs-restaking, perp-protocols
 - queries: market-signal-2026-05
+## [2026-05-04] schema-v1 | step 2-fix: correctifs last_curated, entities[], last_schema_migrated, SCHEMA v1.2
+- last_curated corrige: timestamp du dernier commit de contenu (2026-05-04T08:03:19+00:00), pas timestamp step2
+- last_schema_migrated ajoute sur les 18 fichiers (6 migrés + 12 sectors)
+- entities[] corrige: restaking → [[hyperliquid]], [[lido]], risk-on-off → [[hyperliquid]], perp-protocols → [[hyperliquid]], market-signal → [[hyperliquid]], [[lido]], entity pages → []
+- SCHEMA.md v1.2: documentation last_schema_migrated, regle entities[], YAML multiline, version bumped
+- Pret pour etape 3 (sector_curator.py)
+
 ## [2026-05-04] schema-v1 | step 2: 12 sectors/ created + frontmatter migrated
 - 12 pages sectors/<tag>.md creees avec frontmatter canonique (type: sector, entities: [], sources_count: 0)
 - Section ## Definition: copie/reformule taxonomie SCHEMA section 1
