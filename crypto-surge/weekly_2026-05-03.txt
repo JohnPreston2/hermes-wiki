@@ -1,0 +1,82 @@
+═══════════════════════════════════════════════════════
+ ANALYSE HEBDOMADAIRE — 7 derniers jours
+ 03 May 2026 11:49 UTC
+═══════════════════════════════════════════════════════
+
+📊 VOLUME: 61 articles ingeres
+
+━━━ SENTIMENT GLOBAL ━━━━━━━━━━━━━━━━━━━━━━━━
+  🟢 Bullish   30%  █████████
+  🔴 Bearish   23%  ██████
+  ⚪ Neutral   48%  ███████████████
+  Ratio bull/bear: 1.29
+
+━━━ EVOLUTION JOURNALIERE ━━━━━━━━━━━━━━━━━━━
+  Sun 03/05  ⚪ NEUTRE      (61 art)
+
+━━━ PROTOCOLES LES PLUS MENTIONNES ━━━━━━━━━━━
+  tether          (?           )   4 ████
+  solana          (Solana      )   2 ██
+  coinbase        (?           )   2 ██
+  polygon         (Polygon     )   1 █
+  kelpdao         (?           )   1 █
+  hyperliquid     (?           )   1 █
+  gains           (?           )   1 █
+  drift           (?           )   1 █
+  arbitrum        (Ethereum L2 )   1 █
+
+━━━ THEMATIQUES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🤖 ai_agent        17
+  🪙 stablecoin      13
+  🤝 partnership     12
+  📰 news            12
+  ₿ btc_fi          11
+  ⚠️ regulatory      10
+  🏛️ institutional   10
+  📈 yield           7
+  🚀 listing         7
+  🏷️ upgrade         6
+  💀 exploit         4
+  🎁 airdrop         1
+
+━━━ MONTANTS FINANCIERS MENTIONNES ━━━━━━━━━━━
+  💰 $8.2B — Tether Prints $1 Billion Q1 Profit, But Its $8.23 Billion Wa...
+       [BeInCrypto]
+  💰 $5.0B — Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “C...
+       [Decrypt]
+  💰 $4.0B — Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “C...
+       [Decrypt]
+  💰 $1.0B — Tether Prints $1 Billion Q1 Profit, But Its $8.23 Billion Wa...
+       [BeInCrypto]
+  💰 $285M — DeFi protocol Carrot becomes first casualty of $285M Drift e...
+       [CoinTelegraph]
+  💰 $84M — Bitcoin rally extends, yet BTC options price only 25% chance...
+       [CoinTelegraph]
+  💰 $77M — Bitcoin’s surge to $77K pressures shorts, but absent spot an...
+       [CoinTelegraph]
+  💰 $71M — Arbitrum’s KelpDAO Freeze Backfires as US Court Blocks $71 M...
+       [BeInCrypto]
+  💰 $20M — Gency AI raises $20 million to build a sovereign advertising...
+       [CoinTelegraph]
+  💰 $7M — Tether Stakeholder Gave Farage Undisclosed $6.7M Gift Amid R...
+       [Decrypt]
+
+━━━ SOURCES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Decrypt               27 art (44%)
+  CoinTelegraph         12 art (20%)
+  BeInCrypto            10 art (16%)
+  CryptoSlate            8 art (13%)
+  Bitcoin Magazine       4 art (7%)
+
+━━━ REPARTITION AI / DEFI ━━━━━━━━━━━━━━━━━━━━━
+  🤖 AI:     17 articles (28%)
+  📦 DeFi:  9 articles (15%)
+
+━━━ HIGHLIGHTS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  💀 INCIDENTS: 4 article(s) sur exploit/hack
+  ⚠️ REGLEMENTAIRE: 10 article(s) reglementaires
+  🎁 AIRDROPS: 1 article(s) airdrop
+  🏛️ INSTITUTIONNEL: 10 article(s) institutionnels
+
+━━━ SUJETS RECURRENTS ━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

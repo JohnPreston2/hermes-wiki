@@ -1,0 +1,473 @@
+{
+  "surge_timestamp": "2026-05-03T08:00:52.766355",
+  "total_articles": 169,
+  "defi_count": 33,
+  "ai_count": 32,
+  "defi": {
+    "perp": [
+      {
+        "id": "123",
+        "title": "First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation!",
+        "url": "https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip-btc-at-92k-morgan-stanley-file-for-btc-eth-sol-etfs-hyperliquid-airdrop-speculation",
+        "blog": "Decrypt",
+        "categories": ""
+      },
+      {
+        "id": "58",
+        "title": "Bitcoin risks extended retreat as April rally was futures-driven: CryptoQuant",
+        "url": "https://cointelegraph.com/news/bitcoin-risks-decline-rally-speculative-not-structural-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": "Latest News"
+      }
+    ],
+    "lending": [
+      {
+        "id": "163",
+        "title": "Arbitrum’s KelpDAO Freeze Backfires as US Court Blocks $71 Million Recovery",
+        "url": "https://beincrypto.com/arbitrum-kelpdao-court-order-freeze-recovery/",
+        "blog": "BeInCrypto",
+        "categories": "DeFi, Aave News, Arbitrum (ARB) News, DeFi News, Editor's Pick, Hack Attack"
+      },
+      {
+        "id": "107",
+        "title": "Galoy Pushes Deeper Into U.S. Banking With All-in-One Bitcoin Platform",
+        "url": "https://bitcoinmagazine.com/news/galoy-pushes-deeper-into-u-s-banking",
+        "blog": "Bitcoin Magazine",
+        "categories": "NEWS, Bank, Bitcoin, Bitcoin-backed lending, Lending"
+      },
+      {
+        "id": "91",
+        "title": "Coinbase’s new credit fund shows why banks are fighting stablecoin yield on the Clarity Act",
+        "url": "https://cryptoslate.com/coinbases-new-fund-shows-why-banks-are-fighting-stablecoin-yield-on-the-clarity-act/",
+        "blog": "CryptoSlate",
+        "categories": "Adoption, Banking, Enterprise, Exchanges, Featured, Legislation, Stablecoins"
+      },
+      {
+        "id": "78",
+        "title": "Strike CEO Jack Mallers Announces Lending Proof-of-Reserves, Volatility-Proof Loans, and Backs Tether Merger Plan",
+        "url": "https://bitcoinmagazine.com/news/strike-ceo-jack-mallers-bitcoin-conference",
+        "blog": "Bitcoin Magazine",
+        "categories": "NEWS, jack mallers, Mallers, Strike, Tether"
+      },
+      {
+        "id": "83",
+        "title": "Bitcoin-Backed Loans Are Unlocking Homeownership for an Entire New Generation",
+        "url": "https://bitcoinmagazine.com/news/how-bitcoin-backed-loans-homeownership",
+        "blog": "Bitcoin Magazine",
+        "categories": "NEWS, Bitcoin Lending, Bitcoin-Backed Mortgage, Lending, Mortgages"
+      }
+    ],
+    "banking": [
+      {
+        "id": "167",
+        "title": "a16z Calls “Stablecoin” a Leftover Word From Crypto’s Volatile Past",
+        "url": "https://beincrypto.com/a16z-crypto-stablecoin-term-leftover-word/",
+        "blog": "BeInCrypto",
+        "categories": "Markets, Editor's Pick, Stablecoin News, Tether (USDT) News, USDC News"
+      },
+      {
+        "id": "155",
+        "title": "The GENIUS Act opened the door for stablecoins, but regulators want to narrow it",
+        "url": "https://cryptoslate.com/the-genius-act-opened-the-door-for-stablecoins-but-regulators-want-to-narrow-it/",
+        "blog": "CryptoSlate",
+        "categories": "Analysis, Featured, Regulation, Stablecoins, FDIC, GENIUS Act, occ, stablecoin adoption, stablecoins, Treasury, USDC, USDT"
+      },
+      {
+        "id": "149",
+        "title": "Coinbase Backs CLARITY Act Compromise Banning Passive Stablecoin Yield",
+        "url": "https://beincrypto.com/coinbase-backs-clarity-act-compromise/",
+        "blog": "BeInCrypto",
+        "categories": "Regulation, CLARITY Act, Coinbase News, Editor's Pick, Stablecoin News"
+      },
+      {
+        "id": "144",
+        "title": "CLARITY Act stablecoin yield rules finalized: ‘Go time’ for crypto bill",
+        "url": "https://cointelegraph.com/news/go-time-after-clarity-act-stablecoin-yield-compromise-finalized?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": "Latest News"
+      },
+      {
+        "id": "102",
+        "title": "MoonPay launches card enabling AI agents to spend stablecoins via Mastercard",
+        "url": "https://cointelegraph.com/news/moonpay-unveils-agent-ready-card-to-let-ai-spend-stablecoins-via-mastercard-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": "Latest News"
+      },
+      {
+        "id": "92",
+        "title": "Visa is quietly building stablecoins into mainstream payment plumbing without you knowing",
+        "url": "https://cryptoslate.com/visa-is-quietly-building-stablecoins-into-mainstream-payment-plumbing-without-you-knowing/",
+        "blog": "CryptoSlate",
+        "categories": "Banking, Enterprise, Featured, Payments, Stablecoins"
+      },
+      {
+        "id": "94",
+        "title": "US Treasury yields spike to highest levels in a year adding new problem for Bitcoin liquidity",
+        "url": "https://cryptoslate.com/us-treasury-yields-spike-to-highest-levels-in-a-year-adding-new-problem-for-bitcoin-liquidity/",
+        "blog": "CryptoSlate",
+        "categories": "Analysis, Featured, Macro"
+      },
+      {
+        "id": "96",
+        "title": "Meta’s USDC pilot shows how stablecoins could capture billions in creator payouts",
+        "url": "https://cryptoslate.com/metas-usdc-pilot-shows-how-stablecoins-could-capture-billions-in-creator-payouts/",
+        "blog": "CryptoSlate",
+        "categories": "Featured, Payments, Stablecoins"
+      },
+      {
+        "id": "57",
+        "title": "Bakkt completes acquisition of stablecoin payments firm Distributed Technologies Research",
+        "url": "https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": "Latest News"
+      },
+      {
+        "id": "67",
+        "title": "Stablecoins overtake Bitcoin in Latin America crypto purchases: Bitso",
+        "url": "https://cointelegraph.com/news/stablecoins-surpass-bitcoin-latin-america-crypto-purchases-bitso-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": "Latest News"
+      },
+      {
+        "id": "42",
+        "title": "Tether Prints $1 Billion Q1 Profit, But Its $8.23 Billion War Chest Remains Contested",
+        "url": "https://beincrypto.com/tether-q1-2026-profit-buffer/",
+        "blog": "BeInCrypto",
+        "categories": "Businesses, Editor's Pick, Stablecoins, Tether (USDT) News"
+      },
+      {
+        "id": "3",
+        "title": "MoonPay Launches Debit Mastercard That Lets AI Agents Pay With Stablecoins",
+        "url": "https://decrypt.co/366341/moonpay-launches-debit-mastercard-ai-agents-pay-stablecoins",
+        "blog": "Decrypt",
+        "categories": "Artificial Intelligence"
+      },
+      {
+        "id": "29",
+        "title": "Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe",
+        "url": "https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe",
+        "blog": "Decrypt",
+        "categories": ", , Business"
+      }
+    ],
+    "other": [
+      {
+        "id": "164",
+        "title": "Canada wants to ban crypto ATMs as fraud fears turn Bitcoin access into a political target",
+        "url": "https://cryptoslate.com/canada-wants-to-ban-crypto-atms-as-fraud-fears-turn-bitcoin-access-into-a-political-target/",
+        "blog": "CryptoSlate",
+        "categories": "Adoption, Crime, Featured, ban, bitcoin atms, canada, Crypto ATMs, FINTRAC, ottawa"
+      },
+      {
+        "id": "146",
+        "title": "Solana Trading Bot Turns 20 cents Into $1.32 Million on Ant Blockchain",
+        "url": "https://beincrypto.com/solana-bot-shocking-trade-ant-blockchain/",
+        "blog": "BeInCrypto",
+        "categories": "DeFi, DeFi News, Editor's Pick, Solana (SOL) News"
+      },
+      {
+        "id": "143",
+        "title": "Bitcoin rally extends, yet BTC options price only 25% chance of $84K in May",
+        "url": "https://cointelegraph.com/markets/bitcoin-rally-extends-yet-btc-options-price-only-25-chance-of-84k-in-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": "Markets"
+      },
+      {
+        "id": "110",
+        "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
+        "url": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
+        "blog": "Decrypt",
+        "categories": ""
+      },
+      {
+        "id": "88",
+        "title": "Someone just drained long-forgotten dormant Ethereum wallets, and the cause may trace back years",
+        "url": "https://cryptoslate.com/someone-drained-long-forgotten-ethereum-wallets-and-the-cause-may-trace-back-years/",
+        "blog": "CryptoSlate",
+        "categories": "DeFi, Featured, Hacks, Market, Wallets"
+      },
+      {
+        "id": "93",
+        "title": "Crypto is the most “muted” term on X as public splits between believers and avoiders",
+        "url": "https://cryptoslate.com/crypto-is-the-most-muted-term-on-x-as-public-splits-between-believers-and-avoiders/",
+        "blog": "CryptoSlate",
+        "categories": "Adoption, Community, Culture, Featured"
+      },
+      {
+        "id": "82",
+        "title": "Eric Trump, John Koudounis Call Bitcoin a Global Reserve Asset, Float $1M Price Target",
+        "url": "https://bitcoinmagazine.com/news/eric-trump-john-koudounis-bitcoin-asset",
+        "blog": "Bitcoin Magazine",
+        "categories": "NEWS, Adoption, America Bitcoin, Bitcoin, calamos, Eric Trump"
+      },
+      {
+        "id": "50",
+        "title": "DeFi can freeze stolen funds, but not everyone agrees it should",
+        "url": "https://cointelegraph.com/features/defi-freeze-stolen-funds-everyone-agrees-it-should?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": "Features"
+      },
+      {
+        "id": "60",
+        "title": "DeFi protocol Carrot becomes first casualty of $285M Drift exploit",
+        "url": "https://cointelegraph.com/news/defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": "Latest News"
+      },
+      {
+        "id": "61",
+        "title": "Bitcoin’s surge to $77K pressures shorts, but absent spot and long leverage caps rallies",
+        "url": "https://cointelegraph.com/markets/bitcoins-surge-through-77k-pressures-shorts-but-absent-spot-and-long-leverage-cap-rallies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": "Markets"
+      },
+      {
+        "id": "70",
+        "title": "Sentora brings institutional DeFi to the public with the launch of its Smart Yield platform",
+        "url": "https://cointelegraph.com/press-releases/sentora-brings-institutional-defi-to-the-public-with-the-launch-of-its-smart-yield-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": "Press Releases"
+      },
+      {
+        "id": "21",
+        "title": "MegaETH Token Launches as Ethereum Layer-2 Network's Novel Rewards System Is Tested",
+        "url": "https://decrypt.co/366164/megaeth-token-launches-ethereum-layer-2-novel-rewards-system",
+        "blog": "Decrypt",
+        "categories": ", Coins"
+      },
+      {
+        "id": "34",
+        "title": "Tether Stakeholder Gave Farage Undisclosed $6.7M Gift Amid Reform UK Crypto Funding Scrutiny",
+        "url": "https://decrypt.co/365990/tether-farage-undisclosed-gift-reform-uk-crypto-funding",
+        "blog": "Decrypt",
+        "categories": ", Law and Order"
+      }
+    ]
+  },
+  "ai": [
+    {
+      "id": "166",
+      "title": "Greg Abel Reveals Berkshire’s ‘Narrow AI’ Direction After Buffett Retirement",
+      "url": "https://beincrypto.com/berkshire-ai-direction-abel-buffett-retirement/",
+      "blog": "BeInCrypto",
+      "categories": "Institutional, AI News, Editor's Pick"
+    },
+    {
+      "id": "157",
+      "title": "OpenAI GPT Image 2 vs Google Nano Banana 2: Which AI Image Generator Is Best?",
+      "url": "https://decrypt.co/366408/openai-gpt-image-2-vs-google-nano-banana-2-review",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "158",
+      "title": "Oscars Ban AI Performances and Screenplays From Eligibility",
+      "url": "https://decrypt.co/366405/oscars-ban-ai-performances-screenplays-eligibility",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "145",
+      "title": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough",
+      "url": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "136",
+      "title": "Gency AI raises $20 million to build a sovereign advertising network powered by AI and blockchain consensus",
+      "url": "https://cointelegraph.com/press-releases/gency-ai-raises-20-million-to-build-a-sovereign-advertising-network-powered-by-ai-and-blockchain-consensus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "blog": "CoinTelegraph",
+      "categories": "Press Releases"
+    },
+    {
+      "id": "130",
+      "title": "AI Art Is Getting Creepy: Robot Dogs With Musk and Bezos Faces Take Over Berlin Gallery",
+      "url": "https://beincrypto.com/ai-art-musk-bezos-robot-dogs-berlin-gallery/",
+      "blog": "BeInCrypto",
+      "categories": "Markets, AI News, Editor's Pick, NFT Art, NFT News"
+    },
+    {
+      "id": "109",
+      "title": "Minnesota Moves to Ban AI Apps That Generate Fake Nude Images",
+      "url": "https://decrypt.co/366388/minnesota-moves-ban-ai-apps-generate-fake-nude-images",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "114",
+      "title": "Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta!",
+      "url": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
+      "blog": "Decrypt",
+      "categories": ""
+    },
+    {
+      "id": "102",
+      "title": "MoonPay launches card enabling AI agents to spend stablecoins via Mastercard",
+      "url": "https://cointelegraph.com/news/moonpay-unveils-agent-ready-card-to-let-ai-spend-stablecoins-via-mastercard-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "blog": "CoinTelegraph",
+      "categories": "Latest News"
+    },
+    {
+      "id": "99",
+      "title": "Doctors Use AI to Spot 'Hidden' Sperm In Men",
+      "url": "https://decrypt.co/366374/doctors-ai-hidden-sperm-men-study",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "100",
+      "title": "OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute",
+      "url": "https://decrypt.co/366371/openais-gpt-55-matches-claude-mythos-cyberattack-ai-security-institute",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "101",
+      "title": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX",
+      "url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
+      "blog": "Decrypt",
+      "categories": "Law and Order"
+    },
+    {
+      "id": "61",
+      "title": "Bitcoin’s surge to $77K pressures shorts, but absent spot and long leverage caps rallies",
+      "url": "https://cointelegraph.com/markets/bitcoins-surge-through-77k-pressures-shorts-but-absent-spot-and-long-leverage-cap-rallies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "blog": "CoinTelegraph",
+      "categories": "Markets"
+    },
+    {
+      "id": "65",
+      "title": "Tether-backed Oobit rolls out virtual Visa cards for AI agent USDT spending",
+      "url": "https://cointelegraph.com/news/tether-backed-oobit-rolls-out-virtual-visa-cards-for-ai-agent-usdt-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "blog": "CoinTelegraph",
+      "categories": "Latest News"
+    },
+    {
+      "id": "40",
+      "title": "US Department of War Signs AI Agreements With 7 Top Tech Companies",
+      "url": "https://beincrypto.com/department-of-war-ai-agreements/",
+      "blog": "BeInCrypto",
+      "categories": "Technology, AI Companies, AI News, Editor's Pick, Trump News"
+    },
+    {
+      "id": "44",
+      "title": "CEO Sundar Pichai Finally Reveals Google’s AI Direction",
+      "url": "https://beincrypto.com/sundar-pichai-personalized-ai-agents/",
+      "blog": "BeInCrypto",
+      "categories": "Technology, AI Companies, AI News, AI Technology Trends, Editor's Pick"
+    },
+    {
+      "id": "45",
+      "title": "Apple Is Using Claude Inside the Company Workflow, Leaked Documents Show",
+      "url": "https://beincrypto.com/apple-claude-code-ai-internal-leak/",
+      "blog": "BeInCrypto",
+      "categories": "Technology, AI Basics, AI Technology Trends, Editor's Pick"
+    },
+    {
+      "id": "3",
+      "title": "MoonPay Launches Debit Mastercard That Lets AI Agents Pay With Stablecoins",
+      "url": "https://decrypt.co/366341/moonpay-launches-debit-mastercard-ai-agents-pay-stablecoins",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "10",
+      "title": "Mistral AI Drops New Open-Source Model. The Internet Is Not Impressed, Except for One Thing",
+      "url": "https://decrypt.co/366275/mistral-ai-open-source-model-agents-internet-not-impressed",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "11",
+      "title": "Elon Musk Says xAI Used OpenAI Models to Train Grok",
+      "url": "https://decrypt.co/366274/elon-musk-xai-used-openai-models-train-grok",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "13",
+      "title": "OpenAI Rolls Out Advanced Account Security for ChatGPT Users",
+      "url": "https://decrypt.co/366262/openai-advanced-account-security-chatgpt-users",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "14",
+      "title": "Ubuntu Linux Is Adding AI Features—Its Users Are Worried",
+      "url": "https://decrypt.co/366247/ubuntu-linux-adding-ai-features-users-worried",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "17",
+      "title": "OpenAI Finally Explains Why ChatGPT Wouldn't Stop Talking About Goblins",
+      "url": "https://decrypt.co/366197/openai-explains-chatgpt-mention-goblins",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "18",
+      "title": "Agentic Memory: Walrus Takes On AI's Next Big Bottleneck",
+      "url": "https://decrypt.co/365834/agentic-memory-walrus-takes-on-ais-next-big-bottleneck",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "23",
+      "title": "Gemini Gains Key CFTC Approval to Expand Prediction Market, Perps Offerings",
+      "url": "https://decrypt.co/366159/gemini-cftc-approval-expand-prediction-market-perps-offerings",
+      "blog": "Decrypt",
+      "categories": "Law and Order"
+    },
+    {
+      "id": "25",
+      "title": "Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating",
+      "url": "https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates",
+      "blog": "Decrypt",
+      "categories": "Business"
+    },
+    {
+      "id": "26",
+      "title": "Labor Department Launches AI Apprenticeship Portal as Trump Admin Continues AI Policy Push",
+      "url": "https://decrypt.co/366097/labor-department-ai-apprenticeship-portal",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "27",
+      "title": "Mayo Clinic Says AI Can Detect Pancreatic Cancer Years Before Human Doctors",
+      "url": "https://decrypt.co/366095/mayo-clinic-says-ai-can-detect-pancreatic-cancer-years-before-human-doctors",
+      "blog": "Decrypt",
+      "categories": "Health"
+    },
+    {
+      "id": "31",
+      "title": "This AI Was Trained Only on Pre-1930 Text. We Asked It About Hitler, Stocks, and the Future",
+      "url": "https://decrypt.co/366015/talkie-1930-ai-model-pre-1931-training-hitler-stocks",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "32",
+      "title": "White House Weighs Reinstating Anthropic for Federal Use Amid Pentagon Fight: Report",
+      "url": "https://decrypt.co/366010/white-house-weighs-reinstating-anthropic-federal-use",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    },
+    {
+      "id": "34",
+      "title": "Tether Stakeholder Gave Farage Undisclosed $6.7M Gift Amid Reform UK Crypto Funding Scrutiny",
+      "url": "https://decrypt.co/365990/tether-farage-undisclosed-gift-reform-uk-crypto-funding",
+      "blog": "Decrypt",
+      "categories": ", Law and Order"
+    },
+    {
+      "id": "35",
+      "title": "OpenAI Sued Over Failure to Warn Police Before Tumbler Ridge Mass Shooting",
+      "url": "https://decrypt.co/365986/openai-sued-failure-warn-police-tumbler-ridge-mass-shooting",
+      "blog": "Decrypt",
+      "categories": "Artificial Intelligence"
+    }
+  ]
+}

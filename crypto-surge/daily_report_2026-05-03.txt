@@ -1,0 +1,140 @@
+
+═══════════════════════════════════════
+ RAPPORT DeFi + AI — Sunday 03 May 2026 10:31
+═══════════════════════════════════════
+Surge compiles: 2 | 61 articles (deduplication active)
+
+━━━ PERP / LEVERAGED ━━━━━━━━━━━━━━━━
+  • [Decrypt] First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation!
+    https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip-btc-at-92k-morgan-stanley-file-for-btc-eth-sol-etfs-hyperliquid-airdrop-speculation
+  • [CoinTelegraph] Bitcoin risks extended retreat as April rally was futures-driven: CryptoQuant
+    https://cointelegraph.com/news/bitcoin-risks-decline-rally-speculative-not-structural-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+━━━ LENDING / BORROWING ━━━━━━━━━━━━━
+  • [BeInCrypto] Arbitrum’s KelpDAO Freeze Backfires as US Court Blocks $71 Million Recovery
+    https://beincrypto.com/arbitrum-kelpdao-court-order-freeze-recovery/
+  • [Bitcoin Magazine] Galoy Pushes Deeper Into U.S. Banking With All-in-One Bitcoin Platform
+    https://bitcoinmagazine.com/news/galoy-pushes-deeper-into-u-s-banking
+  • [CryptoSlate] Coinbase’s new credit fund shows why banks are fighting stablecoin yield on the Clarity Act
+    https://cryptoslate.com/coinbases-new-fund-shows-why-banks-are-fighting-stablecoin-yield-on-the-clarity-act/
+  • [Bitcoin Magazine] Strike CEO Jack Mallers Announces Lending Proof-of-Reserves, Volatility-Proof Loans, and Backs Tether Merger Plan
+    https://bitcoinmagazine.com/news/strike-ceo-jack-mallers-bitcoin-conference
+  • [Bitcoin Magazine] Bitcoin-Backed Loans Are Unlocking Homeownership for an Entire New Generation
+    https://bitcoinmagazine.com/news/how-bitcoin-backed-loans-homeownership
+
+━━━ BANKING / STABLECOINS ━━━━━━━━━━
+  • [BeInCrypto] a16z Calls “Stablecoin” a Leftover Word From Crypto’s Volatile Past
+    https://beincrypto.com/a16z-crypto-stablecoin-term-leftover-word/
+  • [CryptoSlate] The GENIUS Act opened the door for stablecoins, but regulators want to narrow it
+    https://cryptoslate.com/the-genius-act-opened-the-door-for-stablecoins-but-regulators-want-to-narrow-it/
+  • [BeInCrypto] Coinbase Backs CLARITY Act Compromise Banning Passive Stablecoin Yield
+    https://beincrypto.com/coinbase-backs-clarity-act-compromise/
+  • [CoinTelegraph] CLARITY Act stablecoin yield rules finalized: ‘Go time’ for crypto bill
+    https://cointelegraph.com/news/go-time-after-clarity-act-stablecoin-yield-compromise-finalized?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  • [CoinTelegraph] MoonPay launches card enabling AI agents to spend stablecoins via Mastercard
+    https://cointelegraph.com/news/moonpay-unveils-agent-ready-card-to-let-ai-spend-stablecoins-via-mastercard-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  • [CryptoSlate] Visa is quietly building stablecoins into mainstream payment plumbing without you knowing
+    https://cryptoslate.com/visa-is-quietly-building-stablecoins-into-mainstream-payment-plumbing-without-you-knowing/
+  • [CryptoSlate] US Treasury yields spike to highest levels in a year adding new problem for Bitcoin liquidity
+    https://cryptoslate.com/us-treasury-yields-spike-to-highest-levels-in-a-year-adding-new-problem-for-bitcoin-liquidity/
+  • [CryptoSlate] Meta’s USDC pilot shows how stablecoins could capture billions in creator payouts
+    https://cryptoslate.com/metas-usdc-pilot-shows-how-stablecoins-could-capture-billions-in-creator-payouts/
+  • [CoinTelegraph] Bakkt completes acquisition of stablecoin payments firm Distributed Technologies Research
+    https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  • [CoinTelegraph] Stablecoins overtake Bitcoin in Latin America crypto purchases: Bitso
+    https://cointelegraph.com/news/stablecoins-surpass-bitcoin-latin-america-crypto-purchases-bitso-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  • [BeInCrypto] Tether Prints $1 Billion Q1 Profit, But Its $8.23 Billion War Chest Remains Contested
+    https://beincrypto.com/tether-q1-2026-profit-buffer/
+  • [Decrypt] MoonPay Launches Debit Mastercard That Lets AI Agents Pay With Stablecoins
+    https://decrypt.co/366341/moonpay-launches-debit-mastercard-ai-agents-pay-stablecoins
+  • [Decrypt] Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe
+    https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe
+
+━━━ DEFI — AUTRES ━━━━━━━━━━━━━━━━━━━
+  • [CryptoSlate] Canada wants to ban crypto ATMs as fraud fears turn Bitcoin access into a political target
+    https://cryptoslate.com/canada-wants-to-ban-crypto-atms-as-fraud-fears-turn-bitcoin-access-into-a-political-target/
+  • [BeInCrypto] Solana Trading Bot Turns 20 cents Into $1.32 Million on Ant Blockchain
+    https://beincrypto.com/solana-bot-shocking-trade-ant-blockchain/
+  • [CoinTelegraph] Bitcoin rally extends, yet BTC options price only 25% chance of $84K in May
+    https://cointelegraph.com/markets/bitcoin-rally-extends-yet-btc-options-price-only-25-chance-of-84k-in-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  • [Decrypt] Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!
+    https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc
+  • [CryptoSlate] Someone just drained long-forgotten dormant Ethereum wallets, and the cause may trace back years
+    https://cryptoslate.com/someone-drained-long-forgotten-ethereum-wallets-and-the-cause-may-trace-back-years/
+  • [CryptoSlate] Crypto is the most “muted” term on X as public splits between believers and avoiders
+    https://cryptoslate.com/crypto-is-the-most-muted-term-on-x-as-public-splits-between-believers-and-avoiders/
+  • [Bitcoin Magazine] Eric Trump, John Koudounis Call Bitcoin a Global Reserve Asset, Float $1M Price Target
+    https://bitcoinmagazine.com/news/eric-trump-john-koudounis-bitcoin-asset
+  • [CoinTelegraph] DeFi can freeze stolen funds, but not everyone agrees it should
+    https://cointelegraph.com/features/defi-freeze-stolen-funds-everyone-agrees-it-should?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  • [CoinTelegraph] DeFi protocol Carrot becomes first casualty of $285M Drift exploit
+    https://cointelegraph.com/news/defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  • [CoinTelegraph] Bitcoin’s surge to $77K pressures shorts, but absent spot and long leverage caps rallies
+    https://cointelegraph.com/markets/bitcoins-surge-through-77k-pressures-shorts-but-absent-spot-and-long-leverage-cap-rallies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  • [CoinTelegraph] Sentora brings institutional DeFi to the public with the launch of its Smart Yield platform
+    https://cointelegraph.com/press-releases/sentora-brings-institutional-defi-to-the-public-with-the-launch-of-its-smart-yield-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  • [Decrypt] MegaETH Token Launches as Ethereum Layer-2 Network's Novel Rewards System Is Tested
+    https://decrypt.co/366164/megaeth-token-launches-ethereum-layer-2-novel-rewards-system
+  • [Decrypt] Tether Stakeholder Gave Farage Undisclosed $6.7M Gift Amid Reform UK Crypto Funding Scrutiny
+    https://decrypt.co/365990/tether-farage-undisclosed-gift-reform-uk-crypto-funding
+
+━━━ AI ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  • [BeInCrypto] Greg Abel Reveals Berkshire’s ‘Narrow AI’ Direction After Buffett Retirement
+    https://beincrypto.com/berkshire-ai-direction-abel-buffett-retirement/
+  • [Decrypt] OpenAI GPT Image 2 vs Google Nano Banana 2: Which AI Image Generator Is Best?
+    https://decrypt.co/366408/openai-gpt-image-2-vs-google-nano-banana-2-review
+  • [Decrypt] Oscars Ban AI Performances and Screenplays From Eligibility
+    https://decrypt.co/366405/oscars-ban-ai-performances-screenplays-eligibility
+  • [Decrypt] OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough
+    https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026
+  • [CoinTelegraph] Gency AI raises $20 million to build a sovereign advertising network powered by AI and blockchain consensus
+    https://cointelegraph.com/press-releases/gency-ai-raises-20-million-to-build-a-sovereign-advertising-network-powered-by-ai-and-blockchain-consensus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  • [BeInCrypto] AI Art Is Getting Creepy: Robot Dogs With Musk and Bezos Faces Take Over Berlin Gallery
+    https://beincrypto.com/ai-art-musk-bezos-robot-dogs-berlin-gallery/
+  • [Decrypt] Minnesota Moves to Ban AI Apps That Generate Fake Nude Images
+    https://decrypt.co/366388/minnesota-moves-ban-ai-apps-generate-fake-nude-images
+  • [Decrypt] Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta!
+    https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta
+  • [Decrypt] Doctors Use AI to Spot 'Hidden' Sperm In Men
+    https://decrypt.co/366374/doctors-ai-hidden-sperm-men-study
+  • [Decrypt] OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute
+    https://decrypt.co/366371/openais-gpt-55-matches-claude-mythos-cyberattack-ai-security-institute
+  • [Decrypt] Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX
+    https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex
+  • [CoinTelegraph] Tether-backed Oobit rolls out virtual Visa cards for AI agent USDT spending
+    https://cointelegraph.com/news/tether-backed-oobit-rolls-out-virtual-visa-cards-for-ai-agent-usdt-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  • [BeInCrypto] US Department of War Signs AI Agreements With 7 Top Tech Companies
+    https://beincrypto.com/department-of-war-ai-agreements/
+  • [BeInCrypto] CEO Sundar Pichai Finally Reveals Google’s AI Direction
+    https://beincrypto.com/sundar-pichai-personalized-ai-agents/
+  • [BeInCrypto] Apple Is Using Claude Inside the Company Workflow, Leaked Documents Show
+    https://beincrypto.com/apple-claude-code-ai-internal-leak/
+  • [Decrypt] Mistral AI Drops New Open-Source Model. The Internet Is Not Impressed, Except for One Thing
+    https://decrypt.co/366275/mistral-ai-open-source-model-agents-internet-not-impressed
+  • [Decrypt] Elon Musk Says xAI Used OpenAI Models to Train Grok
+    https://decrypt.co/366274/elon-musk-xai-used-openai-models-train-grok
+  • [Decrypt] OpenAI Rolls Out Advanced Account Security for ChatGPT Users
+    https://decrypt.co/366262/openai-advanced-account-security-chatgpt-users
+  • [Decrypt] Ubuntu Linux Is Adding AI Features—Its Users Are Worried
+    https://decrypt.co/366247/ubuntu-linux-adding-ai-features-users-worried
+  • [Decrypt] OpenAI Finally Explains Why ChatGPT Wouldn't Stop Talking About Goblins
+    https://decrypt.co/366197/openai-explains-chatgpt-mention-goblins
+  • [Decrypt] Agentic Memory: Walrus Takes On AI's Next Big Bottleneck
+    https://decrypt.co/365834/agentic-memory-walrus-takes-on-ais-next-big-bottleneck
+  • [Decrypt] Gemini Gains Key CFTC Approval to Expand Prediction Market, Perps Offerings
+    https://decrypt.co/366159/gemini-cftc-approval-expand-prediction-market-perps-offerings
+  • [Decrypt] Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating
+    https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates
+  • [Decrypt] Labor Department Launches AI Apprenticeship Portal as Trump Admin Continues AI Policy Push
+    https://decrypt.co/366097/labor-department-ai-apprenticeship-portal
+  • [Decrypt] Mayo Clinic Says AI Can Detect Pancreatic Cancer Years Before Human Doctors
+    https://decrypt.co/366095/mayo-clinic-says-ai-can-detect-pancreatic-cancer-years-before-human-doctors
+  • [Decrypt] This AI Was Trained Only on Pre-1930 Text. We Asked It About Hitler, Stocks, and the Future
+    https://decrypt.co/366015/talkie-1930-ai-model-pre-1931-training-hitler-stocks
+  • [Decrypt] White House Weighs Reinstating Anthropic for Federal Use Amid Pentagon Fight: Report
+    https://decrypt.co/366010/white-house-weighs-reinstating-anthropic-federal-use
+  • [Decrypt] OpenAI Sued Over Failure to Warn Police Before Tumbler Ridge Mass Shooting
+    https://decrypt.co/365986/openai-sued-failure-warn-police-tumbler-ridge-mass-shooting
+
+═══════════════════════════════════════
+Genere: 10:31:02

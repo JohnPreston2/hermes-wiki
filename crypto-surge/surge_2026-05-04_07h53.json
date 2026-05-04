@@ -1,0 +1,78 @@
+{
+  "surge_timestamp": "2026-05-04T07:53:45Z",
+  "total_articles": 7,
+  "defi_count": 7,
+  "ai_count": 0,
+  "defi": {
+    "perp": [],
+    "lending": [],
+    "banking": [
+      {
+        "id": 1403,
+        "title": "Stablecoin firms have a $112B opportunity in LATAM remittance outside of US-Mexico: Bybit",
+        "url": "https://cointelegraph.com/news/stablecoin-firms-should-focus-on-non-us-corridors-in-latam-to-capture-opportunities-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1402,
+        "title": "‘Stablecoins’ are an outdated term from crypto’s early years: a16z Crypto",
+        "url": "https://cointelegraph.com/news/stablecoins-are-an-outdated-term-a16z-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 1407,
+        "title": "Warren Buffett Sends Clear 2026 Market Message as Risks Build",
+        "url": "https://watcher.guru/news/warren-buffett-sends-clear-2026-market-message-as-risks-build",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1406,
+        "title": "You Installed Hermes. Now Make It Look Better Than ChatGPT or Claude",
+        "url": "https://decrypt.co/366535/you-installed-hermes-make-look-better-chatgpt-claude",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1405,
+        "title": "How Canton Network Lets Institutions Guard Against DeFi Security Risks: Digital Asset CEO",
+        "url": "https://decrypt.co/366086/how-canton-network-lets-institutions-guard-against-defi-security-risks",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1404,
+        "title": "Strategy takes Bitcoin buying breather ahead of Q1 earnings report",
+        "url": "https://cointelegraph.com/news/strategy-takes-a-bitcoin-buying-breather-ahead-of-q1-earnings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1401,
+        "title": "CFTC sees mixed responses to prediction market rulemaking",
+        "url": "https://cointelegraph.com/news/cftc-mixed-responses-prediction-market-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": []
+}
