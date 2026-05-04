@@ -32,6 +32,15 @@
 - concepts: liquid-staking, restaking, perpetuals, yield-tokenization, ai-agents, agentic-ai, risk-on-off, tvl-tracking
 - comparisons: liquid-staking-vs-restaking, perp-protocols
 - queries: market-signal-2026-05
+## [2026-05-04] schema-v1 | Décisions tranchées + SCHEMA v1.1
+- Fichiers candidat: SUPPRIMÉS (8 fichiers)
+- entities/hugo-chabot.md: SUPPRIMÉ (hors-projet)
+- queries/market-signal-2026-05.md: GARDE EN PLACE (query datée, sectors: [] dans frontmatter)
+- concepts/risk-on-off.md: GARDE EN PLACE (concept transversal, sectors: [] dans frontmatter)
+- SCHEMA.md: v1.1 — ajout section "Taxonomie et transversalité" (concepts/queries peuvent avoir sectors: [])
+- index.md: nettoyé (hugo-chabot, blockchains placeholders enlevés)
+- Pret pour etape 2: creation 12 sectors/ + migration frontmatter existants
+
 ## [2026-05-04] schema-v1 | Décision: fichiers candidat supprimés
 - Supprimés (hors-projet veille crypto):
   cv-ingere.md, lettres-candidature-4-offres.md, lettre-h-consulting-ia-205LHJY.md,

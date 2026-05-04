@@ -9,10 +9,6 @@
 - [[entities/hyperliquid]] — Perps perpetuels sur Arbitrum, TVL $4.6B, token $HYPE
 - [[entities/lido]] — Liquid staking ETH #1, TVL $21B, stETH
 
-### Blockchains / Infrastructure
-- [[entities/solana]] — Chaîne L1, TVL $12B, fees bas,速度快
-- [[entities/ethereum]] — L1 reference, TVL $106B, ETH staking
-
 ## Concepts
 
 ### DeFi Mechanics

@@ -93,6 +93,24 @@ sources_count: 12                       # nombre d'articles agrégés
 ---
 ```
 
+### Taxonomie et transversalité
+
+**La taxonomie sectorielle (section 1) s'applique aux pages `entities/` et `sectors/`.**
+
+Pour les pages `concepts/` et `queries/` :
+- Un concept ou query **transversal** (applicable à tous les secteurs, ex: macro market signal, risk-on/off) peut avoir `sectors: []` (vide) dans son frontmatter.
+- Un concept ou query **multi-sectoriel** (qui touche plusieurs secteurs sans appartenir à un seul) peut lister plusieurs tags : `sectors: [defi-perps, defi-lending, ai-agents]`.
+- Les pages `entities/` et `sectors/` **doivent** avoir au moins un tag sectoriel valide.
+
+En résumé :
+
+| Dossier | Tag `sectors` | Obligatoire |
+|---------|--------------|-------------|
+| `entities/` | ≥1 tag taxonomy | oui |
+| `sectors/` | tag correspondant | oui |
+| `concepts/` | vide ou ≥1 tag | non (transversal = `[]`) |
+| `queries/` | vide ou ≥1 tag | non (ad hoc = `[]`) |
+
 ### Page `entities/<protocol>.md`
 Sections obligatoires :
 - **Identité** (nom, chain, lancement, équipe)
@@ -174,4 +192,5 @@ L'humain lit `log.md` en début de session pour s'orienter. C'est l'interface pr
 
 ## 7. Versions du schema
 
-- v1 — 2026-05-04 — schema v1 (Hugo),替换 de l'ancien schema informel
+- v1.1 — 2026-05-04 — clarification transversalité : concepts/ et queries/ peuvent avoir sectors: [] ; suppression hugo-chabot (hors-projet)
+- v1 — 2026-05-04 — schema v1 (Hugo)
