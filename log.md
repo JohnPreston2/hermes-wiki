@@ -32,6 +32,16 @@
 - concepts: liquid-staking, restaking, perpetuals, yield-tokenization, ai-agents, agentic-ai, risk-on-off, tvl-tracking
 - comparisons: liquid-staking-vs-restaking, perp-protocols
 - queries: market-signal-2026-05
+## [2026-05-04] schema-v1 | Décision: fichiers candidat supprimés
+- Supprimés (hors-projet veille crypto):
+  cv-ingere.md, lettres-candidature-4-offres.md, lettre-h-consulting-ia-205LHJY.md,
+  offres-marseille-2026-04-09.md, profil-candidat.md (racine),
+  raw/profil-candidat.md, raw/lettre-type-base.md, lettre-type-base.md (8 fichiers)
+- Git history préserve tout (pas d'archive physique)
+- index.md nettoyé: references candidat enlees, total ~10 pages
+- Decisions restantes: hugo-chabot.md (personne), market-signal (hors-taxonomie)
+- Attente: validation decision 1 (hugo-chabot) et decision 2 (market-signal) avant etape 2
+
 ## [2026-05-04] schema-v1 | SCHEMA v1 integration — step 1: structure only
 - Nouveau SCHEMA.md posé à la racine (remplace ancien schema informel)
 - Git init + commit baseline: 20182a3 ("pre-schema-v1 baseline")

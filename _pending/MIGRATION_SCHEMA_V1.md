@@ -6,34 +6,29 @@
 
 ---
 
-## Annexe A — Inventaire complet du wiki
+## Annexe A — Inventaire complet du wiki (après suppression candidat)
 
 ### Tous les fichiers `.md` de `~/wiki/` (hors `crypto-surge/`)
 
-| Chemin relatif | Taille | Lignes | Frontmatter | Catégorie |
-|----------------|-------|--------|-------------|-----------|
-| `SCHEMA.md` | 7725 o | 177 | — | infrastructure wiki |
-| `_pending/MIGRATION_SCHEMA_V1.md` | 4506 o | 113 | — | infrastructure wiki |
-| `index.md` | 2588 o | 58 | — | infrastructure wiki |
-| `log.md` | 2775 o | 51 | — | infrastructure wiki |
-| `raw/crypto-reports/daily-2026-05-03.md` | 2634 o | 52 | — | raw source |
-| `raw/lettre-type-base.md` | 2368 o | 17 | — | raw source |
-| `raw/profil-candidat.md` | 4902 o | 127 | YAML | **DUPLICATA** (cf. §3.4) |
-| `entities/hyperliquid.md` | 1164 o | 37 | YAML | curée — defi-perps |
-| `entities/lido.md` | 1026 o | 32 | YAML | curée — defi-lst |
-| `entities/hugo-chabot.md` | 2988 o | 83 | YAML | curée — **hors-taxonomie** |
-| `concepts/restaking.md` | 1462 o | 41 | YAML | curée — defi-restaking |
-| `concepts/risk-on-off.md` | 1478 o | 50 | YAML | curée — **transversal** (cf. §2) |
-| `comparisons/perp-protocols.md` | 2097 o | 64 | YAML | curée — defi-perps |
-| `queries/market-signal-2026-05.md` | 1079 o | 55 | YAML | curée — **hors-taxonomie** |
-| `cv-ingere.md` | 1918 o | 51 | YAML | curée — **hors-secteur crypto** |
-| `lettres-candidature-4-offres.md` | 9546 o | 151 | YAML | curée — **hors-secteur crypto** |
-| `lettre-h-consulting-ia-205LHJY.md` | 3354 o | 55 | YAML | curée — **hors-secteur crypto** |
-| `offres-marseille-2026-04-09.md` | 4018 o | 122 | YAML | curée — **hors-secteur crypto** |
-| `profil-candidat.md` | 4902 o | 127 | YAML | curée — **hors-secteur crypto** |
-| `lettre-type-base.md` | 2368 o | 17 | — | raw source (dupliqué dans raw/) |
+| Chemin relatif | Lignes | Frontmatter | Catégorie |
+|----------------|-------|-------------|-----------|
+| `SCHEMA.md` | 177 | — | infrastructure wiki |
+| `_pending/MIGRATION_SCHEMA_V1.md` | 113 | — | infrastructure wiki |
+| `index.md` | ~50 | — | infrastructure wiki (nettoyé) |
+| `log.md` | ~60 | — | infrastructure wiki |
+| `raw/crypto-reports/daily-2026-05-03.md` | 52 | — | raw source |
+| `entities/hyperliquid.md` | 37 | YAML | curée — defi-perps |
+| `entities/lido.md` | 32 | YAML | curée — defi-lst |
+| `entities/hugo-chabot.md` | 83 | YAML | curée — **hors-taxonomie** (decision 1 pending) |
+| `concepts/restaking.md` | 41 | YAML | curée — defi-restaking |
+| `concepts/risk-on-off.md` | 50 | YAML | curée — **transversal** (decision 2 pending) |
+| `comparisons/perp-protocols.md` | 64 | YAML | curée — defi-perps |
+| `queries/market-signal-2026-05.md` | 55 | YAML | curée — **hors-taxonomie** (decision 2 pending) |
 
-**Total : 20 fichiers `.md`** (hors crypto-surge/).
+**Total : 12 fichiers `.md`** (hors crypto-surge/).
+**Supprimés ce jour** : 8 fichiers candidat (cv, lettres, offres, profil).
+
+**Note :** les entrées de l'index pour les entities non-créées (aave, morpho, spark, tether, curve, uniswap, pendle, solana, ethereum, liquid-staking, perpetuals, yield-tokenization, flash-loans, ai-agents, agentic-ai, tvl-tracking, liquid-staking-vs-restaking) sont des placeholders dans l'index historique — les fichiers correspondants n'existent pas encore.
 
 **Pourquoi tu voyais 19-25 pages :** l'`index.md` annonce "~25" — c'était une estimation arrondie.
 Le compte réel est 20 fichiers .md hors crypto-surge/, plus les 14 fichiers data (surge JSON + daily reports .txt)
@@ -236,7 +231,12 @@ Risque : le wiki grossit avec du bruit. Le SCHEMA n'est pas respecté pour ces f
 Si ces fichiers n'ont plus de valeur active (candidatures closes ?), les supprimer.
 La git history conserve tout — rollback possible.
 
-**À trancher :** A / B / C / D
+**Décision prise (2026-05-04) : Option D — SUPPRIMÉS**
+Les 8 fichiers candidat ont été supprimés. Git history conserve tout. Le wiki crypto/DeFi est propre.
+Fichiers supprimés : cv-ingere.md, lettres-candidature-4-offres.md, lettre-h-consulting-ia-205LHJY.md,
+offres-marseille-2026-04-09.md, profil-candidat.md (racine + raw/), lettre-type-base.md (racine + raw/).
+
+**À trancher :** ~~A / B / C / D~~ — DÉCIDÉ
 
 ---
 

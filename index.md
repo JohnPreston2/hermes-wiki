@@ -1,27 +1,17 @@
 # Wiki Index
 
 > Content catalog. Chaque page listée par type avec un résumé d'une ligne.
-> Last updated: 2026-05-03 | Total pages: ~25
+> Last updated: 2026-05-04 | Total pages: ~10
 
 ## Entities
 
 ### Protocoles DeFi
 - [[entities/hyperliquid]] — Perps perpetuels sur Arbitrum, TVL $4.6B, token $HYPE
 - [[entities/lido]] — Liquid staking ETH #1, TVL $21B, stETH
-- [[entities/aave]] — Lending #1, TVL $14.5B, multi-chain
-- [[entities/morpho]] — Lending Layer 2, APY optimisé, Blue
-- [[entities/spark]] — Lending Ethereum (fork Aave), DSR integration
-- [[entities/tether]] — USDT stablecoin, $180B+ market cap, #1 stablecoin
-- [[entities/curve]] — AMM stablecoins, TVL $1.7B, crvUSD
-- [[entities/uniswap]] — DEX #1, V4 hooks, $1.8B TVL
-- [[entities/pendle]] — Yield tokenization, TVL $1.6B, separated YT/PT
 
 ### Blockchains / Infrastructure
 - [[entities/solana]] — Chaîne L1, TVL $12B, fees bas,速度快
 - [[entities/ethereum]] — L1 reference, TVL $106B, ETH staking
-
-### Personnes
-- [[entities/hugo-chabot]] — AI Builder, Marseille. PharmD + MSc ESCP, Python/Flask/LLM/RAG/DeFi
 
 ## Concepts
 
@@ -37,7 +27,7 @@
 - [[concepts/agentic-ai]] — IA qui agit, pas juste génère — prompts + tools + memory
 
 ### Market Analysis
-- [[concepts/risk-on-off]] — Signal宏观: risque ON (bull) vs OFF (bear)
+- [[concepts/risk-on-off]] — Signal macro: risque ON (bull) vs OFF (bear)
 - [[concepts/tvl-tracking]] — Total Value Locked comme métrique de santé protocol
 
 ## Comparisons
@@ -51,8 +41,4 @@
 
 ## Raw Sources
 
-- [[raw/crypto-reports/daily-2026-05-01]] — Rapport quotidien 1er mai
-- [[raw/crypto-reports/daily-2026-05-02]] — Rapport quotidien 2 mai
 - [[raw/crypto-reports/daily-2026-05-03]] — Rapport quotidien 3 mai
-- [[raw/lettre-type-base]] — Lettre motivation générique
-- [[raw/profil-candidat]] — Profil candidat Hugo Chabot
