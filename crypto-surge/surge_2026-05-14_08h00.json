@@ -1,0 +1,269 @@
+{
+  "surge_timestamp": "2026-05-14T08:00:54Z",
+  "total_articles": 28,
+  "defi_count": 28,
+  "ai_count": 0,
+  "defi": {
+    "perp": [
+      {
+        "id": 2270,
+        "title": "Hyperliquid dominates weekly blockchain fee revenue as vertical chains gain ground",
+        "url": "https://www.theblock.co/post/400803/hyperliquid-dominates-weekly-blockchain-fee-revenue-vertical-chains-gain-ground?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 2260,
+        "title": "Bitcoin Rally Cut Short as Profit-Taking Rises, US Demand Falls: CryptoQuant",
+        "url": "https://decrypt.co/367787/bitcoin-rally-cut-short-profit-taking-rises-us-demand-falls-cryptoquant",
+        "blog": "Decrypt",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 2252,
+        "title": "Whale shorts $70M in crypto and tech: Should Bitcoin traders worry?",
+        "url": "https://cointelegraph.com/markets/whale-shorts-70m-in-crypto-tech-should-bitcoin-traders-worry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "perp"
+        ]
+      }
+    ],
+    "lending": [],
+    "banking": [
+      {
+        "id": 2256,
+        "title": "Societe Generale deploys stablecoins on Canton for tokenized finance",
+        "url": "https://cointelegraph.com/news/societe-generale-expands-tokenized-collateral-and-stablecoin-push-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "rwa",
+          "banking"
+        ]
+      },
+      {
+        "id": 2255,
+        "title": "Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+        "url": "https://cointelegraph.com/markets/price-predictions-513-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 2248,
+        "title": "US banks expect ‘slow, then fast’ shift to digitized finance: Moody's",
+        "url": "https://cointelegraph.com/news/moodys-us-banks-tokenized-finance-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 2275,
+        "title": "CFTC issues blanket no-action letter on prediction markets, relieving swap data reporting duties",
+        "url": "https://www.theblock.co/post/401215/cftc-no-action-prediction-market?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "dex"
+        ]
+      },
+      {
+        "id": 2274,
+        "title": "Clarity Act Talks End Without Agreement: What’s Going On?",
+        "url": "https://watcher.guru/news/clarity-act-talks-end-without-agreement-whats-going-on",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2273,
+        "title": "Will May End See A Cryptocurrency Bull Market Trigger?",
+        "url": "https://watcher.guru/news/will-may-end-see-a-cryptocurrency-bull-market-trigger",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2272,
+        "title": "Bitcoin risks slump after hitting ‘major bear market resistance’: CryptoQuant",
+        "url": "https://cointelegraph.com/news/bitcoin-at-risk-of-falling-after-hitting-major-bear-market-resistance-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2271,
+        "title": "Bitcoin firm Nakamoto records net loss in Q1 despite sixfold revenue growth",
+        "url": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-reports-238m-net-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2269,
+        "title": "Senate votes to confirm Trump-pick Kevin Warsh to succeed Jerome Powell as Fed Chair",
+        "url": "https://www.theblock.co/post/400974/senate-confirm-trump-federal-reserve-chair-kevin-warsh?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2268,
+        "title": "Fidelity International’s first tokenized fund receives top-tier AAA-mf rating from Moody’s",
+        "url": "https://www.theblock.co/post/401196/fidelity-internationals-first-tokenized-fund-receives-top-tier-aaa-mf-rating-from-moodys?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "rwa"
+        ]
+      },
+      {
+        "id": 2267,
+        "title": "Solana treasury firm DeFi Development Corp reports 108% yearly growth in SOL per share",
+        "url": "https://www.theblock.co/post/401200/defi-development-corp-growth-sol-per-share?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2266,
+        "title": "BitGo doubles revenue to $3.8 billion but net loss widens in Q1",
+        "url": "https://www.theblock.co/post/401205/bitgo-doubles-q1-revenue?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2265,
+        "title": "V4 Technical Maintenance Updates",
+        "url": "https://governance.aave.com/t/v4-technical-maintenance-updates/24915",
+        "blog": "Aave Governance",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2264,
+        "title": "Senate Confirms Bitcoin Friendly Kevin Warsh As Fed Chair Ahead of Clarity Act Vote",
+        "url": "https://bitcoinmagazine.com/news/senate-confirms-bitcoin-friendly-warsh",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2263,
+        "title": "Senators File Clarity Act Amendments on DeFi, Trump Family, and Jeffrey Epstein",
+        "url": "https://decrypt.co/367781/clarity-act-amendments-defi-trump-family-jeffrey-epstein",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2262,
+        "title": "Crypto-Friendly Kevin Warsh Confirmed as Fed Chair to Replace Jerome Powell",
+        "url": "https://decrypt.co/367784/crypto-friendly-kevin-warsh-confirmed-fed-chair-replace-jerome-powell",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2261,
+        "title": "Myriad Adopts Chainlink as Official Oracle Platform to Power New Crypto Prediction Markets",
+        "url": "https://decrypt.co/367581/myriad-adopts-chainlink-as-official-oracle-platform-to-power-new-crypto-prediction-markets",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2259,
+        "title": "Bitcoin Owner Claims Claude AI Cracked Lost Wallet Password, Netting $400K in BTC",
+        "url": "https://decrypt.co/367796/claude-ai-cracked-lost-bitcoin-wallet-owner-claims",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2258,
+        "title": "BNB Chain Unveils On-Chain Agent Identity and Payment Framework With ERC-8004 Standard",
+        "url": "https://thedefiant.io/news/blockchains/bnb-chain-agent-identity-erc-8004-go3uof",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2257,
+        "title": "US government asks for $1M forfeiture from ex-Celsius exec ahead of sentencing",
+        "url": "https://cointelegraph.com/news/us-government-forfeiture-celsius-roni-cohen-pavon-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2254,
+        "title": "Bitcoin traders expect ‘fast move’ to $90K following CLARITY Act vote",
+        "url": "https://cointelegraph.com/markets/bitcoin-traders-expect-fast-move-90k-following-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2253,
+        "title": "Polymarket's monthly volume declines for first time since August",
+        "url": "https://cointelegraph.com/news/polymarket-volume-declines-first-time-august-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2251,
+        "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
+        "url": "https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-clarity-act-thursday-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2250,
+        "title": "Only 4% of Americans weigh crypto when placing their votes: Poll",
+        "url": "https://cointelegraph.com/news/4-percent-americans-weigh-crypto-policy-when-voting-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2249,
+        "title": "AI chatbot Claude helps man recover 5 Bitcoin after finding old seed phrase",
+        "url": "https://cointelegraph.com/news/ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": []
+}

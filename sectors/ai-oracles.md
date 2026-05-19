@@ -1,33 +1,34 @@
 ---
 type: sector
 sectors: [ai-oracles]
-entities: []
-last_curated: 2026-05-04T08:20:20Z
+last_curated: 2026-05-18T19:27:02Z
 curation_mode: auto
-sources_count: 0
-last_schema_migrated: 2026-05-04T08:20:20Z
+articles_7d: 1
+articles_30d: 5
 ---
 
-# ML oracles & prediction
+# ML Oracles & Prediction
 
-## Définition
+Oracles ML et marches de prediction — modeles predictifs on-chain.
 
-Oracles ML et prediction markets — mécanismes qui amènent de l'information exogène (prix, météo, résultats) on-chain via des oracles. Qualifié quand ≥3 protocoles oracles ML/prediction sont actifs.
+## Protocoles cles
 
-## Protocoles clés
+| Protocole | Prix | 24h | Regime | Urgency |
+|-----------|------|-----|--------|---------|
+| Allora | - | - | - | - |
+| ChaosLabs | - | - | - | - |
+| Polymarket | - | - | - | - |
 
-<!-- sector_curator.py peuple cette section automatiquement -->
+## Evenements recents
 
-## Métriques de santé
+- **Thu, 14 May 2026** ZachXBT alleges 95% insider control of LAB token in investigation into AI termin — _The Block_
+- **Thu, 07 May 2026** IMF Warns AI Will Supercharge Cyberattacks on Global Financial System — _Decrypt_
+- **Wed, 06 May 2026** Sandisk Is Mooning Like a Meme Coin. Here's Why — _Decrypt_
+- **Tue, 05 May 2026** Pennsylvania Sues Character.AI Over Chatbot Posing as Licensed Psychiatrist — _Decrypt_
+- **Mon, 04 May 2026** US Government Says China's Best AI Models Lag Behind. Experts Aren't So Sure — _Decrypt_
 
-<!-- sector_curator.py peuple cette section automatiquement -->
-- **TVL agrégé** : —
-- **Croissance 30j** : —
+## Couverture
 
-## Narratifs en cours
-
-<!-- sector_curator.py peuple cette section automatiquement -->
-
-## Événements récents
-
-<!-- sector_curator.py peuple cette section automatiquement -->
+- Articles 7j: 1
+- Articles 30j: 5
+- Derniere curation: 2026-05-18T19:27:02Z

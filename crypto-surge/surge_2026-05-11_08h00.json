@@ -1,0 +1,106 @@
+{
+  "surge_timestamp": "2026-05-11T08:00:14Z",
+  "total_articles": 10,
+  "defi_count": 10,
+  "ai_count": 0,
+  "defi": {
+    "perp": [],
+    "lending": [],
+    "banking": [
+      {
+        "id": 1845,
+        "title": "XRP Reclaims $1.50 For the First Time in 2 Months: $2 Target Next?",
+        "url": "https://watcher.guru/news/xrp-reclaims-1-50-for-the-first-time-in-2-months",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1844,
+        "title": "Stablecoin Yields Explained: Are They Dangerous?",
+        "url": "https://watcher.guru/news/stablecoin-yields-explained-are-they-dangerous",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking",
+          "yield"
+        ]
+      },
+      {
+        "id": 1842,
+        "title": "SUI spikes 50% amid staking moves, zero-fee stablecoins, privacy push",
+        "url": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1841,
+        "title": "England central banker says global stablecoin rules will ‘wrestle’ with US",
+        "url": "https://cointelegraph.com/news/boe-governer-global-stablecoin-rules-wrestle-with-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 1843,
+        "title": "Privacy advocates slam reCAPTCHA update they say locks out de-Googled phones",
+        "url": "https://cointelegraph.com/news/privacy-advocates-slam-recaptcha-update-locks-out-de-googled-phones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1840,
+        "title": "Whitehat returns $190K to Renegade hours after hacking the protocol",
+        "url": "https://cointelegraph.com/news/whitehat-returns-190k-renegade-hours-after-hacking-the-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1839,
+        "title": "Analyst tips ‘visible flaws’ in Bitcoiners’ mid-bear market forecast",
+        "url": "https://cointelegraph.com/news/bitcoin-bear-market-prediction-btc-price-crypto-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1838,
+        "title": "Canton Network creator targets $300M in capital raise: Report",
+        "url": "https://cointelegraph.com/news/company-canton-network-raises-300m-2-billion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1837,
+        "title": "Saylor signals another Bitcoin buy, after hinting at selling in Q1 earnings call",
+        "url": "https://cointelegraph.com/news/saylor-bitcoin-buy-sale-announcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1836,
+        "title": "Bitcoin rallies 2.3% after Trump calls Iran peace proposal ‘totally unacceptable’",
+        "url": "https://cointelegraph.com/news/bitcoin-rallies-2-percent-after-trump-calls-iran-peace-proposal-totally-unacceptable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": []
+}

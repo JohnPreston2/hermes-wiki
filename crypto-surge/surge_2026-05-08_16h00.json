@@ -1,0 +1,531 @@
+{
+  "surge_timestamp": "2026-05-08T16:00:58Z",
+  "total_articles": 57,
+  "defi_count": 55,
+  "ai_count": 2,
+  "defi": {
+    "perp": [],
+    "lending": [
+      {
+        "id": 1764,
+        "title": "Mantle tokenholders approve 30K ETH Aave credit facility after rsETH exploit",
+        "url": "https://cointelegraph.com/news/mantle-tokenholders-aave-credit-facility-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "lending"
+        ]
+      },
+      {
+        "id": 1757,
+        "title": "Kelp DAO exploit prompts DeFi protocols to rethink oracle providers",
+        "url": "https://cointelegraph.com/news/kelp-dao-exploit-prompts-defi-protocols-rethink-oracle-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "lending"
+        ]
+      },
+      {
+        "id": 1751,
+        "title": "Arbitrum DAO Votes to Unlock $70 Million for Kelp DAO Exploit Relief",
+        "url": "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
+        "blog": "Decrypt",
+        "categories": [
+          "lending"
+        ]
+      }
+    ],
+    "banking": [
+      {
+        "id": 1770,
+        "title": "Zcash Targeting Post-Quantum Crypto Milestone by 2027",
+        "url": "https://decrypt.co/367250/zcash-targeting-post-quantum-crypto-milestone-by-2027",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1769,
+        "title": "XRP New Addresses, Active Supply Plunge Amid Shift to ‘Institutional Rails’",
+        "url": "https://decrypt.co/367253/xrp-new-addresses-active-supply-plunge-amid-shift-to-institutional-rails",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1765,
+        "title": "ECB’s Lagarde Pushes Back on Euro Stablecoins, Warns of ‘Structural Weaknesses’",
+        "url": "https://decrypt.co/367265/ecbs-lagarde-pushes-back-on-euro-stablecoins-warns-of-structural-weaknesses",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1761,
+        "title": "Stablecoins won’t strengthen global role of euro, ECB’s Lagarde says",
+        "url": "https://cointelegraph.com/news/stablecoins-euro-global-role-ecb-christine-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1753,
+        "title": "How Much XRP Is Needed To Get Rich? Experts Reveal The Number",
+        "url": "https://watcher.guru/news/how-much-xrp-is-needed-to-get-rich-experts-reveal-the-number",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1748,
+        "title": "Zcash gains 70% in a week amid growing interest in crypto privacy",
+        "url": "https://cointelegraph.com/news/zcash-price-surges-privacy-coins-ai-surveillance-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1745,
+        "title": "Tether freezes over $500M of USDT in 30 days, BlockSec data shows",
+        "url": "https://cointelegraph.com/news/tether-freezes-over-500m-usdt-30-days-blocksec-data-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 1774,
+        "title": "Google Stock To Dominate the Market Through $462 Billion Cloud Backlog",
+        "url": "https://watcher.guru/news/google-stock-to-dominate-the-market-through-462-billion-cloud-backlog",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1773,
+        "title": "VanEck Executive Says Bitcoin May Hit $1 Million: Safe To Invest?",
+        "url": "https://watcher.guru/news/vaneck-executive-says-bitcoin-may-hit-1-million-safe-to-invest",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1772,
+        "title": "Nvidia’s Market Cap Grows Bigger Than a BRICS Country’s Stock Market",
+        "url": "https://watcher.guru/news/nvidias-market-cap-grows-bigger-than-a-brics-countrys-stock-market",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1771,
+        "title": "Worried About Investing In Crypto? 3 Myths Debunked",
+        "url": "https://watcher.guru/news/worried-about-investing-in-crypto-3-myths-debunked",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1768,
+        "title": "Bitcoin Price Crashes Near Zero on Revolut, Blamed on Third-Party Service Disruption",
+        "url": "https://decrypt.co/367258/bitcoin-price-crashes-near-zero-revolut-third-party-disruption",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1767,
+        "title": "AI Won’t End Human Work, Andreessen Horowitz Partner Says",
+        "url": "https://decrypt.co/367222/ai-wont-end-human-work-andreessen-horowitz-partner",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1766,
+        "title": "Coinbase Outage Disrupts Crypto Trading and Transfers Amid Amazon Service Failure",
+        "url": "https://decrypt.co/367268/coinbase-outage-disrupts-crypto-trading-transfers-amazon-failure",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1763,
+        "title": "Four signs that show Ethereum's rally is exhausted at $2.4K",
+        "url": "https://cointelegraph.com/markets/four-signs-show-ethereum-eth-price-rally-exhausted-2-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1762,
+        "title": "Revolut users report Bitcoin price glitch showing BTC at 2 cents",
+        "url": "https://cointelegraph.com/news/btc-flash-crash-alerts-at-revolut-users-report-extreme-price-glitches-in-multiple-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1760,
+        "title": "How AI became crypto's favorite reason to cut staff",
+        "url": "https://cointelegraph.com/features/how-ai-cryptos-favorite-reason-cut-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1759,
+        "title": "Australian police seize $4.1M in Bitcoin tied to darknet market",
+        "url": "https://cointelegraph.com/news/australian-police-seize-41m-bitcoin-largest-dark-net-bust?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1758,
+        "title": "Europe sees ‘hyperconcentration’ of crypto wrench attacks as losses hit $101M",
+        "url": "https://cointelegraph.com/news/europe-crypto-wrench-attacks-losses-101m-certik-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1756,
+        "title": "Nvidia Stock To Gain From $500M Deal With Corning, $2.1B in IREN",
+        "url": "https://watcher.guru/news/nvidia-stock-to-gain-from-500m-deal-with-corning",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1755,
+        "title": "Trump-Backed WLFI Up 21% Amid Controversy: What’s Going On?",
+        "url": "https://watcher.guru/news/trump-backed-wlfi-up-21-amid-controversy-whats-going-on",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1754,
+        "title": "When Will IREN Stock Climb Above $100?",
+        "url": "https://watcher.guru/news/when-will-iren-stock-climb-above-100",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1752,
+        "title": "AUSTRAC Launches Supervision Campaigns as Australia's Crypto Regulatory Reforms Kick In",
+        "url": "https://decrypt.co/367236/austrac-launches-supervision-campaigns-as-australias-crypto-regulatory-reforms-kick-in",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1750,
+        "title": "Morning Minute: Coinbase Misses Earnings on Surprise Loss",
+        "url": "https://decrypt.co/367241/morning-minute-coinbase-misses-earnings-on-surprise-loss",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1749,
+        "title": "US sentences ‘laptop farmers’ tied to North Korean IT worker scheme",
+        "url": "https://cointelegraph.com/news/us-sentences-eight-in-five-months-laptop-farmers-north-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1747,
+        "title": "CLARITY Act support carries electoral boost, HarrisX poll finds",
+        "url": "https://cointelegraph.com/news/supporting-clarity-act-provides-a-plus-20-electoral-benefit-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1746,
+        "title": "Bitcoin ETFs snap 5-day inflow streak as BTC dips under $80K",
+        "url": "https://cointelegraph.com/news/bitcoin-etf-snap-5-day-inflow-streak-btc-dip-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1744,
+        "title": "Bitcoin eyes $80K reclaim as traders say these BTC price support levels must hold",
+        "url": "https://cointelegraph.com/markets/bitcoin-eyes-80k-reclaim-traders-say-these-btc-price-support-levels-must-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1743,
+        "title": "Stock Market At Peak, But Crypto Is Down: Here’s Why",
+        "url": "https://watcher.guru/news/stock-market-at-peak-but-crypto-is-down-heres-why",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1742,
+        "title": "Bitcoin exchange reserves fall to two-year low after $8B exodus",
+        "url": "https://cointelegraph.com/markets/8b-bitcoin-exodus-drains-exchange-reserves-to-multi-year-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1741,
+        "title": "Chaos Labs says oracles secure after attempted ‘nation-state’ wallet attack",
+        "url": "https://cointelegraph.com/news/chaos-labs-nation-state-wallet-attack-oracles-secure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1740,
+        "title": "AWS Northern Virginia data center overheats, impacting Coinbase",
+        "url": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1738,
+        "title": "Bitcoin Dips Below $80K as Analysts Say Profit-Taking Is on the Rise",
+        "url": "https://decrypt.co/367157/bitcoin-dips-below-80k-analysts-profit-taking",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1737,
+        "title": "21Shares Debuts First ETF Focused on Canton Network Crypto Token",
+        "url": "https://decrypt.co/367153/21shares-first-etf-focused-canton-network-crypto-token",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1736,
+        "title": "Your AI Chatbot May Be Leaking Your Chats to Meta, TikTok and Google",
+        "url": "https://decrypt.co/367164/your-ai-chatbot-leaking-chats-meta-tiktok-google",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1735,
+        "title": "IMF Warns AI Will Supercharge Cyberattacks on Global Financial System",
+        "url": "https://decrypt.co/367178/imf-warns-ai-supercharge-cyberattacks-global-financial-system",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1734,
+        "title": "Chrome Deleted Its Own Privacy Promise for Sneaky On-Device AI",
+        "url": "https://decrypt.co/367193/chrome-removes-privacy-claim-gemini-nano-google",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1733,
+        "title": "Tom Lee Says BitMine May Slow Ethereum Buys After Amassing Nearly $12 Billion of ETH",
+        "url": "https://decrypt.co/367192/tom-lee-bitmine-slow-ethereum-buys-12-billion-eth",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1732,
+        "title": "Coinbase Shares Slide as Crypto Giant Reports $394 Million Q1 Loss",
+        "url": "https://decrypt.co/367216/coinbase-shares-slide-crypto-giant-reports-394-million-q1-loss",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1731,
+        "title": "Trump Sons Haven't Abandoned World Liberty Financial, Crypto Firm Insists",
+        "url": "https://decrypt.co/367215/trump-sons-havent-abandoned-world-liberty-financial",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1730,
+        "title": "Solv Protocol Will Dump LayerZero, Migrate $700M Tokenized Bitcoin Tech to Chainlink",
+        "url": "https://decrypt.co/367154/solv-protocol-dump-layerzero-migrate-700m-tokenized-bitcoin-chainlink",
+        "blog": "Decrypt",
+        "categories": [
+          "rwa",
+          "bridge"
+        ]
+      },
+      {
+        "id": 1728,
+        "title": "Tydro Keeps Markets Paused After Chaos Labs Flags Suspected Nation-State Attack",
+        "url": "https://thedefiant.io/news/defi/tydro-keeps-markets-paused-after-chaos-labs-flags-suspected-nation-state-attack",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1727,
+        "title": "Samson Mow defends Strategy selling portions of its Bitcoin treasury",
+        "url": "https://cointelegraph.com/news/samson-mow-defends-strategy-selling-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1726,
+        "title": "Kalshi see valuation double to $22B after $1B raise as prediction markets boom",
+        "url": "https://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1725,
+        "title": "Bitcoin falls under $80K but four-month high in weekly BTC ETF inflows may curb selling",
+        "url": "https://cointelegraph.com/markets/bitcoin-slips-below-80k-while-weekly-etf-inflows-hit-january-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1724,
+        "title": "Fund managers double down on Bitcoin as crypto sentiment rebounds — CoinShares",
+        "url": "https://cointelegraph.com/news/fund-managers-boost-bitcoin-exposure-crypto-sentiment-rebounds-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1723,
+        "title": "Crypto PACs spend $7.2M to support candidates in 5 US states ahead of elections",
+        "url": "https://cointelegraph.com/news/crypto-pacs-spending-candidates-five-states-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1722,
+        "title": "CLARITY Act markup could happen as early as next week: Coinbase exec",
+        "url": "https://cointelegraph.com/news/clarity-act-markup-could-happen-as-early-as-next-week-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1721,
+        "title": "US Treasury ‘privately demanded’ Binance comply with monitoring deal: Report",
+        "url": "https://cointelegraph.com/news/us-treasury-binance-monitoring-program-reminder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1720,
+        "title": "Bitcoin bulls target $115K by December: Does data back the expectation?",
+        "url": "https://cointelegraph.com/markets/bitcoin-bulls-target-115k-by-december-does-data-back-the-expectation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1719,
+        "title": "Block Inc rises 8% as Q1 gives ‘earnings surprise’ despite Bitcoin dip",
+        "url": "https://cointelegraph.com/news/blocks-rises-8-percent-after-q1-earnings-surprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1718,
+        "title": "Coinbase shares slide on $400M Q1 loss, revenue miss",
+        "url": "https://cointelegraph.com/news/coinbase-shares-slide-q1-loss-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": [
+    {
+      "id": 1739,
+      "title": "Aptos Foundation, Aptos Labs commit $50M to development as it eyes AI agent future",
+      "url": "https://cointelegraph.com/news/aptos-foundation-labs-commit-50m-sees-opportunity-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "blog": "CoinTelegraph",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "id": 1729,
+      "title": "Amazon Builds AI Agent Payments With Coinbase and Stripe",
+      "url": "https://thedefiant.io/news/infrastructure/amazon-builds-ai-agent-payments-with-coinbase-and-stripe",
+      "blog": "The Defiant",
+      "categories": [
+        "ai"
+      ]
+    }
+  ]
+}

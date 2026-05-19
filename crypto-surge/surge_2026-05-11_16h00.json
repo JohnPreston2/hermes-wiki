@@ -1,0 +1,449 @@
+{
+  "surge_timestamp": "2026-05-11T16:00:27Z",
+  "total_articles": 48,
+  "defi_count": 46,
+  "ai_count": 2,
+  "defi": {
+    "perp": [],
+    "lending": [],
+    "banking": [
+      {
+        "id": 1876,
+        "title": "Senate Schedules CLARITY Act Markup as Banking Lobby, Democrats Mount Resistance",
+        "url": "https://bitcoinmagazine.com/news/senate-schedules-clarity-act-markup",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1875,
+        "title": "Circle Raises $222M in Arc Token Presale at $3B Valuation",
+        "url": "https://decrypt.co/367386/circle-raises-222m-in-arc-token-presale-at-3b-valuation",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1871,
+        "title": "Ripple Lands $200 Million Financing Facility to Expand Institutional Crypto Brokerage",
+        "url": "https://decrypt.co/367396/ripple-200-million-financing-facility-expand-institutional-crypto-brokerage",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1870,
+        "title": "Bank of England Chief Flags ‘Coming Wrestle' With US on Stablecoin Oversight",
+        "url": "https://decrypt.co/367399/bank-of-england-chief-flags-coming-wrestle-with-us-on-stablecoin-oversight",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1867,
+        "title": "Circle Raises $222M in Arc Presale at $3B FDV",
+        "url": "https://thedefiant.io/news/blockchains/circle-raises-usd222m-in-arc-presale-at-usd3b-fdv",
+        "blog": "The Defiant",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1865,
+        "title": "XRP metrics line up bull signals for ‘full-scale rally’ to $2",
+        "url": "https://cointelegraph.com/markets/xrp-metrics-line-up-bull-signals-full-scale-rally-2-dollars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1864,
+        "title": "USDC issuer Circle raises $222M in Arc token presale valued at $3B",
+        "url": "https://cointelegraph.com/news/circle-raise-222-million-arc-token-presale-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1861,
+        "title": "Augustus gets conditional OCC approval for AI and stablecoin bank",
+        "url": "https://cointelegraph.com/news/augustus-wins-conditional-occ-approval-for-ai-powered-stablecoin-clearing-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1845,
+        "title": "XRP Reclaims $1.50 For the First Time in 2 Months: $2 Target Next?",
+        "url": "https://watcher.guru/news/xrp-reclaims-1-50-for-the-first-time-in-2-months",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1844,
+        "title": "Stablecoin Yields Explained: Are They Dangerous?",
+        "url": "https://watcher.guru/news/stablecoin-yields-explained-are-they-dangerous",
+        "blog": "Watcher Guru",
+        "categories": [
+          "yield",
+          "banking"
+        ]
+      },
+      {
+        "id": 1842,
+        "title": "SUI spikes 50% amid staking moves, zero-fee stablecoins, privacy push",
+        "url": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1841,
+        "title": "England central banker says global stablecoin rules will ‘wrestle’ with US",
+        "url": "https://cointelegraph.com/news/boe-governer-global-stablecoin-rules-wrestle-with-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 1883,
+        "title": "Bitcoin Holds Steady At $80k: Know This Before You Invest",
+        "url": "https://watcher.guru/news/bitcoin-holds-steady-at-80k-know-this-before-you-invest",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1882,
+        "title": "$10,000 in Microsoft Stock Today: What’s It Worth 10 Years Later?",
+        "url": "https://watcher.guru/news/10000-in-microsoft-stock-today-whats-it-worth-10-years-later",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1881,
+        "title": "Nvidia Stock Could Go From $215 to $250 Next: Price Prediction",
+        "url": "https://watcher.guru/news/nvidia-stock-could-go-from-215-to-250-next",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1880,
+        "title": "US Stock Market Without AI Is Not That Impressive: Here’s Why",
+        "url": "https://watcher.guru/news/us-stock-market-without-ai-is-not-that-impressive-heres-why",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1879,
+        "title": "When Will Nvidia Stock Split Again as NVDA Nears New ATH?",
+        "url": "https://watcher.guru/news/when-will-nvidia-stock-split-again-as-nvda-nears-new-ath",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1878,
+        "title": "Indian Stock Market Crashes 1200 Points: Here’s What To Know",
+        "url": "https://watcher.guru/news/indian-stock-market-crashes-1200-points-heres-what-to-know",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1877,
+        "title": "Strategy (MSTR) Buys $43 Million More Bitcoin After Saylor Defends Potential BTC Sales",
+        "url": "https://bitcoinmagazine.com/news/strategy-mstr-buys-43-million-more-bitcoin",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1874,
+        "title": "Morning Minute: The Clarity Act Markup Comes May 14",
+        "url": "https://decrypt.co/367385/morning-minute-the-clarity-act-markup-comes-may-14",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1873,
+        "title": "Strategy Resumes Bitcoin Buys as Saylor Shifts Focus to 'Never Be a Net Seller'",
+        "url": "https://decrypt.co/367391/strategy-resumes-bitcoin-buys-as-saylor-shifts-focus-to-never-be-a-net-seller",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1872,
+        "title": "MoonPay Acquires Dawn Labs, Launches AI Trading Copilot for Prediction Markets",
+        "url": "https://decrypt.co/367333/moonpay-acquires-dawn-labs-ai-trading-copilot-prediction-markets",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1869,
+        "title": "Tom Lee’s BitMine Slows Ethereum Buying Pace, Adding $62 Million in ETH",
+        "url": "https://decrypt.co/367398/tom-lee-bitmine-slows-ethereum-buying-pace-62-million-eth",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1868,
+        "title": "OpenAI Just Launched a Consulting Arm to Help Companies Deploy AI",
+        "url": "https://decrypt.co/367403/openai-launched-consulting-arm-help-companies-deploy-ai",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1866,
+        "title": "Crypto funds log $858M in sixth straight week of inflows: CoinShares",
+        "url": "https://cointelegraph.com/news/crypto-funds-six-week-inflow-streak-4-9-billion-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1862,
+        "title": "Strategy resumes Bitcoin acquisitions with $43M BTC buy",
+        "url": "https://cointelegraph.com/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1860,
+        "title": "Crypto and AI could be dirty words on 2026 midterm campaign trail",
+        "url": "https://cointelegraph.com/features/crypto-and-ai-could-be-dirty-words-on-2026-midterm-campaign-trail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1859,
+        "title": "The Analyst Agent Tools",
+        "url": "https://defi0xjeff.substack.com/p/the-analyst-agent-tools",
+        "blog": "0xJeff",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1858,
+        "title": "Hermes Analyst Workflow Essentials",
+        "url": "https://defi0xjeff.substack.com/p/hermes-analyst-workflow-essentials",
+        "blog": "0xJeff",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1857,
+        "title": "Shiba Inu Gains 1,000+ New Investors For the First Time in a Year",
+        "url": "https://watcher.guru/news/shiba-inu-gains-1000-new-investors-for-the-first-time-in-a-year",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1856,
+        "title": "Sui Tops Charts With 19% Daily Rally: Here’s What To Know",
+        "url": "https://watcher.guru/news/sui-tops-charts-with-19-daily-rally-heres-what-to-know",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1855,
+        "title": "Google Stock Dividend: How Much Can You Earn Per Share?",
+        "url": "https://watcher.guru/news/google-stock-dividend-how-much-can-you-earn-per-share",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1854,
+        "title": "OpenAI Faces Federal Lawsuit Over ChatGPT's Alleged Role in FSU Mass Shooting",
+        "url": "https://decrypt.co/367380/openai-faces-federal-lawsuit-over-chatgpts-alleged-role-in-fsu-mass-shooting",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1853,
+        "title": "Crypto Funds Add $858M as Clarity Act Drives Market Optimism",
+        "url": "https://decrypt.co/367382/crypto-funds-add-858m-as-clarity-act-drives-market-optimism",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1852,
+        "title": "Australia plans capital gains tax changes affecting crypto investors: Report",
+        "url": "https://cointelegraph.com/news/australia-government-eyes-swap-from-cgt-to-inflation-indexation-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1850,
+        "title": "7 Democrats seen as ‘key’ to advancing CLARITY Act: Galaxy",
+        "url": "https://cointelegraph.com/news/senate-banking-clarity-act-galaxy-digital-support-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1849,
+        "title": "This Bitcoin price level will be 'end of the bears' if broken, says analyst",
+        "url": "https://cointelegraph.com/markets/this-bitcoin-price-level-will-be-end-of-bears-if-broken-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1848,
+        "title": "Crypto.com receives UAE license for Dubai government crypto payments",
+        "url": "https://cointelegraph.com/news/cryptocom-receives-uae-central-bank-license-for-virtual-asset-government-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1847,
+        "title": "Capital B raises $17.8M to expand its Bitcoin treasury",
+        "url": "https://cointelegraph.com/news/capital-b-raises-178m-fuel-bitcoin-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1846,
+        "title": "BTC price target becomes $85K next: Five things to know in Bitcoin this week",
+        "url": "https://cointelegraph.com/markets/btc-price-target-becomes-85k-next-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1843,
+        "title": "Privacy advocates slam reCAPTCHA update they say locks out de-Googled phones",
+        "url": "https://cointelegraph.com/news/privacy-advocates-slam-recaptcha-update-locks-out-de-googled-phones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1840,
+        "title": "Whitehat returns $190K to Renegade hours after hacking the protocol",
+        "url": "https://cointelegraph.com/news/whitehat-returns-190k-renegade-hours-after-hacking-the-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1839,
+        "title": "Analyst tips ‘visible flaws’ in Bitcoiners’ mid-bear market forecast",
+        "url": "https://cointelegraph.com/news/bitcoin-bear-market-prediction-btc-price-crypto-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1838,
+        "title": "Canton Network creator targets $300M in capital raise: Report",
+        "url": "https://cointelegraph.com/news/company-canton-network-raises-300m-2-billion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1837,
+        "title": "Saylor signals another Bitcoin buy, after hinting at selling in Q1 earnings call",
+        "url": "https://cointelegraph.com/news/saylor-bitcoin-buy-sale-announcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1836,
+        "title": "Bitcoin rallies 2.3% after Trump calls Iran peace proposal ‘totally unacceptable’",
+        "url": "https://cointelegraph.com/news/bitcoin-rallies-2-percent-after-trump-calls-iran-peace-proposal-totally-unacceptable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": [
+    {
+      "id": 1863,
+      "title": "DAPPOS launches xBubble: An AI agent that learns and uses AI for you",
+      "url": "https://cointelegraph.com/press-releases/dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai-for-you?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "blog": "CoinTelegraph",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "id": 1851,
+      "title": "Veteran investor bets on Ethereum as AI agents drive tokenization demand",
+      "url": "https://cointelegraph.com/news/tokenized-assets-summer-veteran-macro-investor-bets-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "blog": "CoinTelegraph",
+      "categories": [
+        "ai"
+      ]
+    }
+  ]
+}

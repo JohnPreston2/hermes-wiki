@@ -1,0 +1,444 @@
+{
+  "surge_timestamp": "2026-05-15T08:01:36Z",
+  "total_articles": 47,
+  "defi_count": 46,
+  "ai_count": 1,
+  "defi": {
+    "perp": [
+      {
+        "id": 2374,
+        "title": "Bitwise Hyperliquid ETF to start trading on NYSE this Friday",
+        "url": "https://www.theblock.co/post/401384/bitwise-hyperliquid-etf-to-start-trading-on-nyse-this-friday?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 2354,
+        "title": "Coinbase Lands Hyperliquid Stablecoin Role Eight Months After Governance Vote Picked Native Markets",
+        "url": "https://thedefiant.io/news/defi/coinbase-lands-hyperliquid-stablecoin-role-eight-months-after-governance-vote-picked-native",
+        "blog": "The Defiant",
+        "categories": [
+          "banking",
+          "perp"
+        ]
+      }
+    ],
+    "lending": [
+      {
+        "id": 2369,
+        "title": "Risk Stewards: PT parameter changes on Aave V3 / 2026.05.14",
+        "url": "https://governance.aave.com/t/risk-stewards-pt-parameter-changes-on-aave-v3-2026-05-14/24920",
+        "blog": "Aave Governance",
+        "categories": [
+          "lending"
+        ]
+      },
+      {
+        "id": 2368,
+        "title": "Risk Stewards: Supply and Borrow Cap Changes on Aave V3 / 2026.05.14",
+        "url": "https://governance.aave.com/t/risk-stewards-supply-and-borrow-cap-changes-on-aave-v3-2026-05-14/24921",
+        "blog": "Aave Governance",
+        "categories": [
+          "lending"
+        ]
+      },
+      {
+        "id": 2367,
+        "title": "[ARFC] Onboard PT-sUSDE AUG14 Expiry to Aave V3 Core Market and Aave V4 Ethereum",
+        "url": "https://governance.aave.com/t/arfc-onboard-pt-susde-aug14-expiry-to-aave-v3-core-market-and-aave-v4-ethereum/24924",
+        "blog": "Aave Governance",
+        "categories": [
+          "lending"
+        ]
+      },
+      {
+        "id": 2366,
+        "title": "[ARFC] Onboard PT-USDG-28MAY2026 to Aave V4 on Ethereum",
+        "url": "https://governance.aave.com/t/arfc-onboard-pt-usdg-28may2026-to-aave-v4-on-ethereum/24925",
+        "blog": "Aave Governance",
+        "categories": [
+          "lending"
+        ]
+      },
+      {
+        "id": 2365,
+        "title": "Bukele’s Futuristic BINAES Library Blends Books, Bitcoin, and Family Play in Revitalized Capital",
+        "url": "https://bitcoinmagazine.com/culture/bukeles-futuristic-binaes-library-blends-books-bitcoin-and-family-play-in-revitalized-capital",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "lending"
+        ]
+      }
+    ],
+    "banking": [
+      {
+        "id": 2371,
+        "title": "Hana Bank acquires $670 million stake in Upbit parent Dunamu",
+        "url": "https://www.theblock.co/post/401413/hana-bank-upbit-dunamu?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 2348,
+        "title": "US Senate Banking Committee votes to advance CLARITY Act",
+        "url": "https://cointelegraph.com/news/us-senate-banking-committee-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 2386,
+        "title": "B2C2 secures MiCA license in Luxembourg to offer OTC trading services across EU",
+        "url": "https://www.theblock.co/post/401427/b2c2-secures-mica-license?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "bridge"
+        ]
+      },
+      {
+        "id": 2385,
+        "title": "Bit Digital reports 14% revenue drop in Q1, driven by lower ETH staking rewards",
+        "url": "https://www.theblock.co/post/401420/bit-digital-reports-lower-q1-revenue?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2384,
+        "title": "OKX set to acquire 20% stake in South Korean crypto exchange Coinone: report",
+        "url": "https://www.theblock.co/post/401431/okx-coinone-acquisition?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2383,
+        "title": "Onchain AI Inference Landscape",
+        "url": "https://defi0xjeff.substack.com/p/onchain-ai-inference-landscape",
+        "blog": "0xJeff",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2382,
+        "title": "JPMorgan Bought The Bitcoin Dip, Reveals $390 Million Exposure",
+        "url": "https://watcher.guru/news/jpmorgan-bought-the-bitcoin-dip-reveals-390-million-exposure",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2381,
+        "title": "Top 3 Cryptocurrencies If You Want To Be Anonymous",
+        "url": "https://watcher.guru/news/top-3-cryptocurrencies-if-you-want-to-be-anonymous",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2380,
+        "title": "Bullish shares dip on Q1 earnings miss, $605M loss",
+        "url": "https://cointelegraph.com/news/bullish-shares-dip-on-q1-earnings-miss-605m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2379,
+        "title": "Strategy’s STRC hits record $1.5B trading volume",
+        "url": "https://cointelegraph.com/news/strategys-strc-attracts-record-1b-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2378,
+        "title": "Kraken joins LayerZero exodus as it switches to Chainlink CCIP",
+        "url": "https://cointelegraph.com/news/kraken-joins-layerzero-exodus-switching-chainlink-ccip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "bridge"
+        ]
+      },
+      {
+        "id": 2377,
+        "title": "Chainlink CCIP gains over $2.5 billion in TVL from protocols migrating from LayerZero, with Kraken Bitcoin the latest to join",
+        "url": "https://www.theblock.co/post/401368/chainlink-ccip-gains-over-2-5-billion-tvl-from-protocols-migrating-layerzero-kraken-bitcoin-latest?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "bridge"
+        ]
+      },
+      {
+        "id": 2376,
+        "title": "‘It’s an unfair game’: CertiK CEO says DeFi attackers using AI to outspend defenders",
+        "url": "https://www.theblock.co/post/401280/unfair-game-certik-ceo-defi-attackers-using-ai-outspend-defenders?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2375,
+        "title": "‘Decisive turning point’: Crypto industry cheers Clarity Act’s progress as ethics questions linger ahead of next vote",
+        "url": "https://www.theblock.co/post/401375/decisive-turning-point-crypto-industry-cheers-clarity-act-progress-ethics-questions-linger-next-vote?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2373,
+        "title": "Gemini shares soar after reporting 42% revenue growth, first prediction market metrics",
+        "url": "https://www.theblock.co/post/401376/gemini-shares-soar-42-revenue-growth-first-prediction-market-metrics?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2372,
+        "title": "Trump’s latest disclosure shows Coinbase, Strategy, MARA purchases in Q1",
+        "url": "https://www.theblock.co/post/401406/trump-coinbase-strategy-mara?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2370,
+        "title": "Thoughts on expanding Sky's support channels beyond Discord?",
+        "url": "https://forum.skyeco.com/t/thoughts-on-expanding-skys-support-channels-beyond-discord/27907",
+        "blog": "MakerDAO Forum",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2364,
+        "title": "Bitcoin Price Surges 3% Past $82K as Senate Advances Clarity Act, STRC and SATA Fuel Bitcoin Credit Boom",
+        "url": "https://bitcoinmagazine.com/news/bitcoin-price-surges-3-past-82k",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2363,
+        "title": "Onramp Raises $12.5M Series A to Scale Multi-Institution Bitcoin Custody Platform",
+        "url": "https://bitcoinmagazine.com/news/onramp-raises-12-5m-series-a",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2362,
+        "title": "Kraken to Migrate Wrapped Bitcoin Tech to Chainlink as LayerZero Exodus Expands",
+        "url": "https://decrypt.co/367880/kraken-migrate-wrapped-bitcoin-chainlink-layerzero-exodus",
+        "blog": "Decrypt",
+        "categories": [
+          "bridge"
+        ]
+      },
+      {
+        "id": 2361,
+        "title": "OpenAI Confirms Security Breach Linked to AI Malware Campaign",
+        "url": "https://decrypt.co/367883/openai-confirms-security-breach-ai-malware-campaign",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2360,
+        "title": "ChatGPT Is Losing Ground to Rivals—Here Are Some Numbers",
+        "url": "https://decrypt.co/367884/chatgpt-losing-ground-anthrophic-google-numbers",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2358,
+        "title": "Bitcoin Firm Strive Unveils Daily Dividend Payments for SATA Preferred Shares",
+        "url": "https://decrypt.co/367878/bitcoin-firm-strive-daily-dividend-payments-preferred-share",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2357,
+        "title": "NFL All Day Stops Issuing NFTs as Dapper Labs Signals Future Plans With League",
+        "url": "https://decrypt.co/367926/nfl-all-day-stops-issuing-nfts-dapper-labs-future-plans-league",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2356,
+        "title": "Apple Mac M5 System Exploited With Anthropic's Claude Mythos AI, Researchers Claim",
+        "url": "https://decrypt.co/367925/apple-mac-m5-system-exploited-anthropic-claude-mythos-ai",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2355,
+        "title": "OpenAI Pushes New ChatGPT Safety Features as Lawsuits Mount",
+        "url": "https://decrypt.co/367937/openai-new-chatgpt-safety-features-lawsuits-investigations",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2353,
+        "title": "0x Co-Founder Will Warren Steps Down as Co-CEO",
+        "url": "https://thedefiant.io/news/defi/will-warren-steps-down-0x-co-ceo-7kxgji",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2352,
+        "title": "Dune Analytics Cuts 25% of Staff, Doubled Down on AI and Institutional Crypto Data",
+        "url": "https://thedefiant.io/news/infrastructure/dune-analytics-25-percent-layoffs-ai-institutions-6boyf7",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2351,
+        "title": "Lido Selects Chainlink CCIP for Cross-Chain Expansion, Citing Security Principles",
+        "url": "https://thedefiant.io/news/infrastructure/lido-chainlink-ccip-cross-chain-expansion-ah8fxg",
+        "blog": "The Defiant",
+        "categories": [
+          "yield",
+          "bridge"
+        ]
+      },
+      {
+        "id": 2350,
+        "title": "Crypto Rallies as Senate Committee Advances Market Structure Bill to Full Senate",
+        "url": "https://thedefiant.io/news/regulation/crypto-rallies-as-senate-committee-advances-market-structure-bill-to-full-senate",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2349,
+        "title": "Kraken Migrates to Chainlink CCIP for Wrapped Bitcoin and Future Wrapped Assets",
+        "url": "https://thedefiant.io/news/cefi/kraken-migrates-chainlink-ccip-wrapped-bitcoin-s7b6y",
+        "blog": "The Defiant",
+        "categories": [
+          "bridge"
+        ]
+      },
+      {
+        "id": 2347,
+        "title": "Crypto losses from North Korea hackers in 2025 rose 51% YoY: Report",
+        "url": "https://cointelegraph.com/news/losses-dprk-hacks-2025-rose-51-year-over-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2346,
+        "title": "Bitcoin trades at a 'discount' on Coinbase: Is a $76K retest next?",
+        "url": "https://cointelegraph.com/markets/bitcoin-trades-discount-coinbase-is-76k-retest-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2345,
+        "title": "Ex-Celsius exec sentenced to time served after guilty plea",
+        "url": "https://cointelegraph.com/news/celsius-roni-cohen-pavon-sentenced-guilty-plea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2344,
+        "title": "Dartmouth endowment invests in Solana ETF, holds $14M in crypto exposure",
+        "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2343,
+        "title": "UK politician Nigel Farage bought $1.8M house after a $6.7M crypto gift",
+        "url": "https://cointelegraph.com/news/nigel-farage-house-crypto-gift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2342,
+        "title": "Strive rallies 5.8% as it clears debt in Q1, unveils daily dividends",
+        "url": "https://cointelegraph.com/news/strive-rallies-5-percent-daily-dividends-clearing-all-debt-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2341,
+        "title": "Crypto data company Dune cuts 25% of staff in restructuring",
+        "url": "https://cointelegraph.com/news/crypto-data-company-dune-cuts-25-of-staff-ai-use-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2340,
+        "title": "Gemini reports 42% revenue growth after expansion into financial services",
+        "url": "https://cointelegraph.com/news/gemini-reports-42-revenue-growth-expansion-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": [
+    {
+      "id": 2359,
+      "title": "Kimi WebBridge Lets AI Agents Drive Your Browser—And Keep Your Data Local",
+      "url": "https://decrypt.co/367916/kimi-webbridge-ai-agents-browser-local",
+      "blog": "Decrypt",
+      "categories": [
+        "ai",
+        "bridge"
+      ]
+    }
+  ]
+}

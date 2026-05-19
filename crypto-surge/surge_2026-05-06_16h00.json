@@ -1,0 +1,725 @@
+{
+  "surge_timestamp": "2026-05-06T16:00:27Z",
+  "total_articles": 78,
+  "defi_count": 76,
+  "ai_count": 2,
+  "defi": {
+    "perp": [
+      {
+        "id": 1602,
+        "title": "CME Group to launch regulated Bitcoin volatility futures",
+        "url": "https://cointelegraph.com/news/cme-group-to-launch-regulated-bitcoin-volatility-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 1600,
+        "title": "Bitcoin short-term holder cost basis eyes $92K as next price target",
+        "url": "https://cointelegraph.com/markets/bitcoins-sth-cost-basis-suggests-92k-is-the-next-stop-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 1586,
+        "title": "CME Group to launch Bitcoin volatility futures contracts on June 1st",
+        "url": "https://watcher.guru/news/cme-group-to-launch-bitcoin-volatility-futures-contracts-on-june-1st",
+        "blog": "Watcher Guru",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 1575,
+        "title": "How Solana Exchange Drift Plans to Repay Users After $295 Million Crypto Hack",
+        "url": "https://decrypt.co/366897/how-solana-exchange-drift-repay-users-295-million-crypto-hack",
+        "blog": "Decrypt",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 1573,
+        "title": "CME Gearing Up to Launch Bitcoin Volatility Futures Independent From BTC’s Price",
+        "url": "https://decrypt.co/366894/cme-launch-bitcoin-volatility-futures-independent-btc-price",
+        "blog": "Decrypt",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 1569,
+        "title": "CME Group to Launch Bitcoin Volatility Futures on June 1",
+        "url": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-bitcoin-volatility-futures-on-june-1",
+        "blog": "The Defiant",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 1560,
+        "title": "Bitcoin short liquidations push BTC to multi-month highs: Is $90K next?",
+        "url": "https://cointelegraph.com/markets/bitcoin-eyes-clear-path-to-90k-as-79b-shorts-unwind-since-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "perp"
+        ]
+      }
+    ],
+    "lending": [
+      {
+        "id": 1572,
+        "title": "Kelp Blames LayerZero for $292 Million Hack, Plans Switch to Chainlink",
+        "url": "https://decrypt.co/366903/kelp-layerzero-292-million-hack-plans-move-chainlink",
+        "blog": "Decrypt",
+        "categories": [
+          "lending",
+          "bridge"
+        ]
+      },
+      {
+        "id": 1567,
+        "title": "Kelp DAO Accuses LayerZero of Deflecting Blame for $300M Bridge Hack",
+        "url": "https://thedefiant.io/news/defi/kelp-dao-accuses-layerzero-of-deflecting-blame-for-usd300m-bridge-hack",
+        "blog": "The Defiant",
+        "categories": [
+          "lending",
+          "bridge"
+        ]
+      },
+      {
+        "id": 1553,
+        "title": "Kelp DAO to migrate rsETH to Chainlink CCIP as blame game continues",
+        "url": "https://cointelegraph.com/news/kelp-dao-to-migrate-rseth-to-chainlink-as-it-continues-to-blame-layerzero-infrastructure-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "lending",
+          "bridge"
+        ]
+      }
+    ],
+    "banking": [
+      {
+        "id": 1618,
+        "title": "Zcash Leads Privacy Coin Surge With 37% Gains on MultiCoin Investment",
+        "url": "https://decrypt.co/366944/zcash-leads-privacy-coin-surge-with-37-gains-on-multicoin-investment",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1612,
+        "title": "Reform UK’s Farage Claims 'No Obligation' to Declare Tether Billionaire's $6.7M Gift",
+        "url": "https://decrypt.co/366973/reform-uks-farage-claims-no-obligation-to-declare-tether-billionaires-6-7m-gift",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1609,
+        "title": "Zcash Rallies 30% on Multicoin Investment News",
+        "url": "https://thedefiant.io/news/markets/zec-rallies-30-percent-on-multicoin-investment-news",
+        "blog": "The Defiant",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1608,
+        "title": "A16z raises $2.2B for new fund backing stablecoins, prediction markets",
+        "url": "https://cointelegraph.com/news/a16z-raises-2-billion-fund-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1597,
+        "title": "Zcash price may hit $800 as $2.7B hedge fund reveals ‘significant position’ in ZEC",
+        "url": "https://cointelegraph.com/markets/zcash-price-eyes-40-rally-as-27b-hedge-fund-reveals-significant-position-in-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1595,
+        "title": "Why stablecoins and SWIFT may have to coexist",
+        "url": "https://cointelegraph.com/features/why-stablecoins-swift-may-have-coexist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1594,
+        "title": "OpenTrade raises $17M as CEO sees stablecoin yield tailwinds",
+        "url": "https://cointelegraph.com/news/opentrade-17-million-raise-stablecoin-yield-ceo-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "yield",
+          "banking"
+        ]
+      },
+      {
+        "id": 1593,
+        "title": "Stablecoin industry opposes Bank of England’s unhosted wallet ban",
+        "url": "https://cointelegraph.com/features/stablecoin-industry-opposes-bank-of-englands-unhosted-wallet-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1590,
+        "title": "XRP Stuck At $1.42 Despite Bitcoin Hitting $81k: Why?",
+        "url": "https://watcher.guru/news/xrp-stuck-at-1-42-despite-bitcoin-hitting-81k-why",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1588,
+        "title": "Anchorage launches agentic banking as CEO tips ‘trillion-dollar’ opportunity",
+        "url": "https://cointelegraph.com/news/anchorage-google-cloud-launch-agentic-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1568,
+        "title": "Lighter Names USDC as Preferred Stablecoin in New Circle Partnership",
+        "url": "https://thedefiant.io/news/defi/lighter-names-usdc-as-preferred-stablecoin-in-new-circle-partnership",
+        "blog": "The Defiant",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1562,
+        "title": "Tennessee Bankers Association names Stablecore as preferred digital asset provider",
+        "url": "https://cointelegraph.com/news/tennessee-bankers-association-stablecore-digital-asset-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1558,
+        "title": "Ripple CEO says market structure bill not a ‘done deal,’ despite stablecoin compromise",
+        "url": "https://cointelegraph.com/news/ripple-ceo-market-structure-progress-stablecoin-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 1630,
+        "title": "Gas Prices Go Above $5 in Hawaii, Other US States Priced at $4.5",
+        "url": "https://watcher.guru/news/gas-prices-go-above-5-in-hawaii-other-us-states-priced-at-4-5",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1629,
+        "title": "Toncoin Hits $2 After 6 Months: What Chances Of A New Peak?",
+        "url": "https://watcher.guru/news/toncoin-hits-2-after-6-months-what-chances-of-a-new-peak",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1628,
+        "title": "Apple Dividend on May 14: How Much Will You Get Holding 100 AAPL Stock",
+        "url": "https://watcher.guru/news/apple-dividend-how-much-will-you-get-holding-100-aapl-stock",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1627,
+        "title": "When Will SanDisk Stock Reach $1,700? (SNDK)",
+        "url": "https://watcher.guru/news/when-will-sandisk-stock-reach-1700-sndk",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1626,
+        "title": "Google Stock Still Cheap At $388: Latest Price Target Gets Bigger",
+        "url": "https://watcher.guru/news/google-stock-still-cheap-at-388-latest-price-target-gets-bigger",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1625,
+        "title": "How Solana Is Eating Away Ethereum’s Market",
+        "url": "https://watcher.guru/news/how-solana-is-eating-away-ethereums-market",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1624,
+        "title": "Shiba Inu Has Been Falling Since Dec 2024: Here’s What To Know",
+        "url": "https://watcher.guru/news/shiba-inu-has-been-falling-since-dec-2024-heres-what-to-know",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1623,
+        "title": "Microsoft Stock Predicted To Reach $675: Here’s When (MSFT)",
+        "url": "https://watcher.guru/news/microsoft-stock-predicted-to-reach-675-heres-when-msft",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1622,
+        "title": "3 Altcoins For Your Watchlist Before The Next Bull Run",
+        "url": "https://watcher.guru/news/3-altcoins-for-your-watchlist-before-the-next-bull-run",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1621,
+        "title": "When Will Apple Stock Hit $300 After New Price Target from BofA",
+        "url": "https://watcher.guru/news/when-will-apple-stock-hit-300-after-new-price-target-from-bofa",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1620,
+        "title": "Strategy Opens Door to Bold Bitcoin Sales Pivot Unlocking $2.2 Billion Tax Benefit",
+        "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/sstrategy-mstr-bitcoin-sales-pivot",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1619,
+        "title": "Strategy Mulls Selling Bitcoin to 'Inoculate the Market': Saylor",
+        "url": "https://decrypt.co/366940/strategy-mulls-selling-bitcoin-to-inoculate-the-market-saylor",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1617,
+        "title": "Bitcoin Jumps to Three-Month High Above $82K on Report of US-Iran Agreement",
+        "url": "https://decrypt.co/366947/bitcoin-jumps-to-three-month-high-above-82k-on-report-of-us-iran-agreement",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1616,
+        "title": "Morning Minute: Crypto Majors Rally, Oil Falls on Renewed Peace Hopes",
+        "url": "https://decrypt.co/366943/morning-minute-crypto-majors-rally-oil-falls-on-renewed-peace-hopes",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1615,
+        "title": "Apple Agrees to $250 Million Settlement Over AI Claims—Here's Who Can Get Paid",
+        "url": "https://decrypt.co/366961/apple-250-million-settlement-ai-claims-heres-who-can-get-paid",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1614,
+        "title": "Hut 8 Shares Hit All-Time High Price as Bitcoin Miner Signs $9.8 Billion AI Data Center Lease",
+        "url": "https://decrypt.co/366971/hut-8-shares-all-time-high-price-bitcoin-miner-9-8-billion-ai-deal",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1611,
+        "title": "Strategy Yield ETN Gives UK Investors Exposure to Bitcoin Giant's STRC Shares",
+        "url": "https://decrypt.co/366984/strategy-yield-etn-uk-investors-exposure-bitcoin-giant-strc-shares",
+        "blog": "Decrypt",
+        "categories": [
+          "yield"
+        ]
+      },
+      {
+        "id": 1610,
+        "title": "Morgan Stanley Launches Crypto Trading for Retail Clients: Report",
+        "url": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-etrade-crypto-trading-launch-rpm4qa",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1607,
+        "title": "Law enforcement freezes $41M connected to $150M crypto Ponzi collapse",
+        "url": "https://cointelegraph.com/news/law-enforcement-freezes-millions-connected-to-crypto-ponzi-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1606,
+        "title": "OKX Card data shows crypto is paying for everyday life in Europe",
+        "url": "https://cointelegraph.com/news/okx-card-data-shows-crypto-is-paying-for-everyday-life-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1605,
+        "title": "Bitcoin ETFs add nearly $1B as BTC surges past $80K in multi-day rally",
+        "url": "https://cointelegraph.com/news/bitcoin-etfs-1-billion-inflows-btc-surge-past-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1604,
+        "title": "World’s first live map of token concentration: InsightX launches Atlas Live",
+        "url": "https://cointelegraph.com/press-releases/worlds-first-live-map-of-token-concentration-insightx-launches-atlas-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1603,
+        "title": "Bitcoin can crash to $50K if 'most critical' bear market test fails: Analysis",
+        "url": "https://cointelegraph.com/markets/bitcoin-can-crash-to-50k-if-most-critical-bear-market-test-fails-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1601,
+        "title": "Coinbase faces lawsuit over frozen funds from $55M crypto theft",
+        "url": "https://cointelegraph.com/news/coinbase-sued-for-withholding-frozen-crypto-linked-to-55m-defi-saver-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1599,
+        "title": "Linea contributes ZK rollup stack to Linux Foundation open-source group",
+        "url": "https://cointelegraph.com/news/linea-contributes-zk-rollup-stack-to-linux-foundation-open-source-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1598,
+        "title": "Bubblemaps flags MYSTERY token over 90-wallet launch sniping cluster",
+        "url": "https://cointelegraph.com/news/bubblemaps-flags-mystery-over-90-wallet-launch-sniping-cluster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1596,
+        "title": "Samsung SDS wins deal to build South Korea’s blockchain securities system: Report",
+        "url": "https://cointelegraph.com/news/samsung-sds-to-build-token-securities-platform-for-korea-securities-depository?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1592,
+        "title": "Morgan Stanley takes on crypto trading rivals with E*Trade pilot",
+        "url": "https://cointelegraph.com/news/morgan-stanley-emerges-as-crypto-exchange-competitor-with-low-fee-trading-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1591,
+        "title": "When Will Micron Stock Hit $1000 After Recent ATH",
+        "url": "https://watcher.guru/news/when-will-micron-stock-hit-1000-after-recent-ath",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1589,
+        "title": "Colombian president says Bitcoin mining could transform country's Caribbean coast",
+        "url": "https://cointelegraph.com/news/colombia-president-says-bitcoin-mining-could-transform-its-caribbean-coast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1587,
+        "title": "Alphabet (GOOGL) Inches to ATH, Closing in on Nvidia Market Cap",
+        "url": "https://watcher.guru/news/alphabet-googl-inches-to-ath-closing-in-on-nvidia-market-cap",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1585,
+        "title": "Coinbase (COIN) Announces 14% Workforce Layoffs, Favoring AI",
+        "url": "https://watcher.guru/news/coinbase-coin-announces-14-workforce-layoffs-favoring-ai",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1584,
+        "title": "Mizuho Lowers Forecast for Meta Stock, Buy Still Rates it a Buy",
+        "url": "https://watcher.guru/news/mizuho-lowers-forecast-for-meta-stock-buy-still-rates-it-a-buy",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1583,
+        "title": "Internal Revenue Service Deadline: Claim COVID Refund by July 10",
+        "url": "https://watcher.guru/news/internal-revenue-service-deadline-claim-covid-refund-by-july-10",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1582,
+        "title": "Tax Return Update: Georgia Rebates Up to $500 Rolling Out",
+        "url": "https://watcher.guru/news/tax-return-update-georgia-rebates-up-to-500-rolling-out",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1581,
+        "title": "Pennsylvania Sues Character.AI Over Chatbot Posing as Licensed Psychiatrist",
+        "url": "https://decrypt.co/366833/pennsylvania-sues-character-ai-chatbot-posing-licensed-psychiatrist",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1580,
+        "title": "OpenAI Just Upgraded ChatGPT's Default Model—Here's What GPT-5.5 Instant Actually Does",
+        "url": "https://decrypt.co/366842/openai-upgraded-chatgpt-default-model-what-gpt-5-5-instant-does",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1579,
+        "title": "Cybercrime Might Be the One Job AI Isn’t Taking, Study Suggests",
+        "url": "https://decrypt.co/366855/cybercrime-hacking-ai-study",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1577,
+        "title": "Strategy Posts $12.5 Billion Q1 Loss as Bitcoin Slump Hammers Massive Holdings",
+        "url": "https://decrypt.co/366882/strategy-posts-12-5-billion-q1-loss-bitcoin-slump-hammers-holdings",
+        "blog": "Decrypt",
+        "categories": [
+          "dex"
+        ]
+      },
+      {
+        "id": 1576,
+        "title": "A Blues-Singing AI Frog Is Taking Over TikTok Brazil",
+        "url": "https://decrypt.co/366884/blues-singing-ai-frog-taking-over-tiktok-brazil",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1574,
+        "title": "'Moment of Danger': Anthropic CEO Warns of Cyber Risk Window as AI Uncovers Software Flaws",
+        "url": "https://decrypt.co/366891/anthropic-warns-cyber-risk-window-ai-uncovers-flaws",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1571,
+        "title": "a16z Crypto Raises $2.2B Fund to Turn New Infra into Everyday Products",
+        "url": "https://thedefiant.io/news/tradfi-and-fintech/a16z-crypto-raises-usd2-2b-crypto-fund-5",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1570,
+        "title": "Bitcoin Reclaims $81,000 As ETF Inflows Surge Despite Iran Escalation",
+        "url": "https://thedefiant.io/news/markets/bitcoin-reclaims-usd81-000-as-etf-inflows-surge-despite-iran-escalation",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1566,
+        "title": "Coinbase Taps Centrifuge as Preferred Tokenization Partner",
+        "url": "https://thedefiant.io/news/defi/coinbase-taps-centrifuge-as-preferred-tokenization-partner",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1565,
+        "title": "MoonPay buys DFlow to expand into Solana trading infrastructure",
+        "url": "https://cointelegraph.com/news/moonpay-acquires-dflow-to-expand-into-solana-trading-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1564,
+        "title": "US prosecutors ask for leniency for ex-Celsius exec, citing cooperation",
+        "url": "https://cointelegraph.com/news/us-prosecutors-recommendation-celsius-exec-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1563,
+        "title": "Crypto Fear and Greed Index turns neutral for first time since January: Is $100K BTC next?",
+        "url": "https://cointelegraph.com/markets/crypto-fear-and-greed-flips-to-neutral-for-the-first-time-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "dex"
+        ]
+      },
+      {
+        "id": 1561,
+        "title": "Crypto PAC spends $500K in support of Indiana candidate ahead of primary",
+        "url": "https://cointelegraph.com/news/crypto-pac-spending-indiana-candidate-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1559,
+        "title": "Prophet launches AI-powered prediction market with live $10,000 trading tranche",
+        "url": "https://cointelegraph.com/press-releases/prophet-launches-ai-powered-prediction-market-with-live-10000-trading-tranche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1557,
+        "title": "Forward Industries, RockawayX back OnRe to build onchain reinsurance on Solana",
+        "url": "https://cointelegraph.com/news/forward-industries-rockawayx-onre-solana-reinsurance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "rwa"
+        ]
+      },
+      {
+        "id": 1556,
+        "title": "Bitcoin holds $81K amid flat derivatives markets: Is the rally sustainable?",
+        "url": "https://cointelegraph.com/markets/bitcoin-holds-81k-amid-flat-derivatives-markets-is-the-rally-sustainable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1555,
+        "title": "Strategy could sell Bitcoin ‘just to inoculate the market’ — Michael Saylor",
+        "url": "https://cointelegraph.com/news/strategy-posts-125b-net-loss-in-q1-as-btc-fell-xx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1554,
+        "title": "Iggy Azalea faces class lawsuit over MOTHER memecoin",
+        "url": "https://cointelegraph.com/news/iggy-azalea-class-action-lawsuit-mother-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": [
+    {
+      "id": 1613,
+      "title": "Anthropic Deploys AI Agents to Tackle Wall Street's Most Tedious Work",
+      "url": "https://decrypt.co/366977/anthropic-deploys-ai-agents-to-tackle-wall-streets-most-tedious-work",
+      "blog": "Decrypt",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "id": 1578,
+      "title": "Solana and Google Cloud Launch Stablecoin Payments Service for AI Agents",
+      "url": "https://decrypt.co/366876/solana-google-cloud-launch-stablecoin-payments-service-ai-agents",
+      "blog": "Decrypt",
+      "categories": [
+        "banking",
+        "ai"
+      ]
+    }
+  ]
+}

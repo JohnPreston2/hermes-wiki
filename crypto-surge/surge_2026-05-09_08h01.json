@@ -1,0 +1,235 @@
+{
+  "surge_timestamp": "2026-05-09T08:01:03Z",
+  "total_articles": 24,
+  "defi_count": 23,
+  "ai_count": 1,
+  "defi": {
+    "perp": [],
+    "lending": [
+      {
+        "id": 1796,
+        "title": "LayerZero Admits Mistake in 1/1 DVN Setup Tied to $292M Kelp Hack",
+        "url": "https://thedefiant.io/news/security/layerzero-labs-security-incident-multisig-violation-rjuv1s",
+        "blog": "The Defiant",
+        "categories": [
+          "bridge",
+          "lending"
+        ]
+      }
+    ],
+    "banking": [
+      {
+        "id": 1806,
+        "title": "Kraken Parent Payward Applies for OCC National Trust Bank Charter",
+        "url": "https://decrypt.co/367299/kraken-parent-payward-applies-occ-national-trust-bank-charter",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1803,
+        "title": "Elizabeth Warren Wants Meta to Spill All on Stablecoin Plans Ahead of Clarity Act Votes",
+        "url": "https://decrypt.co/367314/elizabeth-warren-meta-stablecoin-plans-clarity-act-votes",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1800,
+        "title": "Banking Industry Says Clarity Act Stablecoin Proposal Would Enable 'Evasion'",
+        "url": "https://decrypt.co/367351/banking-industry-clarity-act-stablecoin-evasion",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1793,
+        "title": "US Senator questions Mark Zuckerberg on Meta’s stablecoin plans",
+        "url": "https://cointelegraph.com/news/us-senator-mark-zuckerberg-meta-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1791,
+        "title": "Price predictions 5/8: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+        "url": "https://cointelegraph.com/markets/price-predictions-58-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1790,
+        "title": "Kraken parent company applies for OCC charter in move toward banking",
+        "url": "https://cointelegraph.com/news/kraken-payward-occ-charter-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 1808,
+        "title": "Cloudflare (NET) Stock Sinks 20%: What Caused the Stock Selloff?",
+        "url": "https://watcher.guru/news/cloudflare-net-stock-sinks-20-what-caused-the-stock-selloff",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1807,
+        "title": "What does Bitcoin “Power Projection” mean to the U.S. Military?",
+        "url": "https://bitcoinmagazine.com/politics/what-does-bitcoin-power-projection-mean-to-the-u-s-military",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1805,
+        "title": "Trump Admin Launches Pentagon UFO Website With Declassified Files",
+        "url": "https://decrypt.co/367300/trump-admin-launches-pentagon-ufo-website-declassified",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1804,
+        "title": "Will Strategy Sell Bitcoin This Year? Traders Are Convinced After Saylor Comments",
+        "url": "https://decrypt.co/367298/will-strategy-sell-bitcoin-myriad-traders-convinced-saylor-comments",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1802,
+        "title": "Intel Stock Hits All-Time High After Preliminary Chip Deal With Apple",
+        "url": "https://decrypt.co/367320/intel-all-time-high-chip-deal-apple",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1801,
+        "title": "TeraWulf's AI Compute Revenue Outpaces Bitcoin Mining Amid $427 Million Loss",
+        "url": "https://decrypt.co/367309/terawulfs-ai-compute-revenue-outpaces-bitcoin-mining-amid-427-million-loss",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1799,
+        "title": "Kraken Parent Payward Seeks US Federal Trust Charter",
+        "url": "https://thedefiant.io/news/regulation/kraken-parent-payward-files-with-occ-for-federal-trust-charter",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1798,
+        "title": "ONDO Surges 68% in a Week amid US Tokenization Push",
+        "url": "https://thedefiant.io/news/defi/ondo-surges-68-in-a-week-amid-us-tokenization-push",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1797,
+        "title": "MegaETH Kicks Off MEGA Buybacks",
+        "url": "https://thedefiant.io/news/blockchains/megaeth-kicks-off-mega-buybacks",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1795,
+        "title": "Crypto Biz: Wall Street wants more than just Bitcoin",
+        "url": "https://cointelegraph.com/news/crypto-biz-institutions-crypto-bitcoin-etfs-prediction-markets-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1794,
+        "title": "Bitcoin profit-taking may 'accelerate' as price hits 3-month high: Analyst",
+        "url": "https://cointelegraph.com/news/bitcoin-profit-accelerate-price-3-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1789,
+        "title": "Swiss Bitcoin reserve campaign set to lapse after failing to gather signatures",
+        "url": "https://cointelegraph.com/news/swiss-bitcoin-reserve-campaign-to-lapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1788,
+        "title": "Estonia's FSA issues investor warning about Zondacrypto",
+        "url": "https://cointelegraph.com/news/estonia-fsa-investor-warning-zondacrypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1787,
+        "title": "Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report",
+        "url": "https://cointelegraph.com/news/crypto-companies-law-risky-tokens-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1786,
+        "title": "Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally?",
+        "url": "https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1785,
+        "title": "CLARITY Act sees ‘big step forward’ as markup set for May 14",
+        "url": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "rwa"
+        ]
+      }
+    ]
+  },
+  "ai": [
+    {
+      "id": 1792,
+      "title": "Exodus launches AI agent-focused stablecoin on Solana",
+      "url": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "blog": "CoinTelegraph",
+      "categories": [
+        "banking",
+        "ai"
+      ]
+    }
+  ]
+}

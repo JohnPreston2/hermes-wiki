@@ -1,0 +1,739 @@
+{
+  "surge_timestamp": "2026-05-13T16:00:49Z",
+  "total_articles": 80,
+  "defi_count": 79,
+  "ai_count": 1,
+  "defi": {
+    "perp": [
+      {
+        "id": 2192,
+        "title": "Stork promises ‘true’ 24/7 price discovery for stocks and gold tapping Binance and other perps markets",
+        "url": "https://www.theblock.co/post/401053/stork-24-7-price-discovery?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 2180,
+        "title": "Hyperliquid ETF attracts $1.2M inflows in 'very solid' US debut",
+        "url": "https://cointelegraph.com/news/us-first-hyperliquid-etf-clocks-1m-net-inflow-in-very-solid-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 2173,
+        "title": "First-ever Hyperliquid ETF launches, posts ‘very solid’ first day of trading: analyst",
+        "url": "https://www.theblock.co/post/401047/first-ever-hyperliquid-etf-launches-posts-very-solid-first-day-of-trading-analyst?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "perp"
+        ]
+      }
+    ],
+    "lending": [
+      {
+        "id": 2219,
+        "title": "Bitcoin pinned near critical support as hot PPI spike compounds rate hike fears: analysts",
+        "url": "https://www.theblock.co/post/401169/bitcoin-pinned-near-critical-support-as-hot-ppi-spike-compounds-rate-hike-fears-analysts?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "lending"
+        ]
+      },
+      {
+        "id": 2172,
+        "title": "Kelp DAO, Aave to resume rsETH operations as recovery from $292 million exploit progresses",
+        "url": "https://www.theblock.co/post/401060/kelp-dao-aave-resume-rseth?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "lending"
+        ]
+      },
+      {
+        "id": 2152,
+        "title": "DTCC to use Chainlink to power 24/7 collateral management network",
+        "url": "https://cointelegraph.com/news/dtcc-to-use-chainlink-to-power-247-collateral-management-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "lending"
+        ]
+      },
+      {
+        "id": 2146,
+        "title": "Kelp DAO eyes unpausing withdrawals after attackers’ rsETH on Arbitrum is burned",
+        "url": "https://cointelegraph.com/news/kelp-dao-eyes-reopening-withdrawals-as-attackers-rseth-on-arbitrum-is-burned?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "lending"
+        ]
+      }
+    ],
+    "banking": [
+      {
+        "id": 2204,
+        "title": "Bank of England Treating Stablecoins as 'New Form of Money', Says Exec",
+        "url": "https://decrypt.co/367750/bank-england-treating-stablecoins-new-form-money-exec",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 2203,
+        "title": "Arkham maps Iran central bank wallets after $344M USDT freeze",
+        "url": "https://cointelegraph.com/news/iran-central-banks-crypto-wallets-get-public-map-after-ofac-designation-arkham?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 2196,
+        "title": "Korean won stablecoin KRWQ expands to Solana following March EDX Markets listing",
+        "url": "https://www.theblock.co/post/401093/krwq-expands-solana?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 2190,
+        "title": "XRP Faces Resistance At $1.50: Here’s What It Needs To Rally",
+        "url": "https://watcher.guru/news/xrp-faces-resistance-at-1-50-heres-what-it-needs-to-rally",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 2182,
+        "title": "Japan’s enterprise-led blockchain to issue yen stablecoin for B2B settlements",
+        "url": "https://www.theblock.co/post/401075/japan-yen-stablecoin-ejpy?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 2167,
+        "title": "De-Dollarization: Central Bank Gold Holdings Top USD Reserves",
+        "url": "https://watcher.guru/news/de-dollarization-central-bank-gold-holdings-top-usd-reserves",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 2155,
+        "title": "XRP traders say bullishness ‘growing’ as ETFs log largest inflow since January",
+        "url": "https://cointelegraph.com/markets/xrp-traders-bullishness-growing-etfs-log-largest-inflow-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 2149,
+        "title": "JPMorgan to launch tokenized money market fund for stablecoin issuers",
+        "url": "https://cointelegraph.com/news/jpmorgan-files-second-tokenized-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "rwa",
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 2223,
+        "title": "Metaplanet posts $725 million Q1 net loss as bitcoin markdowns outweigh operating gains",
+        "url": "https://www.theblock.co/post/401138/metaplanet-q1-net-loss-bitcoin-markdowns-outweigh-operating-gains?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2222,
+        "title": "Ethereum closes gap with Solana as DEX volumes converge near $45 billion",
+        "url": "https://www.theblock.co/post/400806/ethereum-closes-gap-solana-dex-volumes-converge-45-billion?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "dex"
+        ]
+      },
+      {
+        "id": 2221,
+        "title": "Strategy’s STRC may be fueling recurring mid-month bitcoin rallies, K33 says",
+        "url": "https://www.theblock.co/post/401149/strategys-strc-may-be-fueling-recurring-mid-month-bitcoin-rallies-k33?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2220,
+        "title": "Anchorage and Mexican billionaire’s Grupo Salinas ink cross-border payments partnership",
+        "url": "https://www.theblock.co/post/401066/anchorage-grupo-salinas-partnership?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2218,
+        "title": "Proposal: Additions to the Lido ICS framework to streamline the SSV community NOs path to verification",
+        "url": "https://research.lido.fi/t/proposal-additions-to-the-lido-ics-framework-to-streamline-the-ssv-community-nos-path-to-verification/11559",
+        "blog": "Lido Governance",
+        "categories": [
+          "yield"
+        ]
+      },
+      {
+        "id": 2217,
+        "title": "[TEMP CHECK] Establish Babylon Spoke and Onboard Babylon Native BTC",
+        "url": "https://governance.aave.com/t/temp-check-establish-babylon-spoke-and-onboard-babylon-native-btc/24911",
+        "blog": "Aave Governance",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2216,
+        "title": "Analyst Argues Micron Stock Could Reach $3,000",
+        "url": "https://watcher.guru/news/analyst-argues-micron-stock-could-reach-3000",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2215,
+        "title": "While You Watched Nvidia, This AI Stock Rose 900%: Do You Own It?",
+        "url": "https://watcher.guru/news/while-you-watched-nvidia-this-ai-stock-rose-900-do-you-own-it",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2214,
+        "title": "Google Stock To Moon? Talks with SpaceX To Launch Data Centers in Orbit",
+        "url": "https://watcher.guru/news/google-stock-to-moon-talks-with-spacex-to-launch-data-centers-in-orbit",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2213,
+        "title": "Amazon Stock New Price Target $350 (AMZN)",
+        "url": "https://watcher.guru/news/amazon-stock-new-price-target-350-amzn",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2212,
+        "title": "Analysts See 75% Upside Potential For Quantum Computing Stock (QUBT)",
+        "url": "https://watcher.guru/news/analysts-see-75-upside-potential-for-quantum-computing-stock-qubt",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2211,
+        "title": "Shiba Inu’s $0.000006 Resistance Is Proving Difficult: Here’s Why",
+        "url": "https://watcher.guru/news/shiba-inus-0-000006-resistance-is-proving-difficult-heres-why",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2210,
+        "title": "$11.77 Trillion Brokerage Giant Charles Schwab Launches Spot Bitcoin Trading Platform",
+        "url": "https://bitcoinmagazine.com/news/charles-schwab-launches-spot-bitcoin",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2209,
+        "title": "Blockaid Launches Real-Time Compliance Suite as Institutions Deepen Crypto Exposure",
+        "url": "https://bitcoinmagazine.com/news/blockaid-launches-compliance-suite-crypto",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2208,
+        "title": "Senate Crypto Bill Faces Over 100 Amendments Ahead of Thursday Markup",
+        "url": "https://bitcoinmagazine.com/news/senate-crypto-bill-faces-100-amendments",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2207,
+        "title": "The 2036 Issue: Letter From The Editor",
+        "url": "https://bitcoinmagazine.com/print/the-2036-issue-letter-from-the-editor",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2206,
+        "title": "Quantum Computing Threat 'Mostly a Coordination Issue' for Bitcoin: Fireblocks CEO",
+        "url": "https://decrypt.co/367714/quantum-computing-threat-coordination-issue-bitcoin-fireblocks-ceo",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2205,
+        "title": "Half of AI Health Advice Is Wrong—And Seems Just Right",
+        "url": "https://decrypt.co/367689/half-ai-health-advice-wrong-seems-right",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2201,
+        "title": "Bitcoin to $100K in Q2? Strategy’s STRC unlocks potential to buy 3K BTC in two days",
+        "url": "https://cointelegraph.com/markets/bitcoin-100k-in-q2-strategy-strc-unlocks-buy-3k-btc-two-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2200,
+        "title": "Metaplanet Q1 profit jumps, but Bitcoin losses hit bottom line",
+        "url": "https://cointelegraph.com/news/metaplanet-reports-strong-q1-operating-income-wider-loss-on-bitcoin-revaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2199,
+        "title": "Farage faces UK standards probe over $7M gift from crypto billionaire",
+        "url": "https://cointelegraph.com/news/farage-uk-standards-probe-7m-gift-crypto-billionaire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2198,
+        "title": "Paybis secures MiCA, payment licenses in Latvia for EU crypto expansion",
+        "url": "https://cointelegraph.com/news/crypto-exchange-paybis-secures-mica-and-psd2-licenses-in-latvia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2197,
+        "title": "Brickken and Magma partner to deliver Net Asset Value (NAV) oracle for tokenized real estate",
+        "url": "https://cointelegraph.com/press-releases/brickken-and-magma-partner-to-deliver-net-asset-value-nav-oracle-for-tokenized-real-estate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "rwa"
+        ]
+      },
+      {
+        "id": 2195,
+        "title": "Anthropic, OpenAI tokenized PreStocks on Solana plunge after unauthorized equity transfer warnings",
+        "url": "https://www.theblock.co/post/401088/anthropic-openai-tokenized-prestocks-plunge?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "rwa"
+        ]
+      },
+      {
+        "id": 2194,
+        "title": "Bitwise CIO says GENIUS Act helped unlock crypto fundraising as tokenization now eyes Clarity Act boost",
+        "url": "https://www.theblock.co/post/401115/bitwise-cio-says-genius-act-helped-unlock-crypto-fundraising-as-tokenization-now-eyes-clarity-act-boost?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2193,
+        "title": "Solana treasury firm Upexi posts $109 million quarterly net loss amid crypto markdowns",
+        "url": "https://www.theblock.co/post/401104/upexi-posts-109-million-quarterly-losses?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2191,
+        "title": "My Reality of Investing in Crypto",
+        "url": "https://defi0xjeff.substack.com/p/my-reality-of-investing-in-crypto",
+        "blog": "0xJeff",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2189,
+        "title": "Sandisk Price Prediction: Can AI Surge Push It To $2000 In 2026?",
+        "url": "https://watcher.guru/news/sandisk-price-prediction-can-ai-surge-push-it-to-2000-in-2026",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2188,
+        "title": "Morning Minute: CPI Comes In Hot; Stocks, Crypto Shrug",
+        "url": "https://decrypt.co/367731/morning-minute-cpi-comes-in-hot-stocks-crypto-shrug",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2187,
+        "title": "Upexi falls 8% after widened fiscal Q3 net loss",
+        "url": "https://cointelegraph.com/news/upexi-q3-net-loss-solana-holdings-2-5m-sol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2186,
+        "title": "EToro profits rise as commodities boom offsets crypto trading slump",
+        "url": "https://cointelegraph.com/news/etoros-net-income-jumps-37-on-commodities-surge-crypto-trades-drop-32?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2185,
+        "title": "Jane Street slashes Bitcoin ETF holdings, adds Ether funds in Q1 2026",
+        "url": "https://cointelegraph.com/news/jane-street-slashes-bitcoin-etfs-adds-ether-funds-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2184,
+        "title": "Vietnam eyes Q3 launch for regulated crypto asset market: Report",
+        "url": "https://cointelegraph.com/news/vietnam-plans-crypto-market-launch-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2183,
+        "title": "Bitcoin price repeating move with 77% all-time high odds within year: Analyst",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-repeats-move-with-77-all-time-high-odds-within-a-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2181,
+        "title": "Crypto Godfather Has Bad And Good News For Bitcoin",
+        "url": "https://watcher.guru/news/crypto-godfather-has-bad-and-good-news-for-bitcoin",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2179,
+        "title": "Legend becomes latest DeFi app to throw in towel",
+        "url": "https://cointelegraph.com/news/legend-defi-app-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2178,
+        "title": "eToro Q1 crypto revenue drops to $2.15 billion from last year’s $3.5 billion",
+        "url": "https://www.theblock.co/post/401008/etoro-q1-crypto-revenue-drops-to-2-15-billion-from-last-years-3-5-billion?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2177,
+        "title": "Bitcoin dominance rebounds above 58% signaling crypto market consolidation phase",
+        "url": "https://www.theblock.co/post/400801/bitcoin-dominance-rebounds-above-58-crypto-market-consolidation-phase?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2176,
+        "title": "JPMorgan launching second tokenized money market fund on Ethereum",
+        "url": "https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "rwa"
+        ]
+      },
+      {
+        "id": 2175,
+        "title": "CFTC backs Kalshi in Ohio fight over prediction markets jurisdictional battle",
+        "url": "https://www.theblock.co/post/401039/cftc-backs-kalshi-in-ohio-fight-over-prediction-markets-jurisdictional-battle?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2174,
+        "title": "Benchmark joins others in reiterating Buy rating on Coinbase stock despite lackluster Q1 earnings",
+        "url": "https://www.theblock.co/post/400981/benchmark-joins-others-in-reiterating-buy-rating-on-coinbase-stock-despite-lackluster-q1-earnings?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2171,
+        "title": "Charles Schwab launches spot BTC, ETH trading to select retail clients",
+        "url": "https://www.theblock.co/post/401069/charles-schwab-spot-btc-eth?utm_source=rss&utm_medium=rss",
+        "blog": "The Block",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2170,
+        "title": "eBay Rejects GameStop’s $56B Acquisition Offer: GME Stock Dips",
+        "url": "https://watcher.guru/news/ebay-rejects-gamestops-56b-acquisition-offer-gme-stock-dips",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2169,
+        "title": "Broadcom (AVGO) Stock Forecast: Citi Bullish on Q2 Earnings",
+        "url": "https://watcher.guru/news/broadcom-avgo-stock-forecast-citi-bullish-on-q2-earnings",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2168,
+        "title": "Trump Pick for Fed Chair Kevin Warsh Wins Senate Confirmation",
+        "url": "https://watcher.guru/news/trump-pick-for-fed-chair-kevin-warsh-wins-senate-confirmation",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2166,
+        "title": "Square Crosses 1 Million Bitcoin-Enabled Merchants as Real-World Adoption Continues to Grow",
+        "url": "https://bitcoinmagazine.com/news/square-crosses-1-million-bitcoin-merchants",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2165,
+        "title": "What’s Really at Stake in the Market Structure Debate: The BRCA",
+        "url": "https://bitcoinmagazine.com/legal/whats-really-at-stake-in-the-market-structure-debate-the-brca",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2164,
+        "title": "Ethereum Developers Propose Fix to 'Blind Signing' Risk Tied to Massive Losses",
+        "url": "https://decrypt.co/367646/ethereum-developers-propose-fix-blind-signing-risk-massive-losses",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2163,
+        "title": "Bitcoin Miner MARA Sells $1.5 Billion in BTC, Reports $1.26 Billion Q1 Loss",
+        "url": "https://decrypt.co/367650/bitcoin-miner-mara-sells-1-5-billion-btc-q1-loss",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2162,
+        "title": "Android Is About to Get a Lot Smarter With Google AI Boosts—Here's How",
+        "url": "https://decrypt.co/367648/android-smarter-google-ai-boosts-heres-how",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2161,
+        "title": "Fake OpenAI Repo Hit #1 on Hugging Face—And Stole Passwords While It Trended",
+        "url": "https://decrypt.co/367659/fake-openai-repo-hugging-face-stole-passwords",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2160,
+        "title": "Bitcoin Wallet Firm Exodus Expands Payments Push, Sells $87 Million in BTC",
+        "url": "https://decrypt.co/367663/bitcoin-wallet-firm-exodus-expands-payments-push-sells-87-million-btc",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2159,
+        "title": "JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum",
+        "url": "https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum",
+        "blog": "Decrypt",
+        "categories": [
+          "rwa"
+        ]
+      },
+      {
+        "id": 2158,
+        "title": "Hackers Insert Malware Into Mistral AI Software Download",
+        "url": "https://decrypt.co/367683/hackers-insert-malware-mistral-ai",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2157,
+        "title": "Bitcoin Clings To $80K As Altcoins Drag Market Lower",
+        "url": "https://thedefiant.io/news/markets/bitcoin-clings-to-usd80k-as-altcoins-drag-market-lower",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2156,
+        "title": "Ethereum derivatives unfazed by DeFi hacks: Can ETH hit $2.6K next?",
+        "url": "https://cointelegraph.com/markets/eth-derivatives-unfazed-defi-hacks-eth-hit-2600-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2154,
+        "title": "Latest version of crypto market structure bill raises eyebrows ahead of Senate markup",
+        "url": "https://cointelegraph.com/news/us-senate-banking-committee-draft-crypto-market-structure-bill-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2153,
+        "title": "WAIB Summit Monaco 2026 returns: the world’s most exclusive gathering for digital assets & AI",
+        "url": "https://cointelegraph.com/press-releases/waib-summit-monaco-2026-returns-the-worlds-most-exclusive-gathering-for-digital-assets-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2151,
+        "title": "Senate confirms Kevin Warsh as Federal Reserve governor, with chair vote expected",
+        "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2150,
+        "title": "Bermuda to transition ‘key’ financial services to Stellar blockchain",
+        "url": "https://cointelegraph.com/news/bermuda-financial-services-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2148,
+        "title": "Senators file over 100 amendments to crypto bill ahead of markup",
+        "url": "https://cointelegraph.com/news/senators-file-over-100-amendments-to-crypto-bill-ahead-of-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2147,
+        "title": "Iran war, AI spending could push Bitcoin back to $126K this year: Hayes",
+        "url": "https://cointelegraph.com/news/arthur-hayes-bitcoin-ai-race-iran-war-money-printing-126k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2145,
+        "title": "Ethereum community launches security feature to end blind signing",
+        "url": "https://cointelegraph.com/news/ethereum-contributors-launch-security-feature-to-end-blind-signing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 2144,
+        "title": "CFTC backs prediction market Kalshi in appeals court fight against Ohio",
+        "url": "https://cointelegraph.com/news/cftc-backs-kalshi-appeals-court-ohio-prediction-markets-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": [
+    {
+      "id": 2202,
+      "title": "Coinbase-backed x402 adds batch settlement for AI agent payments",
+      "url": "https://cointelegraph.com/news/coinbase-launches-x402-batch-settlement-ai-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "blog": "CoinTelegraph",
+      "categories": [
+        "ai"
+      ]
+    }
+  ]
+}

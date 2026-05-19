@@ -1,0 +1,377 @@
+{
+  "surge_timestamp": "2026-05-04T16:00:28Z",
+  "total_articles": 40,
+  "defi_count": 40,
+  "ai_count": 0,
+  "defi": {
+    "perp": [
+      {
+        "id": 1431,
+        "title": "Trump Family’s World Liberty Claims in Lawsuit That Justin Sun Shorted WLFI, Crashed Price",
+        "url": "https://decrypt.co/366635/trump-family-world-liberty-lawsuit-justin-sun-shorted-wlfi-crashed-price",
+        "blog": "Decrypt",
+        "categories": [
+          "perp"
+        ]
+      }
+    ],
+    "lending": [
+      {
+        "id": 1425,
+        "title": "Lawyer Attempts to Seize Frozen ETH Linked to Kelp Exploit From Arbitrum DAO",
+        "url": "https://thedefiant.io/news/defi/lawyer-attempts-to-seize-frozen-eth-linked-to-kelp-exploit-from-arbitrum-dao",
+        "blog": "The Defiant",
+        "categories": [
+          "lending"
+        ]
+      },
+      {
+        "id": 1412,
+        "title": "US law firm attempts to block transfer of frozen ETH from Kelp exploit",
+        "url": "https://cointelegraph.com/news/law-firm-tries-to-claim-kelp-exploit-eth-because-clients-owed-by-dprk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "lending"
+        ]
+      }
+    ],
+    "banking": [
+      {
+        "id": 1433,
+        "title": "Morning Minute: Bitcoin Clears $80K, Reverses on Iran Missile Strike",
+        "url": "https://decrypt.co/366623/morning-minute-bitcoin-clears-80k-reverses-iran-missile-strike",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1427,
+        "title": "Western Union Stablecoin USDPT Launches on Solana",
+        "url": "https://thedefiant.io/news/tradfi-and-fintech/western-union-usdpt-stablecoin-solana-launch-frei03",
+        "blog": "The Defiant",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1415,
+        "title": "XRP’s Worth 1 Year Later in May 2027: Price Prediction",
+        "url": "https://watcher.guru/news/xrps-worth-1-year-later-in-may-2027-price-prediction",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1403,
+        "title": "Stablecoin firms have a $112B opportunity in LATAM remittance outside of US-Mexico: Bybit",
+        "url": "https://cointelegraph.com/news/stablecoin-firms-should-focus-on-non-us-corridors-in-latam-to-capture-opportunities-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1402,
+        "title": "‘Stablecoins’ are an outdated term from crypto’s early years: a16z Crypto",
+        "url": "https://cointelegraph.com/news/stablecoins-are-an-outdated-term-a16z-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 1440,
+        "title": "Jefferies Sees Upside in Apple, Raises Target to $299.88",
+        "url": "https://watcher.guru/news/jefferies-sees-upside-in-apple-raises-target-to-299-88",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1439,
+        "title": "SkyAI Hits All-Time High After 700% Rally: Is It Safe To Invest?",
+        "url": "https://watcher.guru/news/skyai-hits-all-time-high-after-700-rally-is-it-safe-to-invest",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1438,
+        "title": "Microsoft Stock (MSFT) in May 2026: Profit, Loss, or Stagnation?",
+        "url": "https://watcher.guru/news/microsoft-stock-msft-in-may-2026-profit-loss-or-stagnation",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1437,
+        "title": "Amazon Stock: A Silent Feature Delivering Billions in Revenue For AMZN",
+        "url": "https://watcher.guru/news/amazon-stock-a-feature-delivering-billions-in-revenue-for-amzn",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1436,
+        "title": "Trump Family’s WLFI Coin Rallies 7.8% After Massive Token Sale",
+        "url": "https://watcher.guru/news/trump-familys-wlfi-coin-rallies-7-8-after-massive-token-sale",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1435,
+        "title": "Pivotal Bullish on Alphabet, Raises GOOGL Target to $470",
+        "url": "https://watcher.guru/news/pivotal-bullish-on-alphabet-raises-googl-target-to-470",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1434,
+        "title": "Strategy (MSTR) Pauses Bitcoin Buys Ahead of Earnings, Stock Jumps Over 10% in 2 Days",
+        "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buys-earnings",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1432,
+        "title": "GameStop Makes $55.5 Billion Offer to Acquire eBay",
+        "url": "https://decrypt.co/366627/gamestop-makes-55-5-billion-offer-acquire-ebay",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1430,
+        "title": "Strategy Skips Bitcoin Buy as BTC Hits $80K for First Time Since January",
+        "url": "https://decrypt.co/366624/strategy-skips-bitcoin-buy-btc-80k-first-time-since-january",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1429,
+        "title": "BitMine Buys $240 Million in Ethereum as Tom Lee Heralds Arrival of 'Crypto Spring'",
+        "url": "https://decrypt.co/366639/bitmine-buys-240-million-ethereum-tom-lee-heralds-crypto-spring",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1428,
+        "title": "DTCC Reveals Launch Plans for Tokenization Service With Wall Street Giants Onboard",
+        "url": "https://decrypt.co/366646/dtcc-reveals-launch-tokenization-service-wall-street-giants-onboard",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1426,
+        "title": "Securitize Becomes First Broker-Dealer Approved to Custody Tokenized Securities: FINRA",
+        "url": "https://thedefiant.io/news/regulation/securitize-finra-approval-tokenized-securities-custody-5hk9d7",
+        "blog": "The Defiant",
+        "categories": [
+          "rwa"
+        ]
+      },
+      {
+        "id": 1424,
+        "title": "GameStop makes $55.5B offer to buy eBay in surprise takeover bid",
+        "url": "https://cointelegraph.com/news/gamestop-56-billion-ebay-acquisition-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1423,
+        "title": "South Korea crypto sector warns AML proposal goes too far: Report",
+        "url": "https://cointelegraph.com/news/south-koreas-crypto-exchanges-push-bank-on-10m-won-reporting-rule-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1422,
+        "title": "Bitcoin price eyes $96K as institutions absorb 500% of daily BTC supply",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-96k-as-institutions-absorb-500-of-daily-btc-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1421,
+        "title": "SEC delays prediction market ETFs over mechanics and risk concerns: Report",
+        "url": "https://cointelegraph.com/news/prediction-market-etf-sec-delay-mechanics-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1420,
+        "title": "Bitcoin in ‘disbelief rally’ as traders spot $84K BTC price target",
+        "url": "https://cointelegraph.com/markets/bitcoin-in-disbelief-rally-as-traders-eye-84k-btc-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1419,
+        "title": "Hut 8 refinances Bitcoin-backed loan with $200M FalconX deal",
+        "url": "https://cointelegraph.com/news/hut-8-secures-200m-bitcoin-backed-credit-facility-from-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1418,
+        "title": "ZIGChain Summit 2026 marks a defining moment for onchain finance as ecosystem unites around execution, partnerships",
+        "url": "https://cointelegraph.com/press-releases/zigchain-summit-2026-marks-a-defining-moment-for-onchain-finance-as-ecosystem-unites-around-execution-partnerships?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1417,
+        "title": "Hermes as the Ultimate Analyst — I've found the gist for my ultimate analyst",
+        "url": "https://defi0xjeff.substack.com/p/hermes-as-the-ultimate-analyst-ive",
+        "blog": "0xJeff",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1416,
+        "title": "Bitcoin Reclaims $80,000: Road To $100k Explained",
+        "url": "https://watcher.guru/news/bitcoin-reclaims-80000-road-to-100k-explained",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1414,
+        "title": "Dogecoin Dominates With 22% Rally: Risks You Should Know",
+        "url": "https://watcher.guru/news/dogecoin-dominates-with-22-rally-risks-you-should-know",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1413,
+        "title": "What Is the Highest and Lowest Price for Shiba Inu (SHIB)?",
+        "url": "https://watcher.guru/news/what-is-the-highest-and-lowest-price-for-shiba-inu-shib",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1411,
+        "title": "Capital B raises $1.3M from Adam Back for Bitcoin strategy",
+        "url": "https://cointelegraph.com/news/capital-b-raises-12m-from-adam-back-to-fuel-bitcoin-treasury-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1410,
+        "title": "BTC price can 'easily' hit $95K: Five things to know in Bitcoin this week",
+        "url": "https://cointelegraph.com/markets/btc-price-can-easily-hit-95k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1409,
+        "title": "Nvidia China Share Hits Zero but Analysts Back $380 Price Target",
+        "url": "https://watcher.guru/news/nvidia-china-share-hits-zero-but-analysts-back-380-price-target",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1408,
+        "title": "Bitcoin climbs past $80K for the first time since January",
+        "url": "https://cointelegraph.com/news/bitcoin-climbs-past-80k-for-the-first-time-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1407,
+        "title": "Warren Buffett Sends Clear 2026 Market Message as Risks Build",
+        "url": "https://watcher.guru/news/warren-buffett-sends-clear-2026-market-message-as-risks-build",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1406,
+        "title": "You Installed Hermes. Now Make It Look Better Than ChatGPT or Claude",
+        "url": "https://decrypt.co/366535/you-installed-hermes-make-look-better-chatgpt-claude",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1405,
+        "title": "How Canton Network Lets Institutions Guard Against DeFi Security Risks: Digital Asset CEO",
+        "url": "https://decrypt.co/366086/how-canton-network-lets-institutions-guard-against-defi-security-risks",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1404,
+        "title": "Strategy takes Bitcoin buying breather ahead of Q1 earnings report",
+        "url": "https://cointelegraph.com/news/strategy-takes-a-bitcoin-buying-breather-ahead-of-q1-earnings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1401,
+        "title": "CFTC sees mixed responses to prediction market rulemaking",
+        "url": "https://cointelegraph.com/news/cftc-mixed-responses-prediction-market-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": []
+}

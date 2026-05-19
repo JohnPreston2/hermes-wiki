@@ -1,0 +1,622 @@
+{
+  "surge_timestamp": "2026-05-07T16:00:36Z",
+  "total_articles": 67,
+  "defi_count": 67,
+  "ai_count": 0,
+  "defi": {
+    "perp": [
+      {
+        "id": 1665,
+        "title": "GraniteShares Ready To Launch the 3x-Leverage XRP ETF?",
+        "url": "https://watcher.guru/news/graniteshares-ready-to-launch-the-3x-leverage-xrp-etf",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking",
+          "perp"
+        ]
+      },
+      {
+        "id": 1658,
+        "title": "OKX to Launch OpenAI, SpaceX and Anthropic Perpetual Futures in Pre-IPO Trading Push",
+        "url": "https://decrypt.co/367022/okx-openai-spacex-anthropic-perpetual-futures-pre-ipo",
+        "blog": "Decrypt",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 1650,
+        "title": "Kraken Launches Spot Margin Trading for US Clients",
+        "url": "https://thedefiant.io/news/cefi/kraken-launches-spot-margin-trading-for-us-clients",
+        "blog": "The Defiant",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 1639,
+        "title": "Aave liquidates Kelp DAO hacker's rsETH positions on Ethereum, Arbitrum",
+        "url": "https://cointelegraph.com/news/aave-liquidates-kelp-dao-hackers-rseth-stash-ethereum-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "perp",
+          "lending"
+        ]
+      }
+    ],
+    "lending": [],
+    "banking": [
+      {
+        "id": 1696,
+        "title": "Kraken Parent Acquires Asian Stablecoin Firm Reap for $600 Million: Bloomberg",
+        "url": "https://decrypt.co/367094/kraken-parent-acquires-asian-stablecoin-firm-reap-600-million",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1690,
+        "title": "Kraken's Parent Company Acquires Stablecoin Payments Firm Reap for $600M",
+        "url": "https://thedefiant.io/news/cefi/kraken-parent-payward-acquires-hong-kong-payments-firm-reap-for-usd600m",
+        "blog": "The Defiant",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1683,
+        "title": "XRP 'probably going to $12' as price holds historical bottom zone for months",
+        "url": "https://cointelegraph.com/markets/xrp-probably-going-to-12-dollars-price-holds-bottom-for-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1681,
+        "title": "Kraken parent Payward to buy Reap in $600M stablecoin payments push",
+        "url": "https://cointelegraph.com/news/kraken-payward-reap-acquisition-600-million-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1680,
+        "title": "Zcash Rises 109% In 30 Days: Privacy Coin Demand Surge?",
+        "url": "https://watcher.guru/news/zcash-rises-109-in-30-days-privacy-coin-demand-surge",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1679,
+        "title": "Gold Vs. Tether Gold: Differences, Pros, And Cons Explained",
+        "url": "https://watcher.guru/news/gold-vs-tether-gold-differences-pros-and-cons-explained",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1670,
+        "title": "Changelly report highlights growing stablecoin use in everyday spending ahead of May 15 infrastructure discussion",
+        "url": "https://cointelegraph.com/press-releases/changelly-report-highlights-growing-stablecoin-use-in-everyday-spending-ahead-of-may-15-infrastructure-discussion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1664,
+        "title": "UAE-regulated stablecoins to develop AED-USD conversion rails for institutional settlement",
+        "url": "https://cointelegraph.com/news/uae-regulated-stablecoins-to-develop-aed-usd-conversion-rails-for-institutional-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1657,
+        "title": "Ondo, JPMorgan, Mastercard and Ripple Team to Settle Tokenized Treasuries on XRP Ledger",
+        "url": "https://decrypt.co/367033/ondo-jpmorgan-mastercard-ripple-settle-tokenized-treasuries-xrp-ledger",
+        "blog": "Decrypt",
+        "categories": [
+          "banking",
+          "rwa"
+        ]
+      },
+      {
+        "id": 1648,
+        "title": "Switzerland's Amina becomes first regulated bank to custody Canton Coin",
+        "url": "https://cointelegraph.com/news/amina-becomes-first-regulated-bank-to-custody-canton-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1647,
+        "title": "Price predictions 5/6: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, ZEC",
+        "url": "https://cointelegraph.com/markets/price-predictions-56-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1641,
+        "title": "JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger",
+        "url": "https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1640,
+        "title": "Stablecoin adoption to scale on back of ‘very large’ tech firms: Bitwise",
+        "url": "https://cointelegraph.com/news/stablecoin-scale-adoption-by-tech-giants-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 1705,
+        "title": "2 Positive Signals That Shiba Inu Benefited in 2026",
+        "url": "https://watcher.guru/news/2-positive-signals-that-shiba-inu-benefited-in-2026",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1704,
+        "title": "Vertiv Stock Rises 100% & Doubles in Price in 2026 (VRT)",
+        "url": "https://watcher.guru/news/vertiv-stock-rises-100-doubles-in-price-in-2026-vrt",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1703,
+        "title": "How Low Can Google Stock Plunge If the Market Crashes?",
+        "url": "https://watcher.guru/news/how-low-can-google-stock-plunge-if-the-market-crashes",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1702,
+        "title": "When Will Apple Stock Reach $350? (AAPL)",
+        "url": "https://watcher.guru/news/when-will-apple-stock-reach-350-aapl",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1701,
+        "title": "Elon Musk Reveals Where He Would Invest For The Future",
+        "url": "https://watcher.guru/news/elon-musk-reveals-where-he-would-invest-for-the-future",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1700,
+        "title": "When Will Nvidia Stock Hit $300? Blackwell Demand Fuels Rally",
+        "url": "https://watcher.guru/news/when-will-nvidia-stock-hit-300-blackwell-demand-fuels-rally",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1699,
+        "title": "ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation & DMND Join Stratum v2 Working Group",
+        "url": "https://bitcoinmagazine.com/news/antpool-block-inc-f2pool-foundry-spiderpool-dmnd-join-stratum-v2-working-group",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1698,
+        "title": "White House Targets July 4 for Clarity Act Passage: Crypto Adviser",
+        "url": "https://decrypt.co/367075/white-house-targets-july-4-for-clarity-act-passage-crypto-adviser",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1697,
+        "title": "Bitcoin ETFs Post 5-Week Buying Streak as Hedges Unwind, Institutional Appetite Returns",
+        "url": "https://decrypt.co/367090/bitcoin-etfs-post-5-week-buying-streak-as-hedges-unwind-institutional-appetite-returns",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1695,
+        "title": "South Korea Ordains Robot Monk Ahead of Buddha’s Birthday",
+        "url": "https://decrypt.co/367064/south-korea-ordains-robot-monk-buddha-birthday",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1694,
+        "title": "Google Found a Way to Make Local AI Up to 3x Faster—No New Hardware Required",
+        "url": "https://decrypt.co/367095/google-make-local-ai-3x-faster-no-new-hardware",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1693,
+        "title": "Prediction Market Kalshi Boosts Valuation to $22 Billion With Fresh $1 Billion Investment",
+        "url": "https://decrypt.co/367108/prediction-market-startup-kalshi-boosts-valuation-22-billion",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1692,
+        "title": "1inch Resolver TrustedVolumes Drained for $6.7M on Ethereum",
+        "url": "https://thedefiant.io/news/defi/1inch-resolver-trustedvolumes-drained-for-usd6-7m-on-ethereum",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1691,
+        "title": "Bitwise to Take Over Superstate's $267M Tokenized Crypto Carry Fund",
+        "url": "https://thedefiant.io/news/defi/bitwise-to-take-over-superstate-s-usd267m-tokenized-crypto-carry-fund",
+        "blog": "The Defiant",
+        "categories": [
+          "rwa"
+        ]
+      },
+      {
+        "id": 1689,
+        "title": "Crypto Markets Slide While S&amp; P 500 Notches Fresh Record on Iran Peace Hopes",
+        "url": "https://thedefiant.io/news/markets/crypto-markets-slide-while-s-and-p-500-notches-fresh-record-on-iran-peace-hopes",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1688,
+        "title": "Kalshi Officially Confirms $1B Raise at $22B Valuation",
+        "url": "https://thedefiant.io/news/cefi/kalshi-officially-confirms-usd1b-raise-at-usd22b-valuation",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1687,
+        "title": "Bitcoin analysts say this level must break for BTC price to confirm bottom",
+        "url": "https://cointelegraph.com/markets/bitcoin-analysts-say-this-level-must-break-btc-price-confirm-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1686,
+        "title": "VanEck’s Sigel sees Bitcoin reaching $1M within five years",
+        "url": "https://cointelegraph.com/news/bitcoin-1-million-five-years-vaneck-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1685,
+        "title": "Core Scientific posts $347M loss as AI hosting overtakes Bitcoin mining",
+        "url": "https://cointelegraph.com/news/core-scientific-q1-loss-bitcoin-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1684,
+        "title": "South Korea confirms 22% crypto tax starting January 2027: Report",
+        "url": "https://cointelegraph.com/news/south-korea-confirms-22-crypto-tax-will-go-ahead-in-january-2027-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1682,
+        "title": "Polygon reduces block time to 1.75 seconds as payments push accelerates",
+        "url": "https://cointelegraph.com/news/polygon-reduces-block-production-time-175-second?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1678,
+        "title": "Hardware Wallet Thief Gets 78 Months in Prison Over $250M Crypto 'Heist'",
+        "url": "https://decrypt.co/367066/hardware-wallet-thief-gets-78-months-in-prison-over-250m-crypto-heist",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1677,
+        "title": "DeFi Platform TrustedVolumes Hit by $6.7M Exploit",
+        "url": "https://decrypt.co/367070/defi-platform-trustedvolumes-hit-by-6-7m-exploit",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1676,
+        "title": "Morning Minute: Morgan Stanley Is Coming for Coinbase",
+        "url": "https://decrypt.co/367069/morning-minute-morgan-stanley-is-coming-for-coinbase",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1675,
+        "title": "Quantum attacks could worsen without proof of ownership: Near One",
+        "url": "https://cointelegraph.com/news/quantum-threat-not-just-about-stolen-funds-near?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1674,
+        "title": "Bithumb enters Vietnam crypto license race with SSI Digital deal",
+        "url": "https://cointelegraph.com/news/bithumb-moves-vietnams-crypto-exchange-race-ssi-digital-tie-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1673,
+        "title": "Luffa unveils major brand upgrade: Repositioned as AI × Web3 Super Connector",
+        "url": "https://cointelegraph.com/press-releases/luffa-unveils-major-brand-upgrade-repositioned-as-ai-web3-super-connector?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1672,
+        "title": "BNY eyes institutional Bitcoin, Ethereum custody for investors in UAE",
+        "url": "https://cointelegraph.com/news/bny-to-launch-institutional-bitcoin-ethereum-custody-for-investors-in-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1671,
+        "title": "TrustedVolumes hit by $6.7M exploit as 1inch denies breach",
+        "url": "https://cointelegraph.com/news/1inch-fusion-resolver-trusted-volumes-floats-bounty-after-67m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1669,
+        "title": "Bitcoin Bollinger Bands push key breakout as creator acts on 'positive' signal",
+        "url": "https://cointelegraph.com/markets/bitcoin-bollinger-bands-push-key-breakout-creator-acts-positive-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1668,
+        "title": "California man jailed for 78 months over $250M crypto theft conspiracy",
+        "url": "https://cointelegraph.com/news/california-man-sentenced-to-78-months-in-250m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1667,
+        "title": "The Onchain Re-rating is Here",
+        "url": "https://defi0xjeff.substack.com/p/the-onchain-re-rating-is-here",
+        "blog": "0xJeff",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1666,
+        "title": "Bitcoin’s Reserve And Clarity Act For The US: White House Advisor",
+        "url": "https://watcher.guru/news/bitcoins-reserve-and-clarity-act-for-the-us-white-house-advisor",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1663,
+        "title": "Trump-linked American Bitcoin reports $82M Q1 loss, revenue miss",
+        "url": "https://cointelegraph.com/news/trump-american-bitcoin-q1-loss-misses-revenue-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1662,
+        "title": "Samourai Wallet co-founder appeals for donations to pay $2M legal fees",
+        "url": "https://cointelegraph.com/news/samourai-wallet-co-founder-appeals-for-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1661,
+        "title": "Corning (GLW) Stock Surges 13% to New High After Nvidia Deal",
+        "url": "https://watcher.guru/news/corning-glw-stock-surges-13-to-new-high-after-nvidia-deal",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1660,
+        "title": "BCBS Settlement: When Will Blue Cross Blue Shield Payouts Arrive?",
+        "url": "https://watcher.guru/news/bcbs-settlement-when-will-blue-cross-blue-shield-payouts-arrive",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1659,
+        "title": "Why eBay Should Ignore GameStop and Use Bitcoin to Save $1.2 Billion in Transaction Costs",
+        "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/ebay-ignore-gamestop-bitcoin",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1656,
+        "title": "Sandisk Is Mooning Like a Meme Coin. Here's Why",
+        "url": "https://decrypt.co/367025/sandisk-mooning-meme-coin-ai-trade",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1655,
+        "title": "Bittrex Wants Its $24 Million Settlement Back, Now That the SEC Is Pro-Crypto",
+        "url": "https://decrypt.co/367038/bittrex-wants-24-million-settlement-back-sec-pro-crypto",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1654,
+        "title": "Elon Musk's SpaceX Will Help Power Anthropic's Claude in Surprise AI Deal",
+        "url": "https://decrypt.co/367035/elon-musk-spacex-power-anthropic-claude-surprise-ai-deal",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1653,
+        "title": "Bitcoin, Ethereum 'Q-Day' Quantum Threat Could Arrive as Soon as 2030: Report",
+        "url": "https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1652,
+        "title": "This AI Reads Your Chemistry Instructions and Finds the Best Way to Build You a Molecule",
+        "url": "https://decrypt.co/367048/ai-chemistry-instructions-build-molecule",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1651,
+        "title": "Chrome Is Quietly Installing a 4GB AI Model on Your Computer—And Putting It Back If You Delete It",
+        "url": "https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1649,
+        "title": "Gnosis Treasury Redemption Vote Swings as Whale Counters Cofounder",
+        "url": "https://thedefiant.io/news/defi/gnosis-treasury-redemption-vote-swings-as-whale-counters-cofounder",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1646,
+        "title": "Crypto-backed Republican candidate wins Indiana congressional primary",
+        "url": "https://cointelegraph.com/news/crypto-pac-backed-republican-candidate-indiana-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1645,
+        "title": "Hut 8 investors shrug off Q1 loss, stoke 33% stock surge",
+        "url": "https://cointelegraph.com/news/hut-8s-stock-surge-q1-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1644,
+        "title": "US Senator says crypto market structure vote could happen by August",
+        "url": "https://cointelegraph.com/news/kirsten-gillibrand-crypto-market-structure-august-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1643,
+        "title": "Bitcoin market dominance moves above 61%: Will altcoins follow?",
+        "url": "https://cointelegraph.com/markets/bitcoin-market-dominance-moves-above-61-will-altcoins-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1642,
+        "title": "Three reasons why Ether price rallies fizzle near $2.4K",
+        "url": "https://cointelegraph.com/markets/3-reasons-why-Ether-price-rallies-fizzle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": []
+}

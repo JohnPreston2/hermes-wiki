@@ -1,33 +1,40 @@
 ---
 type: sector
 sectors: [ai-inference]
-entities: []
-last_curated: 2026-05-04T08:20:20Z
+last_curated: 2026-05-18T19:27:02Z
 curation_mode: auto
-sources_count: 0
-last_schema_migrated: 2026-05-04T08:20:20Z
+articles_7d: 18
+articles_30d: 28
 ---
 
-# Inference markets
+# Inference Markets
 
-## Définition
+Inference ML decentralisee — reseaux de noeuds fournissant compute pour inference.
 
-Inférence ML décentralisée — réseaux qui monetisent du compute GPU pour de l'inférence de modèles ML. Qualifié quand ≥3 protocoles d'inférence sont actifs.
+## Protocoles cles
 
-## Protocoles clés
+| Protocole | Prix | 24h | Regime | Urgency |
+|-----------|------|-----|--------|---------|
+| Bittensor (TAO) | $258.5 | -5.0% | EXTREME_BULL | - |
+| Akash (RENDER) | $1.77 | -3.9% | EXTREME_BEAR | - |
+| io.net | - | - | - | - |
+| Aethir | - | - | - | - |
 
-<!-- sector_curator.py peuple cette section automatiquement -->
+## Evenements recents
 
-## Métriques de santé
+- **Mon, 18 May 2026** Hermes as a Real-time Analyst — _0xJeff_
+- **Sun, 17 May 2026** The After Hour EP.55 — Another Week Another Inference — _0xJeff_
+- **Sat, 16 May 2026** What Is AI Jailbreaking? A Beginner's Guide to the Cat-and-Mouse Game Behind Eve — _Decrypt_
+- **Sat, 16 May 2026** OpenAI partners with Malta to give all citizens free ChatGPT Plus access — _CoinTelegraph_
+- **Fri, 15 May 2026** Onchain AI Inference Landscape — _0xJeff_
+- **Thu, 14 May 2026** ‘It’s an unfair game’: CertiK CEO says DeFi attackers using AI to outspend defen — _The Block_
+- **Thu, 14 May 2026** ChatGPT Is Losing Ground to Rivals—Here Are Some Numbers — _Decrypt_
+- **Thu, 14 May 2026** OpenAI Pushes New ChatGPT Safety Features as Lawsuits Mount — _Decrypt_
+- **Thu, 14 May 2026** Here’s What $500 in Micron Stock Could Be Worth by 2030 — _Watcher Guru_
+- **Wed, 13 May 2026** Bitcoin Owner Claims Claude AI Cracked Lost Wallet Password, Netting $400K in BT — _Decrypt_
 
-<!-- sector_curator.py peuple cette section automatiquement -->
-- **TVL agrégé** : —
-- **Croissance 30j** : —
+## Couverture
 
-## Narratifs en cours
-
-<!-- sector_curator.py peuple cette section automatiquement -->
-
-## Événements récents
-
-<!-- sector_curator.py peuple cette section automatiquement -->
+- Articles 7j: 18
+- Articles 30j: 28
+- Derniere curation: 2026-05-18T19:27:02Z

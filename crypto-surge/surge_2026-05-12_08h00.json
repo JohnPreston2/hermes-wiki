@@ -1,0 +1,338 @@
+{
+  "surge_timestamp": "2026-05-12T08:00:47Z",
+  "total_articles": 35,
+  "defi_count": 33,
+  "ai_count": 2,
+  "defi": {
+    "perp": [
+      {
+        "id": 1897,
+        "title": "Bitcoin funding rates turn positive: Is a BTC rally to $85K next?",
+        "url": "https://cointelegraph.com/markets/bitcoin-funding-rates-turn-positive-is-a-btc-rally-to-85k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "perp"
+        ]
+      }
+    ],
+    "lending": [
+      {
+        "id": 1914,
+        "title": "Ripple Prime Secures $200M Debt Facility to Expand Lending Capacity",
+        "url": "https://thedefiant.io/news/defi/ripple-prime-secures-usd200m-debt-facility-to-expand-lending-capacity",
+        "blog": "The Defiant",
+        "categories": [
+          "lending",
+          "banking"
+        ]
+      },
+      {
+        "id": 1907,
+        "title": "Court Greenlights Arbitrum DAO Vote to Move $71M in Recovered Kelp ETH to Aave",
+        "url": "https://thedefiant.io/news/defi/court-greenlights-arbitrum-dao-vote-to-move-usd71m-in-recovered-kelp-eth-to-aave",
+        "blog": "The Defiant",
+        "categories": [
+          "lending"
+        ]
+      }
+    ],
+    "banking": [
+      {
+        "id": 1926,
+        "title": "US banking lobby urges senators to close ‘stablecoin loophole’ ahead of crypto bill markup",
+        "url": "https://cointelegraph.com/news/us-banking-lobby-urges-senators-to-close-stablecoin-loophole-ahead-of-crypto-bill-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1909,
+        "title": "NEAR Intents Expands Crosschain Swaps to Support 100+ Tokens Into Zcash: NEAR",
+        "url": "https://thedefiant.io/news/defi/near-intents-100-tokens-zcash-swaps-5djz2b",
+        "blog": "The Defiant",
+        "categories": [
+          "banking",
+          "dex"
+        ]
+      },
+      {
+        "id": 1908,
+        "title": "Circle Releases Q1 2026 Earnings Call Recap: Co-Founder Allaire Discusses Results",
+        "url": "https://thedefiant.io/news/cefi/circle-q1-2026-earnings-call-recap-1u2v0r",
+        "blog": "The Defiant",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1902,
+        "title": "Ripple receives $200M credit line to expand institutional prime brokerage",
+        "url": "https://cointelegraph.com/news/ripple-secures-200m-credit-facility-expand-institutional-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1901,
+        "title": "Price predictions 5/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+        "url": "https://cointelegraph.com/markets/price-predictions-511-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1898,
+        "title": "Circle stock rallies 15% as Wall Street sees further upside in stablecoin adoption",
+        "url": "https://cointelegraph.com/news/circle-stock-rallies-wall-street-further-upside-stablecoin-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 1928,
+        "title": "3 Events That Could Rock Your Crypto Investments",
+        "url": "https://watcher.guru/news/3-events-that-could-rock-your-crypto-investments",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1927,
+        "title": "US-Iran Ceasefire on Life Support: Stock Market Braces For Impact",
+        "url": "https://watcher.guru/news/us-iran-ceasefire-on-life-support-stock-market-braces-for-impact",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1925,
+        "title": "‘I failed them’: Goliath Ventures CEO charged with crypto Ponzi apologizes",
+        "url": "https://cointelegraph.com/news/goliath-ventures-ceo-charged-over-alleged-crypto-ponzi-apologizes-to-investors-in-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1924,
+        "title": "Ethereum Foundation hits ‘Glamsterdam’ milestones, names new protocol leads",
+        "url": "https://cointelegraph.com/news/ethereum-foundation-hits-glamsterdam-milestones-names-new-protocol-leads?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1923,
+        "title": "Tesla (TSLA): Piper Sandler Says Buy at This Price Level for Profits",
+        "url": "https://watcher.guru/news/tesla-tsla-piper-sandler-says-buy-at-this-price-level-for-profits",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1922,
+        "title": "Bitcoin Price Holds Near $82,000 as ETF Inflows Surge and CLARITY Act Battle Intensifies",
+        "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-82000",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1921,
+        "title": "Binance Says AI Defenses Blocked $10.5 Billion in Crypto Fraud Over 15 Months",
+        "url": "https://decrypt.co/367469/binance-ai-defenses-blocked-10-5-billion-crypto-fraud",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1920,
+        "title": "Major Solana Upgrade Alpenglow Begins Testing Ahead of Full Rollout",
+        "url": "https://decrypt.co/367470/solana-alpenglow-upgrade-begins-testing-ahead-full-rollout",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1919,
+        "title": "Hackers Used AI to Build a Zero-Day Exploit That Bypasses Two-Factor Authentication: Google",
+        "url": "https://decrypt.co/367477/hackers-ai-zero-day-exploit-google",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1918,
+        "title": "Clarity Act Vote Set for Thursday: Here's Where the Crypto Bill Stands",
+        "url": "https://decrypt.co/367487/clarity-act-vote-set-here-where-crypto-bill-stands",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1916,
+        "title": "Baidu's New AI Is Already Beating Top Models and Cost 94% Less to Build",
+        "url": "https://decrypt.co/367493/baidu-ai-model-cost-less-train-beating-everyone-china",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1915,
+        "title": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity",
+        "url": "https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1913,
+        "title": "SUI Rallies 40% as Mysten Labs Promises Free, Private Payments \"At Scale\"",
+        "url": "https://thedefiant.io/news/blockchains/sui-rallies-40-as-mysten-labs-promises-free-private-payments-at-scale",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1912,
+        "title": "Strategy Resumes Weekly Buys with Smallest BTC Purchase Since December",
+        "url": "https://thedefiant.io/news/tradfi-and-fintech/largest-digital-asset-treasuries-slow-weekly-buys",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1911,
+        "title": "Bitcoin Tests $82K As Crypto Funds Notch Sixth Straight Week Of Inflows",
+        "url": "https://thedefiant.io/news/markets/bitcoin-tests-usd82k-as-crypto-funds-notch-sixth-straight-week-of-inflows",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1910,
+        "title": "xStocks Assets Surge Past $100M on Ethereum, $30M on BNB Chain: xStocks",
+        "url": "https://thedefiant.io/news/defi/xstocks-surpasses-100m-ethereum-30m-bnb-chain-a6jlge",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1905,
+        "title": "Galaxy, Sharplink plan $125M institutional DeFi yield fund backed by ETH treasury",
+        "url": "https://cointelegraph.com/news/galaxy-sharplink-125m-institutional-defi-fund-eth-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "yield"
+        ]
+      },
+      {
+        "id": 1904,
+        "title": "Bitcoin ‘golden cross’ appears for the first time since 2023: Will BTC price rally?",
+        "url": "https://cointelegraph.com/markets/bitcoin-golden-cross-appears-first-time-since-2023-will-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1903,
+        "title": "MoonPay makes prediction markets push with Dawn Labs buy, AI tool launch",
+        "url": "https://cointelegraph.com/news/moonpay-dawn-labs-ai-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1900,
+        "title": "Solana ETF inflows show demand returning as traders eye SOL rally to $120",
+        "url": "https://cointelegraph.com/markets/solana-etf-inflows-demand-returns-as-traders-eye-120?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1899,
+        "title": "Ethics remain a sticking point as crypto market structure bill goes to markup",
+        "url": "https://cointelegraph.com/news/ethics-democrats-market-structure-clarity-bill-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1896,
+        "title": "MARA shares sink on first-quarter revenue miss, $1.3B loss",
+        "url": "https://cointelegraph.com/news/mara-shares-sink-on-q1-revenue-miss-1b-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1895,
+        "title": "Hackers used AI to craft zero-day attack to bypass 2FA: Google",
+        "url": "https://cointelegraph.com/news/hackers-used-ai-craft-zero-day-attack-bypass-2fa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1894,
+        "title": "Bitmine slows Ethereum buys, targets December to own 5% of supply",
+        "url": "https://cointelegraph.com/news/bitmine-slows-ether-buying-pace-5-percent-eth-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": [
+    {
+      "id": 1917,
+      "title": "Circle Gives AI Agents USDC Stablecoin Powers Alongside $222M Arc Token Sale",
+      "url": "https://decrypt.co/367490/circle-ai-agents-usdc-stablecoin-powers-222m-arc-token-sale",
+      "blog": "Decrypt",
+      "categories": [
+        "perp",
+        "ai",
+        "banking"
+      ]
+    },
+    {
+      "id": 1906,
+      "title": "Circle makes USDC push into AI agent payment tools",
+      "url": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "blog": "CoinTelegraph",
+      "categories": [
+        "banking",
+        "ai"
+      ]
+    }
+  ]
+}

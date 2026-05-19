@@ -1,0 +1,779 @@
+{
+  "surge_timestamp": "2026-05-05T16:00:39Z",
+  "total_articles": 84,
+  "defi_count": 82,
+  "ai_count": 2,
+  "defi": {
+    "perp": [
+      {
+        "id": 1507,
+        "title": "Bitcoin taps $81K as long-term holders add 330K BTC: How high can price go?",
+        "url": "https://cointelegraph.com/markets/bitcoin-taps-81k-as-long-term-holders-add-330k-btc-how-high-can-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 1500,
+        "title": "Binance changes weekend pricing for commodity TradFi futures",
+        "url": "https://cointelegraph.com/news/binance-changes-off-hours-pricing-method-commodity-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 1480,
+        "title": "Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks",
+        "url": "https://cointelegraph.com/news/bankers-still-says-new-proposal-in-clarity-act-falls-short-of-protecting-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "perp",
+          "banking"
+        ]
+      },
+      {
+        "id": 1461,
+        "title": "Bitcoin short-term cost basis approaches profitability, but $80K must flip to support first",
+        "url": "https://cointelegraph.com/markets/bitcoin-eyes-80k-support-flip-with-key-holder-cost-basis-in-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "perp"
+        ]
+      }
+    ],
+    "lending": [
+      {
+        "id": 1468,
+        "title": "Aave Fights to Unfreeze $71 Million as Kelp DAO Hack Spills Into Court",
+        "url": "https://decrypt.co/366744/aave-unfreeze-71m-arbitrum-kelp-dao-hack",
+        "blog": "Decrypt",
+        "categories": [
+          "lending"
+        ]
+      },
+      {
+        "id": 1456,
+        "title": "Aave files emergency motion to lift restraining notice on frozen ETH",
+        "url": "https://cointelegraph.com/news/aave-asks-court-to-lift-restraining-notice-on-frozen-kelp-exploit-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "lending"
+        ]
+      }
+    ],
+    "banking": [
+      {
+        "id": 1537,
+        "title": "Crypto Wallets Can ‘Directly Compete With Neobanks'",
+        "url": "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1535,
+        "title": "Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear & Greed back to Neutral!",
+        "url": "https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1533,
+        "title": "The ZCash situation explained! Interview with ZEC bull Mert! BTC below $90K! ZEC falls 19%!",
+        "url": "https://decrypt.co/videos/interviews/wmsgKRFW/the-zcash-situation-explained-interview-with-zec-bull-mert-btc-below-90k-zec-falls-19",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1532,
+        "title": "ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!",
+        "url": "https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-11-trump-says-he-wont-pardon-sam-bankman-fried-florida-revisits-its-strategic-bitcoin-reserve",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1522,
+        "title": "XRP Targets $300 as Diamond Pattern Forms, Evernorth Eyes Nasdaq",
+        "url": "https://watcher.guru/news/xrp-targets-300-as-diamond-pattern-forms-evernorth-eyes-nasdaq",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1518,
+        "title": "Apple Stock Target Lifted To $330 By Bank Of America After Earnings Beat",
+        "url": "https://watcher.guru/news/apple-stock-target-lifted-to-330-by-bank-of-america-after-earnings-beat",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1515,
+        "title": "Kraken Partners With MoneyGram to Enable Crypto Cash-Outs at 500,000 Locations Worldwide",
+        "url": "https://bitcoinmagazine.com/news/kraken-partners-with-moneygram",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1508,
+        "title": "Stellar Gets Its First Regulated, Yield-Bearing Stablecoin with YLDS Launch",
+        "url": "https://thedefiant.io/news/defi/figure-ylds-launches-on-stellar",
+        "blog": "The Defiant",
+        "categories": [
+          "yield",
+          "banking"
+        ]
+      },
+      {
+        "id": 1504,
+        "title": "Europe should weigh tokenized SEPA payments, Bank of Italy official says",
+        "url": "https://cointelegraph.com/news/bank-of-italy-deputy-governor-urges-eu-to-evaluate-tokenized-sepa-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "rwa",
+          "banking"
+        ]
+      },
+      {
+        "id": 1493,
+        "title": "Crypto Exchange Bullish Strikes $4.2 Billion Deal for Equiniti to Build Tokenized Securities Infrastructure",
+        "url": "https://bitcoinmagazine.com/news/bullish-strikes-4-2-billion-for-equiniti",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "rwa",
+          "banking"
+        ]
+      },
+      {
+        "id": 1490,
+        "title": "Ripple to Share North Korean Threat Intelligence With Crypto Industry",
+        "url": "https://decrypt.co/366751/ripple-to-share-north-korean-threat-intelligence-with-crypto-industry",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1482,
+        "title": "Polygon rolls out private stablecoin payments targeting institutions",
+        "url": "https://cointelegraph.com/news/polygon-rolls-out-private-payments-for-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1479,
+        "title": "Crypto Stocks: Coinbase COIN, Circle CRCL Surge: Here’s Why",
+        "url": "https://watcher.guru/news/crypto-stocks-coinbase-coin-circle-crcl-surge-heres-why",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1474,
+        "title": "Banks Stay Tight-Lipped as Senators Reveal Proposed Clarity Act Stablecoin Deal",
+        "url": "https://decrypt.co/366680/banks-stay-tight-lipped-as-senators-reveal-proposed-clarity-act-stablecoin-deal",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1465,
+        "title": "Polygon Launches Shielded USDC and USDT Payments",
+        "url": "https://thedefiant.io/news/blockchains/polygon-launches-shielded-usdc-and-usdt-payments",
+        "blog": "The Defiant",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1464,
+        "title": "Bitcoin bounces around $80K as Iran strike unsettles crypto, risk assets",
+        "url": "https://cointelegraph.com/markets/bitcoin-bounces-around-80k-as-iran-strike-unsettles-crypto-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1463,
+        "title": "Price predictions 5/4: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+        "url": "https://cointelegraph.com/markets/price-predictions-54-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1462,
+        "title": "Tether Gold tops $3.3B as demand for bullion-backed tokens rises",
+        "url": "https://cointelegraph.com/news/tether-gold-tops-33b-as-demand-for-bullion-backed-tokens-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1457,
+        "title": "Western Union begins USDPT stablecoin rollout on Solana",
+        "url": "https://cointelegraph.com/news/western-union-officially-launches-usdpt-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 1539,
+        "title": "The White Whale up 10x in a week! Lighter TGE! Saylor buys $109M BTC!",
+        "url": "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1538,
+        "title": "2026 Crypto Predictions! Tom Lee still buying ETH! Rekt tease WorldStar collab!",
+        "url": "https://decrypt.co/videos/interviews/dBDZqp65/2026-crypto-predictions-tom-lee-still-buying-eth-rekt-tease-worldstar-collab",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1536,
+        "title": "Crypto is Green! Up 6-9%! Memes outperform! Pepe up 67%! Infinex Founder Interview!",
+        "url": "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1534,
+        "title": "Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!",
+        "url": "https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1531,
+        "title": "A16z raise $15B! Jerome Powell vs Trump! Crypto remains flat! Special Guest: Dudas!",
+        "url": "https://decrypt.co/videos/interviews/0y90noNs/a16z-raise-15b-jerome-powell-vs-trump-crypto-remains-flat-special-guest-dudas",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1530,
+        "title": "PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink",
+        "url": "https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1529,
+        "title": "Pump & Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed",
+        "url": "https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1528,
+        "title": "Are we back? Crypto is Green! Solana Intern goes rogue! Pump up 13%! Monero hits another ATH!",
+        "url": "https://decrypt.co/videos/interviews/Iv1NIhI4/are-we-back-crypto-is-green-solana-intern-goes-rogue-pump-up-13-monero-hits-another-ath",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1527,
+        "title": "Massive Coinbase News! Bitcoin Rips to $96,750! Football.Fun TGE Interview with Founder!",
+        "url": "https://decrypt.co/videos/interviews/9g4stfJX/massive-coinbase-news-bitcoin-rips-to-96-750-footballfun-tge-interview-with-founder",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1526,
+        "title": "Crypto sells off amidst Trump Tariff Turmoil! $Trove falls 90% in awful TGE! Pump Fund announced!",
+        "url": "https://decrypt.co/videos/interviews/lokwS0bc/crypto-sells-off-amidst-trump-tariff-turmoil-trove-falls-90-in-awful-tge-pump-fund-announced",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1525,
+        "title": "Trump’s speech at Davos gives small boost to Crypto! Saylor buys $2.13B BTC! Blondish Interview!",
+        "url": "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1524,
+        "title": "Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!",
+        "url": "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1523,
+        "title": "From Stellar to Canton: How Franklin Templeton Adopted Tokenization",
+        "url": "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1521,
+        "title": "When Will Nvidia Stock Reach $250? (NVDA)",
+        "url": "https://watcher.guru/news/when-will-nvidia-stock-reach-250-nvda",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1520,
+        "title": "Bitcoin at $81,000: A Rise to $85,000 and $92,000 Well in Range",
+        "url": "https://watcher.guru/news/bitcoin-at-81000-a-rise-to-85000-and-92000-well-in-range",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1519,
+        "title": "De-Dollarization Threatened As USD Deposits Hit Record Highs",
+        "url": "https://watcher.guru/news/de-dollarization-threatened-as-usd-deposits-hit-record-highs",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1517,
+        "title": "Did Dogecoin Admit Elon Musk Is Its Secret Creator?",
+        "url": "https://watcher.guru/news/did-dogecoin-admit-elon-musk-is-its-secret-creator",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1516,
+        "title": "K Wave Abandons Bitcoin Treasury Plan, Shifts to AI Infrastructure Play with $485M War Chest",
+        "url": "https://bitcoinmagazine.com/news/k-wave-abandons-bitcoin-treasury-plan",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1514,
+        "title": "Sequans Sells Half Its Bitcoin Holdings as Revenue Falls and Losses Mount",
+        "url": "https://bitcoinmagazine.com/news/sequans-sells-half-its-bitcoin-holdings",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1513,
+        "title": "Coinbase Cuts 14% of Staff Amid Crypto 'Down Market,' AI Adoption: CEO",
+        "url": "https://decrypt.co/366765/coinbase-cuts-14-of-staff-amid-crypto-down-market-ai-adoption-ceo",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1512,
+        "title": "Bitcoin's $81K Rally Comes Amid 66-Day Negative Funding Streak: Here’s Why",
+        "url": "https://decrypt.co/366768/bitcoins-81k-rally-comes-amid-66-day-negative-funding-streak-heres-why",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1511,
+        "title": "Andreessen Horowitz Raises $2.2 Billion to Fund Next Wave of Crypto Startups",
+        "url": "https://decrypt.co/366788/andreessen-horowitz-raises-2-2-billion-fund-crypto-startups",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1510,
+        "title": "Bitcoin ETFs Draw Investment Surge After Brief Lull Threatens Winning Streak",
+        "url": "https://decrypt.co/366796/bitcoin-etfs-draw-investment-surge-lull-threatens-winning-streak",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1509,
+        "title": "Coinbase Cuts ~14% of Workforce, Restructures as AI-Native Organization: Brian Armstrong",
+        "url": "https://thedefiant.io/news/cefi/coinbase-14-percent-workforce-reduction-ai-restructure-3f36dv",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1506,
+        "title": "Dutch users still access prediction markets despite Polymarket ban",
+        "url": "https://cointelegraph.com/news/kalshi-hyperliquid-offer-prediction-markets-to-dutch-users-despite-polymarket-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1505,
+        "title": "Bullish to buy transfer agent Equiniti for $4.2B in tokenization push",
+        "url": "https://cointelegraph.com/news/bullish-to-acquire-equiniti-for-42b-in-tokenization-push-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1503,
+        "title": "Crypto products post 5th straight week of inflows despite mid-week selloff",
+        "url": "https://cointelegraph.com/news/crypto-products-post-5th-straight-week-of-inflows-despite-mid-week-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1502,
+        "title": "Bitcoin ‘supercycle’ or bear-market rally? BTC breaking $81K has traders at odds",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-retakes-81k-is-btc-in-bear-market-rally-or-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1501,
+        "title": "Coinbase cuts 14% of workforce, citing market slump and AI shift",
+        "url": "https://cointelegraph.com/news/coinbase-cuts-14-of-workforce-citing-market-slump-and-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1498,
+        "title": "Kaiko flags possible front-running before Robinhood token listings",
+        "url": "https://cointelegraph.com/news/crypto-perps-volume-points-to-traders-front-running-robinhood-listings-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1497,
+        "title": "Couple Launched a Burrito Spot in a Home Decor Parking Lot, Make $2.3M",
+        "url": "https://watcher.guru/news/couple-launched-a-burrito-spot-in-a-home-decor-parking-lot-make-2-3m",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1496,
+        "title": "Toncoin Top Charts With 23% Daily Rally: Why Is TON Up Today?",
+        "url": "https://watcher.guru/news/toncoin-top-charts-with-23-daily-rally-why-is-ton-up-today",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1495,
+        "title": "Clarity Act Explained: Is It A Good Time To Invest In Crypto?",
+        "url": "https://watcher.guru/news/clarity-act-explained-is-it-a-good-time-to-invest-in-crypto",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1494,
+        "title": "Google Stock is JP Morgan’s Top Overall Pick: See New Price Target",
+        "url": "https://watcher.guru/news/google-stock-is-jp-morgans-top-overall-pick",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1492,
+        "title": "Coinbase Cuts 14% of Workforce, Signals AI-Driven Future",
+        "url": "https://bitcoinmagazine.com/news/coinbase-cuts-14-of-workforce",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1491,
+        "title": "Bitcoin Price Rockets Past $81,000 for the First Time Since January",
+        "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crosses-81000-january",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1489,
+        "title": "TON Surges 36% as Telegram ‘Replaces’ TON Foundation",
+        "url": "https://decrypt.co/366754/ton-surges-36-as-telegram-replaces-ton-foundation",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1488,
+        "title": "Morning Minute: Crypto VC Haun Raises $1B Despite Market Slump",
+        "url": "https://decrypt.co/366761/morning-minute-crypto-vc-haun-raises-1b-despite-market-slump",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1487,
+        "title": "Bitcoin ETFs pull in $532M as BTC reclaims $80K amid ‘post-ceasefire recovery’",
+        "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-pull-in-520m-as-btc-reclaims-80000-amid-post-ceasefire-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1486,
+        "title": "Telegram to become TON’s largest validator, Durov says",
+        "url": "https://cointelegraph.com/news/telegram-to-become-tons-largest-validator-durov-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1485,
+        "title": "UAE free zone launches blockchain-based business IDs for registered firms",
+        "url": "https://cointelegraph.com/news/uae-innovation-city-introduces-ai-onchain-business-ids?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1484,
+        "title": "Warren Buffett Called This Investment the ‘Best in the World’",
+        "url": "https://watcher.guru/news/warren-buffett-called-this-investment-the-best-in-the-world",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1483,
+        "title": "Even RuneScape Coal Has Outperformed Ethereum In 1 Year",
+        "url": "https://watcher.guru/news/even-runescape-coal-has-outperformed-ethereum-in-1-year",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1481,
+        "title": "Haun Ventures raises $1B, adding AI to crypto focus",
+        "url": "https://cointelegraph.com/news/haun-ventures-raises-1b-crypto-ai-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1478,
+        "title": "Palantir Stock Soars on Earnings but HSBC Cuts Target to $151",
+        "url": "https://watcher.guru/news/palantir-stock-soars-on-earnings-but-hsbc-cuts-target-to-151",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1477,
+        "title": "Social Security Benefit Cap Proposal Targets $100K Annual Limit",
+        "url": "https://watcher.guru/news/social-security-benefit-cap-proposal-targets-100k-annual-limit",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1476,
+        "title": "Bitcoin-Funded ‘Satoshi Scholarship’ Opens Lomond School Doors to Global Students",
+        "url": "https://bitcoinmagazine.com/news/bitcoin-funded-satoshi-scholarship-opens",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1475,
+        "title": "Bitcoin Price Reclaims $80,000 Amid Surging ETF Demand, Positive Iran News",
+        "url": "https://bitcoinmagazine.com/markets/bitcoin-price-breaks-80000",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1473,
+        "title": "Colorado Lawmakers Move to Replace Contentious AI Law With New Rules",
+        "url": "https://decrypt.co/366683/colorado-replace-contentious-ai-law-new-rules",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1472,
+        "title": "US Government Says China's Best AI Models Lag Behind. Experts Aren't So Sure",
+        "url": "https://decrypt.co/366685/us-says-china-best-ai-models-lag-behind-experts-not-sure",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1471,
+        "title": "DeepClaude Lets You Run Claude Code With DeepSeek's Brain for 17x Cheaper",
+        "url": "https://decrypt.co/366729/deepclaude-run-claude-code-deepseek-brain-17x-cheaper",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1469,
+        "title": "K-Pop Firm's Stock Plunges as It Dumps Bitcoin Treasury Plan for AI Pivot",
+        "url": "https://decrypt.co/366740/k-pop-firm-stock-plunges-dumps-bitcoin-treasury-plan-ai-pivot",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1467,
+        "title": "Someone Built an Open-Source 'Theoretical Mythos' to Reverse-Engineer Anthropic's Most Dangerous AI",
+        "url": "https://decrypt.co/366745/openmythos-claude-mythos-architecture-open-source-reconstruction",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1466,
+        "title": "Bitcoin Tops $80,000 As ETF Bid Returns",
+        "url": "https://thedefiant.io/news/markets/bitcoin-tops-usd80-000-as-etf-bid-returns",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1460,
+        "title": "DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants",
+        "url": "https://cointelegraph.com/news/dtcc-eyes-october-tokenized-securities-launch-with-dozens-of-wall-street-giants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "rwa"
+        ]
+      },
+      {
+        "id": 1459,
+        "title": "World Liberty sues Justin Sun for defamation in WLFI dispute",
+        "url": "https://cointelegraph.com/news/trump-linked-wlfi-platform-sues-justin-sun-for-defamation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1458,
+        "title": "Bitcoin turns risk on as stocks hit new highs and miner profits rise: Is $85K BTC next?",
+        "url": "https://cointelegraph.com/markets/bitcoin-turns-risk-on-as-stocks-hit-new-highs-and-miner-profits-rise-is-85k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": [
+    {
+      "id": 1499,
+      "title": "Space and Time rolls out virtual vaults for institutional onchain lending",
+      "url": "https://cointelegraph.com/news/space-and-time-rolls-out-virtual-vaults-for-institutional-onchain-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "blog": "CoinTelegraph",
+      "categories": [
+        "ai",
+        "lending"
+      ]
+    },
+    {
+      "id": 1470,
+      "title": "Haun Ventures Raises $1 Billion Fund for the Intersection of Crypto and AI Agents",
+      "url": "https://decrypt.co/366728/haun-ventures-raises-1-billion-fund-intersection-crypto-tech-ai-agents",
+      "blog": "Decrypt",
+      "categories": [
+        "ai"
+      ]
+    }
+  ]
+}

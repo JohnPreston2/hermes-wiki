@@ -1,0 +1,77 @@
+{
+  "surge_timestamp": "2026-05-10T08:00:21Z",
+  "total_articles": 7,
+  "defi_count": 7,
+  "ai_count": 0,
+  "defi": {
+    "perp": [],
+    "lending": [],
+    "banking": [],
+    "other": [
+      {
+        "id": 1825,
+        "title": "Santiment flags risk as crypto bullish talk spikes while BTC holds $80K",
+        "url": "https://cointelegraph.com/news/santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1824,
+        "title": "The After Hour EP.54 — Bull Market is Back",
+        "url": "https://defi0xjeff.substack.com/p/the-after-hour-ep54-bull-market-is",
+        "blog": "0xJeff",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1823,
+        "title": "The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist",
+        "url": "https://cointelegraph.com/features/the-nobitex-dilemma-how-irans-biggest-crypto-exchange-stays-off-the-ofac-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1822,
+        "title": "The CLARITY Act will help reshore the crypto industry in the US — Attorney",
+        "url": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1821,
+        "title": "Strategy CEO Phong Le says company will sell BTC only in specific cases",
+        "url": "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1820,
+        "title": "7 major Bitcoin mining pools join Stratum V2, working group",
+        "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1819,
+        "title": "CZ says crypto exchange rivals opposed his pardon bid",
+        "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": []
+}

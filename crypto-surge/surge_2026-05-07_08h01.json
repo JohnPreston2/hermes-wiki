@@ -1,0 +1,280 @@
+{
+  "surge_timestamp": "2026-05-07T08:01:01Z",
+  "total_articles": 29,
+  "defi_count": 29,
+  "ai_count": 0,
+  "defi": {
+    "perp": [
+      {
+        "id": 1665,
+        "title": "GraniteShares Ready To Launch the 3x-Leverage XRP ETF?",
+        "url": "https://watcher.guru/news/graniteshares-ready-to-launch-the-3x-leverage-xrp-etf",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking",
+          "perp"
+        ]
+      },
+      {
+        "id": 1658,
+        "title": "OKX to Launch OpenAI, SpaceX and Anthropic Perpetual Futures in Pre-IPO Trading Push",
+        "url": "https://decrypt.co/367022/okx-openai-spacex-anthropic-perpetual-futures-pre-ipo",
+        "blog": "Decrypt",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 1650,
+        "title": "Kraken Launches Spot Margin Trading for US Clients",
+        "url": "https://thedefiant.io/news/cefi/kraken-launches-spot-margin-trading-for-us-clients",
+        "blog": "The Defiant",
+        "categories": [
+          "perp"
+        ]
+      },
+      {
+        "id": 1639,
+        "title": "Aave liquidates Kelp DAO hacker's rsETH positions on Ethereum, Arbitrum",
+        "url": "https://cointelegraph.com/news/aave-liquidates-kelp-dao-hackers-rseth-stash-ethereum-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "lending",
+          "perp"
+        ]
+      }
+    ],
+    "lending": [],
+    "banking": [
+      {
+        "id": 1664,
+        "title": "UAE-regulated stablecoins to develop AED-USD conversion rails for institutional settlement",
+        "url": "https://cointelegraph.com/news/uae-regulated-stablecoins-to-develop-aed-usd-conversion-rails-for-institutional-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1657,
+        "title": "Ondo, JPMorgan, Mastercard and Ripple Team to Settle Tokenized Treasuries on XRP Ledger",
+        "url": "https://decrypt.co/367033/ondo-jpmorgan-mastercard-ripple-settle-tokenized-treasuries-xrp-ledger",
+        "blog": "Decrypt",
+        "categories": [
+          "banking",
+          "rwa"
+        ]
+      },
+      {
+        "id": 1648,
+        "title": "Switzerland's Amina becomes first regulated bank to custody Canton Coin",
+        "url": "https://cointelegraph.com/news/amina-becomes-first-regulated-bank-to-custody-canton-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1647,
+        "title": "Price predictions 5/6: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, ZEC",
+        "url": "https://cointelegraph.com/markets/price-predictions-56-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1641,
+        "title": "JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger",
+        "url": "https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1640,
+        "title": "Stablecoin adoption to scale on back of ‘very large’ tech firms: Bitwise",
+        "url": "https://cointelegraph.com/news/stablecoin-scale-adoption-by-tech-giants-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 1667,
+        "title": "The Onchain Re-rating is Here",
+        "url": "https://defi0xjeff.substack.com/p/the-onchain-re-rating-is-here",
+        "blog": "0xJeff",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1666,
+        "title": "Bitcoin’s Reserve And Clarity Act For The US: White House Advisor",
+        "url": "https://watcher.guru/news/bitcoins-reserve-and-clarity-act-for-the-us-white-house-advisor",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1663,
+        "title": "Trump-linked American Bitcoin reports $82M Q1 loss, revenue miss",
+        "url": "https://cointelegraph.com/news/trump-american-bitcoin-q1-loss-misses-revenue-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1662,
+        "title": "Samourai Wallet co-founder appeals for donations to pay $2M legal fees",
+        "url": "https://cointelegraph.com/news/samourai-wallet-co-founder-appeals-for-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1661,
+        "title": "Corning (GLW) Stock Surges 13% to New High After Nvidia Deal",
+        "url": "https://watcher.guru/news/corning-glw-stock-surges-13-to-new-high-after-nvidia-deal",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1660,
+        "title": "BCBS Settlement: When Will Blue Cross Blue Shield Payouts Arrive?",
+        "url": "https://watcher.guru/news/bcbs-settlement-when-will-blue-cross-blue-shield-payouts-arrive",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1659,
+        "title": "Why eBay Should Ignore GameStop and Use Bitcoin to Save $1.2 Billion in Transaction Costs",
+        "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/ebay-ignore-gamestop-bitcoin",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1656,
+        "title": "Sandisk Is Mooning Like a Meme Coin. Here's Why",
+        "url": "https://decrypt.co/367025/sandisk-mooning-meme-coin-ai-trade",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1655,
+        "title": "Bittrex Wants Its $24 Million Settlement Back, Now That the SEC Is Pro-Crypto",
+        "url": "https://decrypt.co/367038/bittrex-wants-24-million-settlement-back-sec-pro-crypto",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1654,
+        "title": "Elon Musk's SpaceX Will Help Power Anthropic's Claude in Surprise AI Deal",
+        "url": "https://decrypt.co/367035/elon-musk-spacex-power-anthropic-claude-surprise-ai-deal",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1653,
+        "title": "Bitcoin, Ethereum 'Q-Day' Quantum Threat Could Arrive as Soon as 2030: Report",
+        "url": "https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1652,
+        "title": "This AI Reads Your Chemistry Instructions and Finds the Best Way to Build You a Molecule",
+        "url": "https://decrypt.co/367048/ai-chemistry-instructions-build-molecule",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1651,
+        "title": "Chrome Is Quietly Installing a 4GB AI Model on Your Computer—And Putting It Back If You Delete It",
+        "url": "https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1649,
+        "title": "Gnosis Treasury Redemption Vote Swings as Whale Counters Cofounder",
+        "url": "https://thedefiant.io/news/defi/gnosis-treasury-redemption-vote-swings-as-whale-counters-cofounder",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1646,
+        "title": "Crypto-backed Republican candidate wins Indiana congressional primary",
+        "url": "https://cointelegraph.com/news/crypto-pac-backed-republican-candidate-indiana-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1645,
+        "title": "Hut 8 investors shrug off Q1 loss, stoke 33% stock surge",
+        "url": "https://cointelegraph.com/news/hut-8s-stock-surge-q1-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1644,
+        "title": "US Senator says crypto market structure vote could happen by August",
+        "url": "https://cointelegraph.com/news/kirsten-gillibrand-crypto-market-structure-august-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1643,
+        "title": "Bitcoin market dominance moves above 61%: Will altcoins follow?",
+        "url": "https://cointelegraph.com/markets/bitcoin-market-dominance-moves-above-61-will-altcoins-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1642,
+        "title": "Three reasons why Ether price rallies fizzle near $2.4K",
+        "url": "https://cointelegraph.com/markets/3-reasons-why-Ether-price-rallies-fizzle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": []
+}

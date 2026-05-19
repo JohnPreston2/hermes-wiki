@@ -1,33 +1,33 @@
 ---
 type: sector
 sectors: [defi-restaking]
-entities: []
-last_curated: 2026-05-04T08:20:20Z
+last_curated: 2026-05-18T19:27:02Z
 curation_mode: auto
-sources_count: 0
-last_schema_migrated: 2026-05-04T08:20:20Z
+articles_7d: 1
+articles_30d: 1
 ---
 
 # Restaking & LRTs
 
-## Définition
+Reutiliser ETH stake pour securiser d'autres protocoles via AVS. Yield additionnel, risque slashing multiple.
 
-Restaking et Liquid Restaking Tokens (LRTs) — ETH déjà staké re-staké via EigenLayer ou protocoles similaires pour sécuriser d'autres réseaux en échange d'un yield supplémentaire. Qualifié quand ≥3 protocoles de restaking sont actifs.
+## Protocoles cles
 
-## Protocoles clés
+| Protocole | Prix | 24h | Regime | Urgency |
+|-----------|------|-----|--------|---------|
+| EigenLayer | - | - | - | - |
+| Symbiotic | - | - | - | - |
+| Karak | - | - | - | - |
+| EtherFi | - | - | - | - |
+| Renzo | - | - | - | - |
+| KelpDAO | - | - | - | - |
 
-<!-- sector_curator.py peuple cette section automatiquement -->
+## Evenements recents
 
-## Métriques de santé
+- **Sun, 17 May 2026** DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private — _CoinDesk_
 
-<!-- sector_curator.py peuple cette section automatiquement -->
-- **TVL agrégé** : —
-- **Croissance 30j** : —
+## Couverture
 
-## Narratifs en cours
-
-<!-- sector_curator.py peuple cette section automatiquement -->
-
-## Événements récents
-
-<!-- sector_curator.py peuple cette section automatiquement -->
+- Articles 7j: 1
+- Articles 30j: 1
+- Derniere curation: 2026-05-18T19:27:02Z

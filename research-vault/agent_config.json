@@ -1,0 +1,59 @@
+{
+  "protocol_weights": {
+    "COMP": 0.9,
+    "PHB": 0.8,
+    "ENS": 0.7,
+    "NEAR": 0.7,
+    "CRV": 0.7,
+    "AAVE": 0.6,
+    "SOL": 0.5,
+    "BTC": 0.5,
+    "ETH": 0.5,
+    "UNI": 0.4,
+    "WLD": 0.3,
+    "LDO": 0.3
+  },
+  "baseline_adjustments": {},
+  "score_thresholds": {
+    "AAVE": 70,
+    "WLD": 50,
+    "UNI": 60,
+    "LINK": 60,
+    "default": 60
+  },
+  "spread_z_rules": {
+    "WLD": {
+      "bullish_max_spread_z": 3.0,
+      "note": "spread_z > +3 = crowded long = anti-bullish"
+    },
+    "UNI": {
+      "bullish_max_spread_z": 3.0,
+      "note": "spread_z > +3 = crowded long = anti-bullish"
+    },
+    "LINK": {
+      "bullish_max_spread_z": 2.0,
+      "note": "spread_z > +2 = crowded long = anti-bullish"
+    },
+    "generic": {
+      "bullish_max_spread_z": 5.0,
+      "note": "spread_z > +5 on any token = crowded long = anti-bullish"
+    }
+  },
+  "blacklist": {
+    "bullish_signals": [
+      "WLD",
+      "UNI"
+    ],
+    "all_signals": []
+  },
+  "updated_at": "2026-05-18T12:00:00+00:00",
+  "notes": "System upgrade 2026-05-18: onchain_enriched.json (DeFiLlama+DexScreener+Binance every 2h), wiki 12 sectors + 31 entities connected to MiniMax, data_digest now has PRIX MAJEURS + WIKI COVERAGE, intelligence_hourly fixed (dex vol + tvl), TVL Tracker + DEX Volume jobs paused (duplicates). See research-vault/notes/system_changelog_20260518.md.",
+  "data_sources": {
+    "onchain_enriched": "data/onchain_enriched.json (every 2h, DeFiLlama+DexScreener+Binance)",
+    "wiki_sectors": "~/wiki/sectors/*.md (12 pages, 3x/day)",
+    "wiki_entities": "~/wiki/entities/*.md (31 pages, 1x/day)",
+    "data_digest": "data/data_digest.md (hourly, has PRIX MAJEURS)",
+    "intelligence_hourly": "data/intelligence_hourly.json (hourly, regimes+funding+leverage)",
+    "hyperliquid_signals": "data/hyperliquid_signals.json (hourly)"
+  }
+}

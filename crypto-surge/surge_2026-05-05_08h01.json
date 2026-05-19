@@ -1,0 +1,280 @@
+{
+  "surge_timestamp": "2026-05-05T08:01:07Z",
+  "total_articles": 29,
+  "defi_count": 28,
+  "ai_count": 1,
+  "defi": {
+    "perp": [
+      {
+        "id": 1480,
+        "title": "Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks",
+        "url": "https://cointelegraph.com/news/bankers-still-says-new-proposal-in-clarity-act-falls-short-of-protecting-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking",
+          "perp"
+        ]
+      },
+      {
+        "id": 1461,
+        "title": "Bitcoin short-term cost basis approaches profitability, but $80K must flip to support first",
+        "url": "https://cointelegraph.com/markets/bitcoin-eyes-80k-support-flip-with-key-holder-cost-basis-in-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "perp"
+        ]
+      }
+    ],
+    "lending": [
+      {
+        "id": 1468,
+        "title": "Aave Fights to Unfreeze $71 Million as Kelp DAO Hack Spills Into Court",
+        "url": "https://decrypt.co/366744/aave-unfreeze-71m-arbitrum-kelp-dao-hack",
+        "blog": "Decrypt",
+        "categories": [
+          "lending"
+        ]
+      },
+      {
+        "id": 1456,
+        "title": "Aave files emergency motion to lift restraining notice on frozen ETH",
+        "url": "https://cointelegraph.com/news/aave-asks-court-to-lift-restraining-notice-on-frozen-kelp-exploit-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "lending"
+        ]
+      }
+    ],
+    "banking": [
+      {
+        "id": 1482,
+        "title": "Polygon rolls out private stablecoin payments targeting institutions",
+        "url": "https://cointelegraph.com/news/polygon-rolls-out-private-payments-for-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1479,
+        "title": "Crypto Stocks: Coinbase COIN, Circle CRCL Surge: Here’s Why",
+        "url": "https://watcher.guru/news/crypto-stocks-coinbase-coin-circle-crcl-surge-heres-why",
+        "blog": "Watcher Guru",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1474,
+        "title": "Banks Stay Tight-Lipped as Senators Reveal Proposed Clarity Act Stablecoin Deal",
+        "url": "https://decrypt.co/366680/banks-stay-tight-lipped-as-senators-reveal-proposed-clarity-act-stablecoin-deal",
+        "blog": "Decrypt",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1465,
+        "title": "Polygon Launches Shielded USDC and USDT Payments",
+        "url": "https://thedefiant.io/news/blockchains/polygon-launches-shielded-usdc-and-usdt-payments",
+        "blog": "The Defiant",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1464,
+        "title": "Bitcoin bounces around $80K as Iran strike unsettles crypto, risk assets",
+        "url": "https://cointelegraph.com/markets/bitcoin-bounces-around-80k-as-iran-strike-unsettles-crypto-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1463,
+        "title": "Price predictions 5/4: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+        "url": "https://cointelegraph.com/markets/price-predictions-54-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1462,
+        "title": "Tether Gold tops $3.3B as demand for bullion-backed tokens rises",
+        "url": "https://cointelegraph.com/news/tether-gold-tops-33b-as-demand-for-bullion-backed-tokens-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      },
+      {
+        "id": 1457,
+        "title": "Western Union begins USDPT stablecoin rollout on Solana",
+        "url": "https://cointelegraph.com/news/western-union-officially-launches-usdpt-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "banking"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "id": 1484,
+        "title": "Warren Buffett Called This Investment the ‘Best in the World’",
+        "url": "https://watcher.guru/news/warren-buffett-called-this-investment-the-best-in-the-world",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1483,
+        "title": "Even RuneScape Coal Has Outperformed Ethereum In 1 Year",
+        "url": "https://watcher.guru/news/even-runescape-coal-has-outperformed-ethereum-in-1-year",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1481,
+        "title": "Haun Ventures raises $1B, adding AI to crypto focus",
+        "url": "https://cointelegraph.com/news/haun-ventures-raises-1b-crypto-ai-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1478,
+        "title": "Palantir Stock Soars on Earnings but HSBC Cuts Target to $151",
+        "url": "https://watcher.guru/news/palantir-stock-soars-on-earnings-but-hsbc-cuts-target-to-151",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1477,
+        "title": "Social Security Benefit Cap Proposal Targets $100K Annual Limit",
+        "url": "https://watcher.guru/news/social-security-benefit-cap-proposal-targets-100k-annual-limit",
+        "blog": "Watcher Guru",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1476,
+        "title": "Bitcoin-Funded ‘Satoshi Scholarship’ Opens Lomond School Doors to Global Students",
+        "url": "https://bitcoinmagazine.com/news/bitcoin-funded-satoshi-scholarship-opens",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1475,
+        "title": "Bitcoin Price Reclaims $80,000 Amid Surging ETF Demand, Positive Iran News",
+        "url": "https://bitcoinmagazine.com/markets/bitcoin-price-breaks-80000",
+        "blog": "Bitcoin Magazine",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1473,
+        "title": "Colorado Lawmakers Move to Replace Contentious AI Law With New Rules",
+        "url": "https://decrypt.co/366683/colorado-replace-contentious-ai-law-new-rules",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1472,
+        "title": "US Government Says China's Best AI Models Lag Behind. Experts Aren't So Sure",
+        "url": "https://decrypt.co/366685/us-says-china-best-ai-models-lag-behind-experts-not-sure",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1471,
+        "title": "DeepClaude Lets You Run Claude Code With DeepSeek's Brain for 17x Cheaper",
+        "url": "https://decrypt.co/366729/deepclaude-run-claude-code-deepseek-brain-17x-cheaper",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1469,
+        "title": "K-Pop Firm's Stock Plunges as It Dumps Bitcoin Treasury Plan for AI Pivot",
+        "url": "https://decrypt.co/366740/k-pop-firm-stock-plunges-dumps-bitcoin-treasury-plan-ai-pivot",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1467,
+        "title": "Someone Built an Open-Source 'Theoretical Mythos' to Reverse-Engineer Anthropic's Most Dangerous AI",
+        "url": "https://decrypt.co/366745/openmythos-claude-mythos-architecture-open-source-reconstruction",
+        "blog": "Decrypt",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1466,
+        "title": "Bitcoin Tops $80,000 As ETF Bid Returns",
+        "url": "https://thedefiant.io/news/markets/bitcoin-tops-usd80-000-as-etf-bid-returns",
+        "blog": "The Defiant",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1460,
+        "title": "DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants",
+        "url": "https://cointelegraph.com/news/dtcc-eyes-october-tokenized-securities-launch-with-dozens-of-wall-street-giants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "rwa"
+        ]
+      },
+      {
+        "id": 1459,
+        "title": "World Liberty sues Justin Sun for defamation in WLFI dispute",
+        "url": "https://cointelegraph.com/news/trump-linked-wlfi-platform-sues-justin-sun-for-defamation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      },
+      {
+        "id": 1458,
+        "title": "Bitcoin turns risk on as stocks hit new highs and miner profits rise: Is $85K BTC next?",
+        "url": "https://cointelegraph.com/markets/bitcoin-turns-risk-on-as-stocks-hit-new-highs-and-miner-profits-rise-is-85k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "blog": "CoinTelegraph",
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "ai": [
+    {
+      "id": 1470,
+      "title": "Haun Ventures Raises $1 Billion Fund for the Intersection of Crypto and AI Agents",
+      "url": "https://decrypt.co/366728/haun-ventures-raises-1-billion-fund-intersection-crypto-tech-ai-agents",
+      "blog": "Decrypt",
+      "categories": [
+        "ai"
+      ]
+    }
+  ]
+}
